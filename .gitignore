@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# Personal figures stay on this computer only
+data/private/

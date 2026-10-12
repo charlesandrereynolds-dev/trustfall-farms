@@ -1,0 +1,1465 @@
+scenario,week,season,channel,product,qty,unit,revenue
+plan,2027-04-05,1,Farm direct,Eggs,4.55,dozen,31.85
+plan,2027-04-12,1,Farm direct,Eggs,4.55,dozen,31.85
+plan,2027-04-19,1,Farm direct,Eggs,4.55,dozen,31.85
+plan,2027-04-26,1,Farm direct,Eggs,4.55,dozen,31.85
+plan,2027-05-03,1,Farm direct,Eggs,5.06,dozen,35.44
+plan,2027-05-10,1,Farm direct,Eggs,5.06,dozen,35.44
+plan,2027-05-17,1,Farm direct,Eggs,5.06,dozen,35.44
+plan,2027-05-24,1,Farm direct,Eggs,5.06,dozen,35.44
+plan,2027-05-31,1,Farm direct,Eggs,5.06,dozen,35.44
+plan,2027-06-07,1,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2027-06-07,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-06-07,1,Yreka Farmers Market,Produce,14.66,$,14.66
+plan,2027-06-07,1,Yreka Farmers Market,Cottage foods,2.84,$,2.84
+plan,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Produce,24.44,$,24.44
+plan,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,4.73,$,4.73
+plan,2027-06-14,1,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2027-06-14,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-06-14,1,Yreka Farmers Market,Produce,24.86,$,24.86
+plan,2027-06-14,1,Yreka Farmers Market,Cottage foods,3.35,$,3.35
+plan,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Produce,41.43,$,41.43
+plan,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,5.58,$,5.58
+plan,2027-06-21,1,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2027-06-21,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-06-21,1,Yreka Farmers Market,Produce,39.86,$,39.86
+plan,2027-06-21,1,Yreka Farmers Market,Cottage foods,4.1,$,4.1
+plan,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Produce,66.43,$,66.43
+plan,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,6.83,$,6.83
+plan,2027-06-28,1,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2027-06-28,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-06-28,1,Yreka Farmers Market,Produce,60.46,$,60.46
+plan,2027-06-28,1,Yreka Farmers Market,Cottage foods,5.13,$,5.13
+plan,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Produce,100.76,$,100.76
+plan,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,8.55,$,8.55
+plan,2027-07-05,1,Yreka Farmers Market,Eggs,2.18,dozen,15.28
+plan,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.64,dozen,25.47
+plan,2027-07-05,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-07-05,1,Yreka Farmers Market,Produce,86.75,$,86.75
+plan,2027-07-05,1,Yreka Farmers Market,Cottage foods,6.41,$,6.41
+plan,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Produce,144.59,$,144.59
+plan,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.69,$,10.69
+plan,2027-07-12,1,Yreka Farmers Market,Eggs,2.18,dozen,15.28
+plan,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.64,dozen,25.47
+plan,2027-07-12,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-07-12,1,Yreka Farmers Market,Produce,117.76,$,117.76
+plan,2027-07-12,1,Yreka Farmers Market,Cottage foods,7.96,$,7.96
+plan,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Produce,196.26,$,196.26
+plan,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,13.27,$,13.27
+plan,2027-07-19,1,Yreka Farmers Market,Eggs,2.18,dozen,15.28
+plan,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.64,dozen,25.47
+plan,2027-07-19,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-07-19,1,Yreka Farmers Market,Produce,151.2,$,151.2
+plan,2027-07-19,1,Yreka Farmers Market,Cottage foods,9.64,$,9.64
+plan,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Produce,252.01,$,252.01
+plan,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,16.06,$,16.06
+plan,2027-07-26,1,Yreka Farmers Market,Eggs,2.18,dozen,15.28
+plan,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.64,dozen,25.47
+plan,2027-07-26,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-07-26,1,Yreka Farmers Market,Produce,183.66,$,183.66
+plan,2027-07-26,1,Yreka Farmers Market,Cottage foods,11.26,$,11.26
+plan,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Produce,306.1,$,306.1
+plan,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,18.77,$,18.77
+plan,2027-08-02,1,Yreka Farmers Market,Eggs,1.96,dozen,13.74
+plan,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.27,dozen,22.89
+plan,2027-08-02,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-08-02,1,Yreka Farmers Market,Produce,211.02,$,211.02
+plan,2027-08-02,1,Yreka Farmers Market,Cottage foods,12.55,$,12.55
+plan,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Produce,351.7,$,351.7
+plan,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,20.92,$,20.92
+plan,2027-08-09,1,Yreka Farmers Market,Eggs,1.96,dozen,13.74
+plan,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.27,dozen,22.89
+plan,2027-08-09,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-08-09,1,Yreka Farmers Market,Produce,229.36,$,229.36
+plan,2027-08-09,1,Yreka Farmers Market,Cottage foods,13.47,$,13.47
+plan,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Produce,382.27,$,382.27
+plan,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,22.45,$,22.45
+plan,2027-08-16,1,Yreka Farmers Market,Eggs,1.96,dozen,13.74
+plan,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.27,dozen,22.89
+plan,2027-08-16,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-08-16,1,Yreka Farmers Market,Produce,235.82,$,235.82
+plan,2027-08-16,1,Yreka Farmers Market,Cottage foods,13.79,$,13.79
+plan,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Produce,393.04,$,393.04
+plan,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,22.98,$,22.98
+plan,2027-08-23,1,Yreka Farmers Market,Eggs,1.96,dozen,13.74
+plan,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.27,dozen,22.89
+plan,2027-08-23,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-08-23,1,Yreka Farmers Market,Produce,229.36,$,229.36
+plan,2027-08-23,1,Yreka Farmers Market,Cottage foods,13.47,$,13.47
+plan,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Produce,382.27,$,382.27
+plan,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,22.45,$,22.45
+plan,2027-08-30,1,Yreka Farmers Market,Eggs,1.96,dozen,13.74
+plan,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.27,dozen,22.89
+plan,2027-08-30,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-08-30,1,Yreka Farmers Market,Produce,211.02,$,211.02
+plan,2027-08-30,1,Yreka Farmers Market,Cottage foods,12.55,$,12.55
+plan,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Produce,351.7,$,351.7
+plan,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,20.92,$,20.92
+plan,2027-09-06,1,Yreka Farmers Market,Eggs,1.66,dozen,11.62
+plan,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.77,dozen,19.37
+plan,2027-09-06,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-09-06,1,Yreka Farmers Market,Produce,183.66,$,183.66
+plan,2027-09-06,1,Yreka Farmers Market,Cottage foods,11.08,$,11.08
+plan,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Produce,306.1,$,306.1
+plan,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,18.46,$,18.46
+plan,2027-09-13,1,Yreka Farmers Market,Eggs,1.66,dozen,11.62
+plan,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.77,dozen,19.37
+plan,2027-09-13,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-09-13,1,Yreka Farmers Market,Produce,151.2,$,151.2
+plan,2027-09-13,1,Yreka Farmers Market,Cottage foods,9.45,$,9.45
+plan,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Produce,252.01,$,252.01
+plan,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,15.76,$,15.76
+plan,2027-09-20,1,Yreka Farmers Market,Eggs,1.66,dozen,11.62
+plan,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.77,dozen,19.37
+plan,2027-09-20,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-09-20,1,Yreka Farmers Market,Produce,117.76,$,117.76
+plan,2027-09-20,1,Yreka Farmers Market,Cottage foods,7.78,$,7.78
+plan,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Produce,196.26,$,196.26
+plan,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,12.97,$,12.97
+plan,2027-09-27,1,Yreka Farmers Market,Eggs,1.66,dozen,11.62
+plan,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.77,dozen,19.37
+plan,2027-09-27,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-09-27,1,Yreka Farmers Market,Produce,86.75,$,86.75
+plan,2027-09-27,1,Yreka Farmers Market,Cottage foods,6.23,$,6.23
+plan,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Produce,144.59,$,144.59
+plan,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.39,$,10.39
+plan,2027-10-04,1,Yreka Farmers Market,Eggs,1.36,dozen,9.51
+plan,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.26,dozen,15.85
+plan,2027-10-04,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-10-04,1,Yreka Farmers Market,Produce,60.46,$,60.46
+plan,2027-10-04,1,Yreka Farmers Market,Cottage foods,4.81,$,4.81
+plan,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Produce,100.76,$,100.76
+plan,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,8.02,$,8.02
+plan,2027-10-11,1,Yreka Farmers Market,Eggs,1.36,dozen,9.51
+plan,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.26,dozen,15.85
+plan,2027-10-11,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-10-11,1,Yreka Farmers Market,Produce,39.86,$,39.86
+plan,2027-10-11,1,Yreka Farmers Market,Cottage foods,3.78,$,3.78
+plan,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Produce,66.43,$,66.43
+plan,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,6.3,$,6.3
+plan,2027-10-18,1,Yreka Farmers Market,Eggs,1.36,dozen,9.51
+plan,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.26,dozen,15.85
+plan,2027-10-18,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-10-18,1,Yreka Farmers Market,Produce,24.86,$,24.86
+plan,2027-10-18,1,Yreka Farmers Market,Cottage foods,3.03,$,3.03
+plan,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Produce,41.43,$,41.43
+plan,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,5.05,$,5.05
+plan,2027-10-25,1,Yreka Farmers Market,Eggs,1.36,dozen,9.51
+plan,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.26,dozen,15.85
+plan,2027-10-25,1,Yreka Farmers Market,Rabbit,2.19,lb,26.25
+plan,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.65,lb,43.75
+plan,2027-10-25,1,Yreka Farmers Market,Produce,14.66,$,14.66
+plan,2027-10-25,1,Yreka Farmers Market,Cottage foods,2.52,$,2.52
+plan,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Produce,24.44,$,24.44
+plan,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,4.2,$,4.2
+plan,2027-11-01,1,Farm direct,Eggs,2.64,dozen,18.46
+plan,2027-11-01,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-11-08,1,Farm direct,Eggs,2.64,dozen,18.46
+plan,2027-11-08,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-11-15,1,Farm direct,Eggs,2.64,dozen,18.46
+plan,2027-11-15,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-11-22,1,Farm direct,Eggs,2.64,dozen,18.46
+plan,2027-11-22,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-11-29,1,Farm direct,Eggs,2.64,dozen,18.46
+plan,2027-11-29,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-12-06,1,Farm direct,Eggs,2.45,dozen,17.15
+plan,2027-12-06,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-12-13,1,Farm direct,Eggs,2.45,dozen,17.15
+plan,2027-12-13,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-12-20,1,Farm direct,Eggs,2.45,dozen,17.15
+plan,2027-12-20,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2027-12-27,1,Farm direct,Eggs,2.45,dozen,17.15
+plan,2027-12-27,1,Farm direct,Rabbit,4.38,lb,52.5
+plan,2028-01-10,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-01-10,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-01-17,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-01-17,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-01-24,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-01-24,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-01-31,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-01-31,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-02-07,2,Farm direct,Eggs,5.25,dozen,36.75
+plan,2028-02-07,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-02-14,2,Farm direct,Eggs,5.25,dozen,36.75
+plan,2028-02-14,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-02-21,2,Farm direct,Eggs,5.25,dozen,36.75
+plan,2028-02-21,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-02-28,2,Farm direct,Eggs,5.25,dozen,36.75
+plan,2028-02-28,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-03-06,2,Farm direct,Eggs,6.42,dozen,44.92
+plan,2028-03-06,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-03-13,2,Farm direct,Eggs,6.42,dozen,44.92
+plan,2028-03-13,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-03-20,2,Farm direct,Eggs,6.42,dozen,44.92
+plan,2028-03-20,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-03-27,2,Farm direct,Eggs,6.42,dozen,44.92
+plan,2028-03-27,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-04-03,2,Farm direct,Eggs,7.58,dozen,53.08
+plan,2028-04-03,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-04-10,2,Farm direct,Eggs,7.58,dozen,53.08
+plan,2028-04-10,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-04-17,2,Farm direct,Eggs,7.58,dozen,53.08
+plan,2028-04-17,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-04-24,2,Farm direct,Eggs,7.58,dozen,53.08
+plan,2028-04-24,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-05-01,2,Farm direct,Eggs,8.44,dozen,59.06
+plan,2028-05-01,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-05-08,2,Farm direct,Eggs,8.44,dozen,59.06
+plan,2028-05-08,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-05-15,2,Farm direct,Eggs,8.44,dozen,59.06
+plan,2028-05-15,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-05-22,2,Farm direct,Eggs,8.44,dozen,59.06
+plan,2028-05-22,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-05-29,2,Farm direct,Eggs,8.44,dozen,59.06
+plan,2028-05-29,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-06-05,2,Yreka Farmers Market,Eggs,3.77,dozen,26.41
+plan,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.29,dozen,44.02
+plan,2028-06-05,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-06-05,2,Yreka Farmers Market,Produce,22.47,$,22.47
+plan,2028-06-05,2,Yreka Farmers Market,Cottage foods,4.95,$,4.95
+plan,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Produce,37.46,$,37.46
+plan,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,8.25,$,8.25
+plan,2028-06-12,2,Yreka Farmers Market,Eggs,3.77,dozen,26.41
+plan,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.29,dozen,44.02
+plan,2028-06-12,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-06-12,2,Yreka Farmers Market,Produce,38.1,$,38.1
+plan,2028-06-12,2,Yreka Farmers Market,Cottage foods,5.73,$,5.73
+plan,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Produce,63.5,$,63.5
+plan,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,9.55,$,9.55
+plan,2028-06-19,2,Yreka Farmers Market,Eggs,3.77,dozen,26.41
+plan,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.29,dozen,44.02
+plan,2028-06-19,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-06-19,2,Yreka Farmers Market,Produce,61.09,$,61.09
+plan,2028-06-19,2,Yreka Farmers Market,Cottage foods,6.88,$,6.88
+plan,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Produce,101.82,$,101.82
+plan,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,11.47,$,11.47
+plan,2028-06-26,2,Yreka Farmers Market,Eggs,3.77,dozen,26.41
+plan,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.29,dozen,44.02
+plan,2028-06-26,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-06-26,2,Yreka Farmers Market,Produce,92.67,$,92.67
+plan,2028-06-26,2,Yreka Farmers Market,Cottage foods,8.46,$,8.46
+plan,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Produce,154.45,$,154.45
+plan,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,14.1,$,14.1
+plan,2028-07-03,2,Yreka Farmers Market,Eggs,3.64,dozen,25.47
+plan,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.06,dozen,42.45
+plan,2028-07-03,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-07-03,2,Yreka Farmers Market,Produce,132.98,$,132.98
+plan,2028-07-03,2,Yreka Farmers Market,Cottage foods,10.43,$,10.43
+plan,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Produce,221.63,$,221.63
+plan,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,17.38,$,17.38
+plan,2028-07-10,2,Yreka Farmers Market,Eggs,3.64,dozen,25.47
+plan,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.06,dozen,42.45
+plan,2028-07-10,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-07-10,2,Yreka Farmers Market,Produce,180.5,$,180.5
+plan,2028-07-10,2,Yreka Farmers Market,Cottage foods,12.8,$,12.8
+plan,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Produce,300.83,$,300.83
+plan,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,21.34,$,21.34
+plan,2028-07-17,2,Yreka Farmers Market,Eggs,3.64,dozen,25.47
+plan,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.06,dozen,42.45
+plan,2028-07-17,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-07-17,2,Yreka Farmers Market,Produce,231.77,$,231.77
+plan,2028-07-17,2,Yreka Farmers Market,Cottage foods,15.37,$,15.37
+plan,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Produce,386.28,$,386.28
+plan,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,25.61,$,25.61
+plan,2028-07-24,2,Yreka Farmers Market,Eggs,3.64,dozen,25.47
+plan,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.06,dozen,42.45
+plan,2028-07-24,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-07-24,2,Yreka Farmers Market,Produce,281.51,$,281.51
+plan,2028-07-24,2,Yreka Farmers Market,Cottage foods,17.85,$,17.85
+plan,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Produce,469.19,$,469.19
+plan,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,29.76,$,29.76
+plan,2028-07-31,2,Yreka Farmers Market,Eggs,3.64,dozen,25.47
+plan,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.06,dozen,42.45
+plan,2028-07-31,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-07-31,2,Yreka Farmers Market,Produce,323.46,$,323.46
+plan,2028-07-31,2,Yreka Farmers Market,Cottage foods,19.95,$,19.95
+plan,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Produce,539.09,$,539.09
+plan,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,33.25,$,33.25
+plan,2028-08-07,2,Yreka Farmers Market,Eggs,3.27,dozen,22.89
+plan,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.45,dozen,38.15
+plan,2028-08-07,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-08-07,2,Yreka Farmers Market,Produce,351.57,$,351.57
+plan,2028-08-07,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-08-07,2,Yreka Farmers Market,Cottage foods,22.98,$,22.98
+plan,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Produce,585.94,$,585.94
+plan,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,38.3,$,38.3
+plan,2028-08-14,2,Yreka Farmers Market,Eggs,3.27,dozen,22.89
+plan,2028-08-14,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.45,dozen,38.15
+plan,2028-08-14,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-08-14,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-08-14,2,Yreka Farmers Market,Produce,361.47,$,361.47
+plan,2028-08-14,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-08-14,2,Yreka Farmers Market,Cottage foods,23.47,$,23.47
+plan,2028-08-14,2,Rogue Valley Growers & Crafters (Saturday),Produce,602.45,$,602.45
+plan,2028-08-14,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-08-14,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,39.12,$,39.12
+plan,2028-08-21,2,Yreka Farmers Market,Eggs,3.27,dozen,22.89
+plan,2028-08-21,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.45,dozen,38.15
+plan,2028-08-21,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-08-21,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-08-21,2,Yreka Farmers Market,Produce,351.57,$,351.57
+plan,2028-08-21,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-08-21,2,Yreka Farmers Market,Cottage foods,22.98,$,22.98
+plan,2028-08-21,2,Rogue Valley Growers & Crafters (Saturday),Produce,585.94,$,585.94
+plan,2028-08-21,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-08-21,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,38.3,$,38.3
+plan,2028-08-28,2,Yreka Farmers Market,Eggs,3.27,dozen,22.89
+plan,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.45,dozen,38.15
+plan,2028-08-28,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-08-28,2,Yreka Farmers Market,Produce,323.46,$,323.46
+plan,2028-08-28,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-08-28,2,Yreka Farmers Market,Cottage foods,21.57,$,21.57
+plan,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Produce,539.09,$,539.09
+plan,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,35.96,$,35.96
+plan,2028-09-04,2,Yreka Farmers Market,Eggs,2.77,dozen,19.37
+plan,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.61,dozen,32.28
+plan,2028-09-04,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-09-04,2,Yreka Farmers Market,Produce,281.51,$,281.51
+plan,2028-09-04,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-09-04,2,Yreka Farmers Market,Cottage foods,19.3,$,19.3
+plan,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Produce,469.19,$,469.19
+plan,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,32.17,$,32.17
+plan,2028-09-11,2,Yreka Farmers Market,Eggs,2.77,dozen,19.37
+plan,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.61,dozen,32.28
+plan,2028-09-11,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-09-11,2,Yreka Farmers Market,Produce,231.77,$,231.77
+plan,2028-09-11,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-09-11,2,Yreka Farmers Market,Cottage foods,16.81,$,16.81
+plan,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Produce,386.28,$,386.28
+plan,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,28.02,$,28.02
+plan,2028-09-18,2,Yreka Farmers Market,Eggs,2.77,dozen,19.37
+plan,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.61,dozen,32.28
+plan,2028-09-18,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-09-18,2,Yreka Farmers Market,Produce,180.5,$,180.5
+plan,2028-09-18,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-09-18,2,Yreka Farmers Market,Cottage foods,14.25,$,14.25
+plan,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Produce,300.83,$,300.83
+plan,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,23.75,$,23.75
+plan,2028-09-25,2,Yreka Farmers Market,Eggs,2.77,dozen,19.37
+plan,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.61,dozen,32.28
+plan,2028-09-25,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-09-25,2,Yreka Farmers Market,Produce,132.98,$,132.98
+plan,2028-09-25,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-09-25,2,Yreka Farmers Market,Cottage foods,11.87,$,11.87
+plan,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Produce,221.63,$,221.63
+plan,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,19.79,$,19.79
+plan,2028-10-02,2,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2028-10-02,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-10-02,2,Yreka Farmers Market,Produce,92.67,$,92.67
+plan,2028-10-02,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-10-02,2,Yreka Farmers Market,Cottage foods,9.68,$,9.68
+plan,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Produce,154.45,$,154.45
+plan,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,16.14,$,16.14
+plan,2028-10-09,2,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2028-10-09,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-10-09,2,Yreka Farmers Market,Produce,61.09,$,61.09
+plan,2028-10-09,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-10-09,2,Yreka Farmers Market,Cottage foods,8.1,$,8.1
+plan,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Produce,101.82,$,101.82
+plan,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,13.5,$,13.5
+plan,2028-10-16,2,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2028-10-16,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-10-16,2,Yreka Farmers Market,Produce,38.1,$,38.1
+plan,2028-10-16,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-10-16,2,Yreka Farmers Market,Cottage foods,6.95,$,6.95
+plan,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Produce,63.5,$,63.5
+plan,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,11.59,$,11.59
+plan,2028-10-23,2,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2028-10-23,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-10-23,2,Yreka Farmers Market,Produce,22.47,$,22.47
+plan,2028-10-23,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-10-23,2,Yreka Farmers Market,Cottage foods,6.17,$,6.17
+plan,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Produce,37.46,$,37.46
+plan,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.29,$,10.29
+plan,2028-10-30,2,Yreka Farmers Market,Eggs,2.26,dozen,15.85
+plan,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.77,dozen,26.41
+plan,2028-10-30,2,Yreka Farmers Market,Rabbit,4.18,lb,50.11
+plan,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.96,lb,83.52
+plan,2028-10-30,2,Yreka Farmers Market,Produce,12.54,$,12.54
+plan,2028-10-30,2,Yreka Farmers Market,Honey,2.5,lb,35.0
+plan,2028-10-30,2,Yreka Farmers Market,Cottage foods,5.68,$,5.68
+plan,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Produce,20.9,$,20.9
+plan,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.17,lb,58.33
+plan,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,9.46,$,9.46
+plan,2028-11-06,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-11-06,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-11-13,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-11-13,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-11-20,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-11-20,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-11-27,2,Farm direct,Eggs,4.4,dozen,30.77
+plan,2028-11-27,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-12-04,2,Farm direct,Eggs,4.08,dozen,28.58
+plan,2028-12-04,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-12-11,2,Farm direct,Eggs,4.08,dozen,28.58
+plan,2028-12-11,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-12-18,2,Farm direct,Eggs,4.08,dozen,28.58
+plan,2028-12-18,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2028-12-25,2,Farm direct,Eggs,4.08,dozen,28.58
+plan,2028-12-25,2,Farm direct,Rabbit,8.75,lb,105.0
+plan,2029-01-08,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-01-08,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-01-15,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-01-15,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-01-22,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-01-22,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-01-29,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-01-29,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-02-05,3,Farm direct,Eggs,6.3,dozen,44.1
+plan,2029-02-05,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-02-12,3,Farm direct,Eggs,6.3,dozen,44.1
+plan,2029-02-12,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-02-19,3,Farm direct,Eggs,6.3,dozen,44.1
+plan,2029-02-19,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-02-26,3,Farm direct,Eggs,6.3,dozen,44.1
+plan,2029-02-26,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-03-05,3,Farm direct,Eggs,7.7,dozen,53.9
+plan,2029-03-05,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-03-12,3,Farm direct,Eggs,7.7,dozen,53.9
+plan,2029-03-12,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-03-19,3,Farm direct,Eggs,7.7,dozen,53.9
+plan,2029-03-19,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-03-26,3,Farm direct,Eggs,7.7,dozen,53.9
+plan,2029-03-26,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-04-02,3,Farm direct,Eggs,9.1,dozen,63.7
+plan,2029-04-02,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-04-09,3,Farm direct,Eggs,9.1,dozen,63.7
+plan,2029-04-09,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-04-16,3,Farm direct,Eggs,9.1,dozen,63.7
+plan,2029-04-16,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-04-23,3,Farm direct,Eggs,9.1,dozen,63.7
+plan,2029-04-23,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-04-30,3,Farm direct,Eggs,9.1,dozen,63.7
+plan,2029-04-30,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-05-07,3,Farm direct,Eggs,10.12,dozen,70.87
+plan,2029-05-07,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-05-14,3,Farm direct,Eggs,10.12,dozen,70.87
+plan,2029-05-14,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-05-21,3,Farm direct,Eggs,10.12,dozen,70.87
+plan,2029-05-21,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-05-28,3,Farm direct,Eggs,10.12,dozen,70.87
+plan,2029-05-28,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-06-04,3,Yreka Farmers Market,Eggs,4.53,dozen,31.7
+plan,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.55,dozen,52.83
+plan,2029-06-04,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-06-04,3,Yreka Farmers Market,Produce,25.69,$,25.69
+plan,2029-06-04,3,Yreka Farmers Market,Cottage foods,6.09,$,6.09
+plan,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Produce,42.81,$,42.81
+plan,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.15,$,10.15
+plan,2029-06-11,3,Yreka Farmers Market,Eggs,4.53,dozen,31.7
+plan,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.55,dozen,52.83
+plan,2029-06-11,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-06-11,3,Yreka Farmers Market,Produce,43.54,$,43.54
+plan,2029-06-11,3,Yreka Farmers Market,Cottage foods,6.98,$,6.98
+plan,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Produce,72.57,$,72.57
+plan,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,11.64,$,11.64
+plan,2029-06-18,3,Yreka Farmers Market,Eggs,4.53,dozen,31.7
+plan,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.55,dozen,52.83
+plan,2029-06-18,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-06-18,3,Yreka Farmers Market,Produce,69.82,$,69.82
+plan,2029-06-18,3,Yreka Farmers Market,Cottage foods,8.3,$,8.3
+plan,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Produce,116.37,$,116.37
+plan,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,13.83,$,13.83
+plan,2029-06-25,3,Yreka Farmers Market,Eggs,4.53,dozen,31.7
+plan,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.55,dozen,52.83
+plan,2029-06-25,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-06-25,3,Yreka Farmers Market,Produce,105.91,$,105.91
+plan,2029-06-25,3,Yreka Farmers Market,Cottage foods,10.1,$,10.1
+plan,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Produce,176.52,$,176.52
+plan,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,16.84,$,16.84
+plan,2029-07-02,3,Yreka Farmers Market,Eggs,4.37,dozen,30.56
+plan,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.28,dozen,50.94
+plan,2029-07-02,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-07-02,3,Yreka Farmers Market,Produce,151.97,$,151.97
+plan,2029-07-02,3,Yreka Farmers Market,Cottage foods,12.35,$,12.35
+plan,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Produce,253.29,$,253.29
+plan,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,20.58,$,20.58
+plan,2029-07-09,3,Yreka Farmers Market,Eggs,4.37,dozen,30.56
+plan,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.28,dozen,50.94
+plan,2029-07-09,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-07-09,3,Yreka Farmers Market,Produce,206.29,$,206.29
+plan,2029-07-09,3,Yreka Farmers Market,Cottage foods,15.06,$,15.06
+plan,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Produce,343.81,$,343.81
+plan,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,25.11,$,25.11
+plan,2029-07-16,3,Yreka Farmers Market,Eggs,4.37,dozen,30.56
+plan,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.28,dozen,50.94
+plan,2029-07-16,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-07-16,3,Yreka Farmers Market,Produce,264.88,$,264.88
+plan,2029-07-16,3,Yreka Farmers Market,Cottage foods,17.99,$,17.99
+plan,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Produce,441.46,$,441.46
+plan,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,29.99,$,29.99
+plan,2029-07-23,3,Yreka Farmers Market,Eggs,4.37,dozen,30.56
+plan,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.28,dozen,50.94
+plan,2029-07-23,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-07-23,3,Yreka Farmers Market,Produce,321.73,$,321.73
+plan,2029-07-23,3,Yreka Farmers Market,Cottage foods,20.84,$,20.84
+plan,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Produce,536.21,$,536.21
+plan,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,34.73,$,34.73
+plan,2029-07-30,3,Yreka Farmers Market,Eggs,4.37,dozen,30.56
+plan,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.28,dozen,50.94
+plan,2029-07-30,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-07-30,3,Yreka Farmers Market,Produce,369.67,$,369.67
+plan,2029-07-30,3,Yreka Farmers Market,Cottage foods,23.23,$,23.23
+plan,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Produce,616.11,$,616.11
+plan,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,38.72,$,38.72
+plan,2029-08-06,3,Yreka Farmers Market,Eggs,3.92,dozen,27.47
+plan,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.54,dozen,45.78
+plan,2029-08-06,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-08-06,3,Yreka Farmers Market,Produce,401.79,$,401.79
+plan,2029-08-06,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-08-06,3,Yreka Farmers Market,Cottage foods,28.18,$,28.18
+plan,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Produce,669.65,$,669.65
+plan,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,46.97,$,46.97
+plan,2029-08-13,3,Yreka Farmers Market,Eggs,3.92,dozen,27.47
+plan,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.54,dozen,45.78
+plan,2029-08-13,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-08-13,3,Yreka Farmers Market,Produce,413.11,$,413.11
+plan,2029-08-13,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-08-13,3,Yreka Farmers Market,Cottage foods,28.75,$,28.75
+plan,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Produce,688.51,$,688.51
+plan,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,47.92,$,47.92
+plan,2029-08-20,3,Yreka Farmers Market,Eggs,3.92,dozen,27.47
+plan,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.54,dozen,45.78
+plan,2029-08-20,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-08-20,3,Yreka Farmers Market,Produce,401.79,$,401.79
+plan,2029-08-20,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-08-20,3,Yreka Farmers Market,Cottage foods,28.18,$,28.18
+plan,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Produce,669.65,$,669.65
+plan,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,46.97,$,46.97
+plan,2029-08-27,3,Yreka Farmers Market,Eggs,3.92,dozen,27.47
+plan,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.54,dozen,45.78
+plan,2029-08-27,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-08-27,3,Yreka Farmers Market,Produce,369.67,$,369.67
+plan,2029-08-27,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-08-27,3,Yreka Farmers Market,Cottage foods,26.58,$,26.58
+plan,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Produce,616.11,$,616.11
+plan,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,44.3,$,44.3
+plan,2029-09-03,3,Yreka Farmers Market,Eggs,3.32,dozen,23.24
+plan,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Eggs,5.53,dozen,38.74
+plan,2029-09-03,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-09-03,3,Yreka Farmers Market,Produce,321.73,$,321.73
+plan,2029-09-03,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-09-03,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-09-03,3,Yreka Farmers Market,Cottage foods,25.22,$,25.22
+plan,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Produce,536.21,$,536.21
+plan,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,42.03,$,42.03
+plan,2029-09-10,3,Yreka Farmers Market,Eggs,3.32,dozen,23.24
+plan,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Eggs,5.53,dozen,38.74
+plan,2029-09-10,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-09-10,3,Yreka Farmers Market,Produce,264.88,$,264.88
+plan,2029-09-10,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-09-10,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-09-10,3,Yreka Farmers Market,Cottage foods,22.38,$,22.38
+plan,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Produce,441.46,$,441.46
+plan,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,37.3,$,37.3
+plan,2029-09-17,3,Yreka Farmers Market,Eggs,3.32,dozen,23.24
+plan,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Eggs,5.53,dozen,38.74
+plan,2029-09-17,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-09-17,3,Yreka Farmers Market,Produce,206.29,$,206.29
+plan,2029-09-17,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-09-17,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-09-17,3,Yreka Farmers Market,Cottage foods,19.45,$,19.45
+plan,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Produce,343.81,$,343.81
+plan,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,32.41,$,32.41
+plan,2029-09-24,3,Yreka Farmers Market,Eggs,3.32,dozen,23.24
+plan,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Eggs,5.53,dozen,38.74
+plan,2029-09-24,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-09-24,3,Yreka Farmers Market,Produce,151.97,$,151.97
+plan,2029-09-24,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-09-24,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-09-24,3,Yreka Farmers Market,Cottage foods,16.73,$,16.73
+plan,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Produce,253.29,$,253.29
+plan,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,27.89,$,27.89
+plan,2029-10-01,3,Yreka Farmers Market,Eggs,2.72,dozen,19.02
+plan,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.53,dozen,31.7
+plan,2029-10-01,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-10-01,3,Yreka Farmers Market,Produce,105.91,$,105.91
+plan,2029-10-01,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-10-01,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-10-01,3,Yreka Farmers Market,Cottage foods,14.22,$,14.22
+plan,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Produce,176.52,$,176.52
+plan,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,23.7,$,23.7
+plan,2029-10-08,3,Yreka Farmers Market,Eggs,2.72,dozen,19.02
+plan,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.53,dozen,31.7
+plan,2029-10-08,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-10-08,3,Yreka Farmers Market,Produce,69.82,$,69.82
+plan,2029-10-08,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-10-08,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-10-08,3,Yreka Farmers Market,Cottage foods,12.41,$,12.41
+plan,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Produce,116.37,$,116.37
+plan,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,20.69,$,20.69
+plan,2029-10-15,3,Yreka Farmers Market,Eggs,2.72,dozen,19.02
+plan,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.53,dozen,31.7
+plan,2029-10-15,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-10-15,3,Yreka Farmers Market,Produce,43.54,$,43.54
+plan,2029-10-15,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-10-15,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-10-15,3,Yreka Farmers Market,Cottage foods,11.1,$,11.1
+plan,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Produce,72.57,$,72.57
+plan,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,18.5,$,18.5
+plan,2029-10-22,3,Yreka Farmers Market,Eggs,2.72,dozen,19.02
+plan,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.53,dozen,31.7
+plan,2029-10-22,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-10-22,3,Yreka Farmers Market,Produce,25.69,$,25.69
+plan,2029-10-22,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-10-22,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-10-22,3,Yreka Farmers Market,Cottage foods,10.21,$,10.21
+plan,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Produce,42.81,$,42.81
+plan,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,17.01,$,17.01
+plan,2029-10-29,3,Yreka Farmers Market,Eggs,2.72,dozen,19.02
+plan,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.53,dozen,31.7
+plan,2029-10-29,3,Yreka Farmers Market,Rabbit,5.37,lb,64.43
+plan,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.95,lb,107.39
+plan,2029-10-29,3,Yreka Farmers Market,Produce,14.33,$,14.33
+plan,2029-10-29,3,Yreka Farmers Market,Honey,5.0,lb,70.0
+plan,2029-10-29,3,Yreka Farmers Market,Orchard fruit,25.0,$,25.0
+plan,2029-10-29,3,Yreka Farmers Market,Cottage foods,9.64,$,9.64
+plan,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Produce,23.89,$,23.89
+plan,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.67
+plan,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.67,$,41.67
+plan,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,16.07,$,16.07
+plan,2029-11-05,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-11-05,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-11-12,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-11-12,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-11-19,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-11-19,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-11-26,3,Farm direct,Eggs,5.28,dozen,36.93
+plan,2029-11-26,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-12-03,3,Farm direct,Eggs,4.9,dozen,34.3
+plan,2029-12-03,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-12-10,3,Farm direct,Eggs,4.9,dozen,34.3
+plan,2029-12-10,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-12-17,3,Farm direct,Eggs,4.9,dozen,34.3
+plan,2029-12-17,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-12-24,3,Farm direct,Eggs,4.9,dozen,34.3
+plan,2029-12-24,3,Farm direct,Rabbit,11.25,lb,135.0
+plan,2029-12-31,3,Farm direct,Eggs,4.9,dozen,34.3
+plan,2029-12-31,3,Farm direct,Rabbit,11.25,lb,135.0
+actual,2027-04-05,1,Farm direct,Eggs,4.61,dozen,32.28
+actual,2027-04-12,1,Farm direct,Eggs,4.5,dozen,31.53
+actual,2027-04-19,1,Farm direct,Eggs,4.13,dozen,28.92
+actual,2027-04-26,1,Farm direct,Eggs,3.51,dozen,24.6
+actual,2027-05-03,1,Farm direct,Eggs,5.85,dozen,40.98
+actual,2027-05-10,1,Farm direct,Eggs,4.78,dozen,33.45
+actual,2027-05-17,1,Farm direct,Eggs,4.95,dozen,34.62
+actual,2027-05-24,1,Farm direct,Eggs,4.55,dozen,31.88
+actual,2027-05-31,1,Farm direct,Eggs,4.72,dozen,33.04
+actual,2027-06-07,1,Yreka Farmers Market,Eggs,2.0,dozen,13.98
+actual,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.33,dozen,23.3
+actual,2027-06-07,1,Yreka Farmers Market,Rabbit,2.17,lb,26.02
+actual,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.69,lb,44.33
+actual,2027-06-07,1,Yreka Farmers Market,Produce,10.88,$,10.88
+actual,2027-06-07,1,Yreka Farmers Market,Cottage foods,2.73,$,2.73
+actual,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Produce,17.5,$,17.5
+actual,2027-06-07,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,4.75,$,4.75
+actual,2027-06-14,1,Yreka Farmers Market,Eggs,2.01,dozen,14.06
+actual,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.35,dozen,23.43
+actual,2027-06-14,1,Yreka Farmers Market,Rabbit,2.08,lb,24.98
+actual,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.27,lb,39.26
+actual,2027-06-14,1,Yreka Farmers Market,Produce,17.84,$,17.84
+actual,2027-06-14,1,Yreka Farmers Market,Cottage foods,2.69,$,2.69
+actual,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Produce,37.22,$,37.22
+actual,2027-06-14,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,6.68,$,6.68
+actual,2027-06-21,1,Yreka Farmers Market,Eggs,2.0,dozen,14.02
+actual,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.34,dozen,23.37
+actual,2027-06-21,1,Yreka Farmers Market,Rabbit,2.15,lb,25.82
+actual,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,2.84,lb,34.11
+actual,2027-06-21,1,Yreka Farmers Market,Produce,30.09,$,30.09
+actual,2027-06-21,1,Yreka Farmers Market,Cottage foods,3.57,$,3.57
+actual,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Produce,65.6,$,65.6
+actual,2027-06-21,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,7.33,$,7.33
+actual,2027-06-28,1,Yreka Farmers Market,Eggs,2.46,dozen,17.23
+actual,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Eggs,4.1,dozen,28.71
+actual,2027-06-28,1,Yreka Farmers Market,Rabbit,2.25,lb,26.95
+actual,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.87,lb,46.38
+actual,2027-06-28,1,Yreka Farmers Market,Produce,43.92,$,43.92
+actual,2027-06-28,1,Yreka Farmers Market,Cottage foods,5.83,$,5.83
+actual,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Produce,82.44,$,82.44
+actual,2027-06-28,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,6.77,$,6.77
+actual,2027-07-05,1,Yreka Farmers Market,Eggs,2.15,dozen,15.03
+actual,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.58,dozen,25.06
+actual,2027-07-05,1,Yreka Farmers Market,Rabbit,2.84,lb,34.1
+actual,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.94,lb,47.28
+actual,2027-07-05,1,Yreka Farmers Market,Produce,79.52,$,79.52
+actual,2027-07-05,1,Yreka Farmers Market,Cottage foods,7.45,$,7.45
+actual,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Produce,127.92,$,127.92
+actual,2027-07-05,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,8.2,$,8.2
+actual,2027-07-12,1,Yreka Farmers Market,Eggs,2.37,dozen,16.61
+actual,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.96,dozen,27.69
+actual,2027-07-12,1,Yreka Farmers Market,Rabbit,2.02,lb,24.2
+actual,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.2,lb,38.39
+actual,2027-07-12,1,Yreka Farmers Market,Produce,76.44,$,76.44
+actual,2027-07-12,1,Yreka Farmers Market,Cottage foods,4.95,$,4.95
+actual,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Produce,161.28,$,161.28
+actual,2027-07-12,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,11.54,$,11.54
+actual,2027-07-19,1,Yreka Farmers Market,Eggs,1.88,dozen,13.16
+actual,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.13,dozen,21.94
+actual,2027-07-19,1,Yreka Farmers Market,Rabbit,1.92,lb,23.09
+actual,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.4,lb,40.86
+actual,2027-07-19,1,Yreka Farmers Market,Produce,106.41,$,106.41
+actual,2027-07-19,1,Yreka Farmers Market,Cottage foods,6.45,$,6.45
+actual,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Produce,183.68,$,183.68
+actual,2027-07-19,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,11.18,$,11.18
+actual,2027-07-26,1,Yreka Farmers Market,Eggs,1.64,dozen,11.51
+actual,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.74,dozen,19.18
+actual,2027-07-26,1,Yreka Farmers Market,Rabbit,2.15,lb,25.82
+actual,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.41,lb,40.98
+actual,2027-07-26,1,Yreka Farmers Market,Produce,143.07,$,143.07
+actual,2027-07-26,1,Yreka Farmers Market,Cottage foods,9.24,$,9.24
+actual,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Produce,216.2,$,216.2
+actual,2027-07-26,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,15.86,$,15.86
+actual,2027-08-02,1,Yreka Farmers Market,Eggs,2.13,dozen,14.93
+actual,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.55,dozen,24.88
+actual,2027-08-02,1,Yreka Farmers Market,Rabbit,2.35,lb,28.25
+actual,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.35,lb,40.14
+actual,2027-08-02,1,Yreka Farmers Market,Produce,165.9,$,165.9
+actual,2027-08-02,1,Yreka Farmers Market,Cottage foods,9.97,$,9.97
+actual,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Produce,329.98,$,329.98
+actual,2027-08-02,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,18.44,$,18.44
+actual,2027-08-09,1,Yreka Farmers Market,Eggs,1.65,dozen,11.58
+actual,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.76,dozen,19.29
+actual,2027-08-09,1,Yreka Farmers Market,Rabbit,1.93,lb,23.17
+actual,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.31,lb,39.69
+actual,2027-08-09,1,Yreka Farmers Market,Produce,187.69,$,187.69
+actual,2027-08-09,1,Yreka Farmers Market,Cottage foods,9.78,$,9.78
+actual,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Produce,319.47,$,319.47
+actual,2027-08-09,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,21.31,$,21.31
+actual,2027-08-16,1,Yreka Farmers Market,Eggs,1.88,dozen,13.16
+actual,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.13,dozen,21.94
+actual,2027-08-16,1,Yreka Farmers Market,Rabbit,2.24,lb,26.9
+actual,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,5.23,lb,62.72
+actual,2027-08-16,1,Yreka Farmers Market,Produce,196.56,$,196.56
+actual,2027-08-16,1,Yreka Farmers Market,Cottage foods,13.83,$,13.83
+actual,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Produce,340.43,$,340.43
+actual,2027-08-16,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,20.55,$,20.55
+actual,2027-08-23,1,Yreka Farmers Market,Eggs,1.6,dozen,11.2
+actual,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.67,dozen,18.67
+actual,2027-08-23,1,Yreka Farmers Market,Rabbit,2.44,lb,29.28
+actual,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.61,lb,43.31
+actual,2027-08-23,1,Yreka Farmers Market,Produce,210.83,$,210.83
+actual,2027-08-23,1,Yreka Farmers Market,Cottage foods,14.42,$,14.42
+actual,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Produce,311.86,$,311.86
+actual,2027-08-23,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,16.47,$,16.47
+actual,2027-08-30,1,Yreka Farmers Market,Eggs,1.73,dozen,12.13
+actual,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.89,dozen,20.21
+actual,2027-08-30,1,Yreka Farmers Market,Rabbit,2.06,lb,24.68
+actual,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.55,lb,42.59
+actual,2027-08-30,1,Yreka Farmers Market,Produce,168.44,$,168.44
+actual,2027-08-30,1,Yreka Farmers Market,Cottage foods,9.11,$,9.11
+actual,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Produce,250.6,$,250.6
+actual,2027-08-30,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,18.0,$,18.0
+actual,2027-09-06,1,Yreka Farmers Market,Eggs,1.53,dozen,10.68
+actual,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.54,dozen,17.8
+actual,2027-09-06,1,Yreka Farmers Market,Rabbit,2.38,lb,28.53
+actual,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,4.09,lb,49.06
+actual,2027-09-06,1,Yreka Farmers Market,Produce,155.56,$,155.56
+actual,2027-09-06,1,Yreka Farmers Market,Cottage foods,12.02,$,12.02
+actual,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Produce,262.67,$,262.67
+actual,2027-09-06,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,16.82,$,16.82
+actual,2027-09-13,1,Yreka Farmers Market,Eggs,1.63,dozen,11.42
+actual,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.72,dozen,19.04
+actual,2027-09-13,1,Yreka Farmers Market,Rabbit,2.72,lb,32.67
+actual,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.74,lb,44.89
+actual,2027-09-13,1,Yreka Farmers Market,Produce,136.1,$,136.1
+actual,2027-09-13,1,Yreka Farmers Market,Cottage foods,8.45,$,8.45
+actual,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Produce,242.97,$,242.97
+actual,2027-09-13,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,15.91,$,15.91
+actual,2027-09-20,1,Yreka Farmers Market,Eggs,1.8,dozen,12.63
+actual,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Eggs,3.01,dozen,21.05
+actual,2027-09-20,1,Yreka Farmers Market,Rabbit,2.26,lb,27.16
+actual,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,4.16,lb,49.98
+actual,2027-09-20,1,Yreka Farmers Market,Produce,91.79,$,91.79
+actual,2027-09-20,1,Yreka Farmers Market,Cottage foods,5.74,$,5.74
+actual,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Produce,132.54,$,132.54
+actual,2027-09-20,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,9.4,$,9.4
+actual,2027-09-27,1,Yreka Farmers Market,Eggs,1.67,dozen,11.66
+actual,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.78,dozen,19.44
+actual,2027-09-27,1,Yreka Farmers Market,Rabbit,2.47,lb,29.68
+actual,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.18,lb,38.16
+actual,2027-09-27,1,Yreka Farmers Market,Produce,61.54,$,61.54
+actual,2027-09-27,1,Yreka Farmers Market,Cottage foods,5.09,$,5.09
+actual,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Produce,163.37,$,163.37
+actual,2027-09-27,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.49,$,10.49
+actual,2027-10-04,1,Yreka Farmers Market,Eggs,1.39,dozen,9.74
+actual,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.32,dozen,16.23
+actual,2027-10-04,1,Yreka Farmers Market,Rabbit,2.86,lb,34.28
+actual,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.58,lb,42.91
+actual,2027-10-04,1,Yreka Farmers Market,Produce,52.54,$,52.54
+actual,2027-10-04,1,Yreka Farmers Market,Cottage foods,4.58,$,4.58
+actual,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Produce,102.66,$,102.66
+actual,2027-10-04,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,9.17,$,9.17
+actual,2027-10-11,1,Yreka Farmers Market,Eggs,1.48,dozen,10.34
+actual,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.46,dozen,17.23
+actual,2027-10-11,1,Yreka Farmers Market,Rabbit,2.47,lb,29.6
+actual,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.49,lb,41.84
+actual,2027-10-11,1,Yreka Farmers Market,Produce,30.57,$,30.57
+actual,2027-10-11,1,Yreka Farmers Market,Cottage foods,4.03,$,4.03
+actual,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Produce,61.25,$,61.25
+actual,2027-10-11,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,4.7,$,4.7
+actual,2027-10-18,1,Yreka Farmers Market,Eggs,1.15,dozen,8.02
+actual,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Eggs,1.91,dozen,13.36
+actual,2027-10-18,1,Yreka Farmers Market,Rabbit,2.19,lb,26.32
+actual,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,3.91,lb,46.92
+actual,2027-10-18,1,Yreka Farmers Market,Produce,17.12,$,17.12
+actual,2027-10-18,1,Yreka Farmers Market,Cottage foods,2.46,$,2.46
+actual,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Produce,24.76,$,24.76
+actual,2027-10-18,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,4.78,$,4.78
+actual,2027-10-25,1,Yreka Farmers Market,Eggs,1.34,dozen,9.35
+actual,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Eggs,2.23,dozen,15.59
+actual,2027-10-25,1,Yreka Farmers Market,Rabbit,2.07,lb,24.81
+actual,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Rabbit,4.05,lb,48.57
+actual,2027-10-25,1,Yreka Farmers Market,Produce,11.85,$,11.85
+actual,2027-10-25,1,Yreka Farmers Market,Cottage foods,1.63,$,1.63
+actual,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Produce,22.71,$,22.71
+actual,2027-10-25,1,Rogue Valley Growers & Crafters (Saturday),Cottage foods,4.13,$,4.13
+actual,2027-11-01,1,Farm direct,Eggs,2.08,dozen,14.59
+actual,2027-11-01,1,Farm direct,Rabbit,4.27,lb,51.26
+actual,2027-11-08,1,Farm direct,Eggs,2.71,dozen,18.94
+actual,2027-11-08,1,Farm direct,Rabbit,4.59,lb,55.07
+actual,2027-11-15,1,Farm direct,Eggs,3.01,dozen,21.06
+actual,2027-11-15,1,Farm direct,Rabbit,4.6,lb,55.21
+actual,2027-11-22,1,Farm direct,Eggs,2.73,dozen,19.09
+actual,2027-11-22,1,Farm direct,Rabbit,4.68,lb,56.12
+actual,2027-11-29,1,Farm direct,Eggs,2.87,dozen,20.08
+actual,2027-11-29,1,Farm direct,Rabbit,5.21,lb,62.57
+actual,2027-12-06,1,Farm direct,Eggs,2.51,dozen,17.57
+actual,2027-12-06,1,Farm direct,Rabbit,4.81,lb,57.71
+actual,2027-12-13,1,Farm direct,Eggs,2.51,dozen,17.57
+actual,2027-12-13,1,Farm direct,Rabbit,5.19,lb,62.33
+actual,2027-12-20,1,Farm direct,Eggs,2.66,dozen,18.63
+actual,2027-12-20,1,Farm direct,Rabbit,4.84,lb,58.09
+actual,2027-12-27,1,Farm direct,Eggs,2.69,dozen,18.82
+actual,2027-12-27,1,Farm direct,Rabbit,4.05,lb,48.55
+actual,2028-01-10,2,Farm direct,Eggs,3.94,dozen,27.55
+actual,2028-01-10,2,Farm direct,Rabbit,9.73,lb,116.82
+actual,2028-01-17,2,Farm direct,Eggs,3.32,dozen,23.21
+actual,2028-01-17,2,Farm direct,Rabbit,8.65,lb,103.81
+actual,2028-01-24,2,Farm direct,Eggs,5.2,dozen,36.4
+actual,2028-01-24,2,Farm direct,Rabbit,7.24,lb,86.86
+actual,2028-01-31,2,Farm direct,Eggs,4.44,dozen,31.05
+actual,2028-01-31,2,Farm direct,Rabbit,8.13,lb,97.5
+actual,2028-02-07,2,Farm direct,Eggs,5.98,dozen,41.88
+actual,2028-02-07,2,Farm direct,Rabbit,7.2,lb,86.39
+actual,2028-02-14,2,Farm direct,Eggs,4.93,dozen,34.53
+actual,2028-02-14,2,Farm direct,Rabbit,8.09,lb,97.14
+actual,2028-02-21,2,Farm direct,Eggs,4.92,dozen,34.41
+actual,2028-02-21,2,Farm direct,Rabbit,9.95,lb,119.34
+actual,2028-02-28,2,Farm direct,Eggs,5.22,dozen,36.53
+actual,2028-02-28,2,Farm direct,Rabbit,8.33,lb,99.95
+actual,2028-03-06,2,Farm direct,Eggs,6.88,dozen,48.15
+actual,2028-03-06,2,Farm direct,Rabbit,9.76,lb,117.09
+actual,2028-03-13,2,Farm direct,Eggs,6.76,dozen,47.33
+actual,2028-03-13,2,Farm direct,Rabbit,9.19,lb,110.31
+actual,2028-03-20,2,Farm direct,Eggs,6.19,dozen,43.36
+actual,2028-03-20,2,Farm direct,Rabbit,8.73,lb,104.78
+actual,2028-03-27,2,Farm direct,Eggs,6.85,dozen,47.98
+actual,2028-03-27,2,Farm direct,Rabbit,9.07,lb,108.8
+actual,2028-04-03,2,Farm direct,Eggs,9.06,dozen,63.42
+actual,2028-04-03,2,Farm direct,Rabbit,8.49,lb,101.88
+actual,2028-04-10,2,Farm direct,Eggs,9.95,dozen,69.63
+actual,2028-04-10,2,Farm direct,Rabbit,8.6,lb,103.21
+actual,2028-04-17,2,Farm direct,Eggs,7.17,dozen,50.21
+actual,2028-04-17,2,Farm direct,Rabbit,8.71,lb,104.51
+actual,2028-04-24,2,Farm direct,Eggs,8.15,dozen,57.03
+actual,2028-04-24,2,Farm direct,Rabbit,8.28,lb,99.35
+actual,2028-05-01,2,Farm direct,Eggs,11.01,dozen,77.07
+actual,2028-05-01,2,Farm direct,Rabbit,9.63,lb,115.56
+actual,2028-05-08,2,Farm direct,Eggs,9.86,dozen,69.0
+actual,2028-05-08,2,Farm direct,Rabbit,9.4,lb,112.8
+actual,2028-05-15,2,Farm direct,Eggs,8.2,dozen,57.43
+actual,2028-05-15,2,Farm direct,Rabbit,7.28,lb,87.32
+actual,2028-05-22,2,Farm direct,Eggs,9.51,dozen,66.6
+actual,2028-05-22,2,Farm direct,Rabbit,10.04,lb,120.5
+actual,2028-05-29,2,Farm direct,Eggs,7.9,dozen,55.33
+actual,2028-05-29,2,Farm direct,Rabbit,8.89,lb,106.72
+actual,2028-06-05,2,Yreka Farmers Market,Eggs,4.1,dozen,28.71
+actual,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.84,dozen,47.85
+actual,2028-06-05,2,Yreka Farmers Market,Rabbit,3.94,lb,47.28
+actual,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.83,lb,93.91
+actual,2028-06-05,2,Yreka Farmers Market,Produce,21.98,$,21.98
+actual,2028-06-05,2,Yreka Farmers Market,Cottage foods,4.81,$,4.81
+actual,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Produce,41.72,$,41.72
+actual,2028-06-05,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,8.95,$,8.95
+actual,2028-06-12,2,Yreka Farmers Market,Eggs,3.2,dozen,22.38
+actual,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.33,dozen,37.3
+actual,2028-06-12,2,Yreka Farmers Market,Rabbit,3.63,lb,43.61
+actual,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.28,lb,99.4
+actual,2028-06-12,2,Yreka Farmers Market,Produce,33.11,$,33.11
+actual,2028-06-12,2,Yreka Farmers Market,Cottage foods,5.5,$,5.5
+actual,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Produce,86.9,$,86.9
+actual,2028-06-12,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,11.13,$,11.13
+actual,2028-06-19,2,Yreka Farmers Market,Eggs,3.97,dozen,27.82
+actual,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.62,dozen,46.37
+actual,2028-06-19,2,Yreka Farmers Market,Rabbit,5.15,lb,61.77
+actual,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.56,lb,90.7
+actual,2028-06-19,2,Yreka Farmers Market,Produce,60.43,$,60.43
+actual,2028-06-19,2,Yreka Farmers Market,Cottage foods,7.9,$,7.9
+actual,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Produce,82.86,$,82.86
+actual,2028-06-19,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,9.94,$,9.94
+actual,2028-06-26,2,Yreka Farmers Market,Eggs,3.79,dozen,26.54
+actual,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.32,dozen,44.23
+actual,2028-06-26,2,Yreka Farmers Market,Rabbit,4.08,lb,48.91
+actual,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.57,lb,78.88
+actual,2028-06-26,2,Yreka Farmers Market,Produce,84.72,$,84.72
+actual,2028-06-26,2,Yreka Farmers Market,Cottage foods,7.67,$,7.67
+actual,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Produce,171.26,$,171.26
+actual,2028-06-26,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,15.2,$,15.2
+actual,2028-07-03,2,Yreka Farmers Market,Eggs,3.46,dozen,24.2
+actual,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.76,dozen,40.33
+actual,2028-07-03,2,Yreka Farmers Market,Rabbit,4.85,lb,58.2
+actual,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.03,lb,84.36
+actual,2028-07-03,2,Yreka Farmers Market,Produce,149.99,$,149.99
+actual,2028-07-03,2,Yreka Farmers Market,Cottage foods,13.06,$,13.06
+actual,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Produce,169.28,$,169.28
+actual,2028-07-03,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,16.58,$,16.58
+actual,2028-07-10,2,Yreka Farmers Market,Eggs,3.21,dozen,22.48
+actual,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.35,dozen,37.47
+actual,2028-07-10,2,Yreka Farmers Market,Rabbit,4.05,lb,48.57
+actual,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,5.56,lb,66.74
+actual,2028-07-10,2,Yreka Farmers Market,Produce,184.58,$,184.58
+actual,2028-07-10,2,Yreka Farmers Market,Cottage foods,11.82,$,11.82
+actual,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Produce,287.92,$,287.92
+actual,2028-07-10,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,17.42,$,17.42
+actual,2028-07-17,2,Yreka Farmers Market,Eggs,3.6,dozen,25.19
+actual,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.0,dozen,41.99
+actual,2028-07-17,2,Yreka Farmers Market,Rabbit,3.72,lb,44.67
+actual,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.88,lb,106.61
+actual,2028-07-17,2,Yreka Farmers Market,Produce,272.23,$,272.23
+actual,2028-07-17,2,Yreka Farmers Market,Cottage foods,15.93,$,15.93
+actual,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Produce,363.53,$,363.53
+actual,2028-07-17,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,27.92,$,27.92
+actual,2028-07-24,2,Yreka Farmers Market,Eggs,3.87,dozen,27.06
+actual,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.44,dozen,45.09
+actual,2028-07-24,2,Yreka Farmers Market,Rabbit,3.34,lb,40.09
+actual,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.25,lb,87.0
+actual,2028-07-24,2,Yreka Farmers Market,Produce,205.0,$,205.0
+actual,2028-07-24,2,Yreka Farmers Market,Cottage foods,16.21,$,16.21
+actual,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Produce,525.23,$,525.23
+actual,2028-07-24,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,33.95,$,33.95
+actual,2028-07-31,2,Yreka Farmers Market,Eggs,3.82,dozen,26.72
+actual,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Eggs,6.36,dozen,44.53
+actual,2028-07-31,2,Yreka Farmers Market,Rabbit,3.8,lb,45.64
+actual,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.65,lb,79.79
+actual,2028-07-31,2,Yreka Farmers Market,Produce,270.64,$,270.64
+actual,2028-07-31,2,Yreka Farmers Market,Cottage foods,20.89,$,20.89
+actual,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Produce,494.88,$,494.88
+actual,2028-07-31,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,29.88,$,29.88
+actual,2028-08-07,2,Yreka Farmers Market,Eggs,3.55,dozen,24.88
+actual,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.92,dozen,41.47
+actual,2028-08-07,2,Yreka Farmers Market,Rabbit,4.13,lb,49.54
+actual,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.1,lb,97.18
+actual,2028-08-07,2,Yreka Farmers Market,Produce,331.42,$,331.42
+actual,2028-08-07,2,Yreka Farmers Market,Honey,2.77,lb,38.79
+actual,2028-08-07,2,Yreka Farmers Market,Cottage foods,19.82,$,19.82
+actual,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Produce,592.68,$,592.68
+actual,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.21,lb,58.9
+actual,2028-08-07,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,31.25,$,31.25
+actual,2028-08-14,2,Yreka Farmers Market,Eggs,2.92,dozen,20.43
+actual,2028-08-14,2,Rogue Valley Growers & Crafters (Saturday),Eggs,0.0,dozen,0.0
+actual,2028-08-14,2,Yreka Farmers Market,Rabbit,3.97,lb,47.58
+actual,2028-08-14,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,0.0,lb,0.0
+actual,2028-08-14,2,Yreka Farmers Market,Produce,377.08,$,377.08
+actual,2028-08-14,2,Yreka Farmers Market,Honey,2.24,lb,31.35
+actual,2028-08-14,2,Yreka Farmers Market,Cottage foods,27.43,$,27.43
+actual,2028-08-21,2,Yreka Farmers Market,Eggs,3.55,dozen,24.88
+actual,2028-08-21,2,Rogue Valley Growers & Crafters (Saturday),Eggs,0.0,dozen,0.0
+actual,2028-08-21,2,Yreka Farmers Market,Rabbit,3.95,lb,47.39
+actual,2028-08-21,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,0.0,lb,0.0
+actual,2028-08-21,2,Yreka Farmers Market,Produce,346.96,$,346.96
+actual,2028-08-21,2,Yreka Farmers Market,Honey,2.98,lb,41.74
+actual,2028-08-21,2,Yreka Farmers Market,Cottage foods,25.21,$,25.21
+actual,2028-08-28,2,Yreka Farmers Market,Eggs,3.41,dozen,23.86
+actual,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Eggs,5.68,dozen,39.77
+actual,2028-08-28,2,Yreka Farmers Market,Rabbit,4.36,lb,52.33
+actual,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,5.64,lb,67.74
+actual,2028-08-28,2,Yreka Farmers Market,Produce,222.27,$,222.27
+actual,2028-08-28,2,Yreka Farmers Market,Honey,2.63,lb,36.88
+actual,2028-08-28,2,Yreka Farmers Market,Cottage foods,18.37,$,18.37
+actual,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Produce,442.52,$,442.52
+actual,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.62,lb,64.66
+actual,2028-08-28,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,30.25,$,30.25
+actual,2028-09-04,2,Yreka Farmers Market,Eggs,2.37,dozen,16.6
+actual,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.95,dozen,27.67
+actual,2028-09-04,2,Yreka Farmers Market,Rabbit,4.54,lb,54.49
+actual,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,5.9,lb,70.77
+actual,2028-09-04,2,Yreka Farmers Market,Produce,218.95,$,218.95
+actual,2028-09-04,2,Yreka Farmers Market,Honey,3.07,lb,43.02
+actual,2028-09-04,2,Yreka Farmers Market,Cottage foods,13.71,$,13.71
+actual,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Produce,445.6,$,445.6
+actual,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.07,lb,57.03
+actual,2028-09-04,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,36.42,$,36.42
+actual,2028-09-11,2,Yreka Farmers Market,Eggs,2.69,dozen,18.81
+actual,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.48,dozen,31.35
+actual,2028-09-11,2,Yreka Farmers Market,Rabbit,4.67,lb,56.03
+actual,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.51,lb,78.07
+actual,2028-09-11,2,Yreka Farmers Market,Produce,164.75,$,164.75
+actual,2028-09-11,2,Yreka Farmers Market,Honey,2.71,lb,37.92
+actual,2028-09-11,2,Yreka Farmers Market,Cottage foods,11.97,$,11.97
+actual,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Produce,445.33,$,445.33
+actual,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.64,lb,64.97
+actual,2028-09-11,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,37.1,$,37.1
+actual,2028-09-18,2,Yreka Farmers Market,Eggs,2.69,dozen,18.84
+actual,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.49,dozen,31.41
+actual,2028-09-18,2,Yreka Farmers Market,Rabbit,3.8,lb,45.63
+actual,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,5.03,lb,60.36
+actual,2028-09-18,2,Yreka Farmers Market,Produce,179.56,$,179.56
+actual,2028-09-18,2,Yreka Farmers Market,Honey,2.59,lb,36.27
+actual,2028-09-18,2,Yreka Farmers Market,Cottage foods,13.52,$,13.52
+actual,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Produce,267.7,$,267.7
+actual,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.35,lb,60.84
+actual,2028-09-18,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,19.8,$,19.8
+actual,2028-09-25,2,Yreka Farmers Market,Eggs,2.6,dozen,18.19
+actual,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.33,dozen,30.31
+actual,2028-09-25,2,Yreka Farmers Market,Rabbit,4.57,lb,54.85
+actual,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.17,lb,74.01
+actual,2028-09-25,2,Yreka Farmers Market,Produce,116.9,$,116.9
+actual,2028-09-25,2,Yreka Farmers Market,Honey,2.28,lb,31.85
+actual,2028-09-25,2,Yreka Farmers Market,Cottage foods,8.93,$,8.93
+actual,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Produce,198.91,$,198.91
+actual,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Honey,5.31,lb,74.28
+actual,2028-09-25,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,21.9,$,21.9
+actual,2028-10-02,2,Yreka Farmers Market,Eggs,2.4,dozen,16.79
+actual,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.0,dozen,27.98
+actual,2028-10-02,2,Yreka Farmers Market,Rabbit,4.92,lb,59.03
+actual,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.27,lb,87.24
+actual,2028-10-02,2,Yreka Farmers Market,Produce,72.43,$,72.43
+actual,2028-10-02,2,Yreka Farmers Market,Honey,2.37,lb,33.23
+actual,2028-10-02,2,Yreka Farmers Market,Cottage foods,8.18,$,8.18
+actual,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Produce,144.38,$,144.38
+actual,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Honey,3.78,lb,52.96
+actual,2028-10-02,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,15.81,$,15.81
+actual,2028-10-09,2,Yreka Farmers Market,Eggs,2.18,dozen,15.24
+actual,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.63,dozen,25.41
+actual,2028-10-09,2,Yreka Farmers Market,Rabbit,4.05,lb,48.66
+actual,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.25,lb,87.02
+actual,2028-10-09,2,Yreka Farmers Market,Produce,62.06,$,62.06
+actual,2028-10-09,2,Yreka Farmers Market,Honey,2.73,lb,38.22
+actual,2028-10-09,2,Yreka Farmers Market,Cottage foods,8.7,$,8.7
+actual,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Produce,82.66,$,82.66
+actual,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Honey,3.62,lb,50.63
+actual,2028-10-09,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,8.95,$,8.95
+actual,2028-10-16,2,Yreka Farmers Market,Eggs,2.07,dozen,14.47
+actual,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.45,dozen,24.12
+actual,2028-10-16,2,Yreka Farmers Market,Rabbit,3.06,lb,36.71
+actual,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.37,lb,76.44
+actual,2028-10-16,2,Yreka Farmers Market,Produce,33.85,$,33.85
+actual,2028-10-16,2,Yreka Farmers Market,Honey,2.91,lb,40.71
+actual,2028-10-16,2,Yreka Farmers Market,Cottage foods,7.34,$,7.34
+actual,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Produce,79.45,$,79.45
+actual,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Honey,4.93,lb,69.03
+actual,2028-10-16,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.44,$,10.44
+actual,2028-10-23,2,Yreka Farmers Market,Eggs,2.46,dozen,17.23
+actual,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Eggs,4.1,dozen,28.71
+actual,2028-10-23,2,Yreka Farmers Market,Rabbit,4.51,lb,54.07
+actual,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.42,lb,89.03
+actual,2028-10-23,2,Yreka Farmers Market,Produce,23.19,$,23.19
+actual,2028-10-23,2,Yreka Farmers Market,Honey,3.17,lb,44.4
+actual,2028-10-23,2,Yreka Farmers Market,Cottage foods,7.94,$,7.94
+actual,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Produce,36.03,$,36.03
+actual,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Honey,3.68,lb,51.57
+actual,2028-10-23,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,11.12,$,11.12
+actual,2028-10-30,2,Yreka Farmers Market,Eggs,2.36,dozen,16.51
+actual,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Eggs,3.93,dozen,27.51
+actual,2028-10-30,2,Yreka Farmers Market,Rabbit,3.61,lb,43.34
+actual,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.11,lb,85.31
+actual,2028-10-30,2,Yreka Farmers Market,Produce,11.19,$,11.19
+actual,2028-10-30,2,Yreka Farmers Market,Honey,2.07,lb,29.02
+actual,2028-10-30,2,Yreka Farmers Market,Cottage foods,5.86,$,5.86
+actual,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Produce,20.66,$,20.66
+actual,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Honey,3.94,lb,55.19
+actual,2028-10-30,2,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.65,$,10.65
+actual,2028-11-06,2,Farm direct,Eggs,4.25,dozen,29.77
+actual,2028-11-06,2,Farm direct,Rabbit,9.85,lb,118.17
+actual,2028-11-13,2,Farm direct,Eggs,5.14,dozen,35.99
+actual,2028-11-13,2,Farm direct,Rabbit,9.47,lb,113.64
+actual,2028-11-20,2,Farm direct,Eggs,4.83,dozen,33.83
+actual,2028-11-20,2,Farm direct,Rabbit,8.75,lb,104.96
+actual,2028-11-27,2,Farm direct,Eggs,5.45,dozen,38.18
+actual,2028-11-27,2,Farm direct,Rabbit,9.59,lb,115.14
+actual,2028-12-04,2,Farm direct,Eggs,4.14,dozen,29.01
+actual,2028-12-04,2,Farm direct,Rabbit,9.61,lb,115.37
+actual,2028-12-11,2,Farm direct,Eggs,4.03,dozen,28.24
+actual,2028-12-11,2,Farm direct,Rabbit,9.54,lb,114.51
+actual,2028-12-18,2,Farm direct,Eggs,4.26,dozen,29.83
+actual,2028-12-18,2,Farm direct,Rabbit,8.62,lb,103.38
+actual,2028-12-25,2,Farm direct,Eggs,4.05,dozen,28.32
+actual,2028-12-25,2,Farm direct,Rabbit,8.99,lb,107.91
+actual,2029-01-08,3,Farm direct,Eggs,4.78,dozen,33.44
+actual,2029-01-08,3,Farm direct,Rabbit,8.07,lb,96.86
+actual,2029-01-15,3,Farm direct,Eggs,4.76,dozen,33.34
+actual,2029-01-15,3,Farm direct,Rabbit,8.66,lb,103.98
+actual,2029-01-22,3,Farm direct,Eggs,4.25,dozen,29.76
+actual,2029-01-22,3,Farm direct,Rabbit,10.54,lb,126.45
+actual,2029-01-29,3,Farm direct,Eggs,5.74,dozen,40.2
+actual,2029-01-29,3,Farm direct,Rabbit,10.12,lb,121.49
+actual,2029-02-05,3,Farm direct,Eggs,7.01,dozen,49.07
+actual,2029-02-05,3,Farm direct,Rabbit,13.6,lb,163.22
+actual,2029-02-12,3,Farm direct,Eggs,6.96,dozen,48.72
+actual,2029-02-12,3,Farm direct,Rabbit,11.15,lb,133.84
+actual,2029-02-19,3,Farm direct,Eggs,6.44,dozen,45.11
+actual,2029-02-19,3,Farm direct,Rabbit,10.93,lb,131.13
+actual,2029-02-26,3,Farm direct,Eggs,5.66,dozen,39.63
+actual,2029-02-26,3,Farm direct,Rabbit,11.44,lb,137.33
+actual,2029-03-05,3,Farm direct,Eggs,5.33,dozen,37.29
+actual,2029-03-05,3,Farm direct,Rabbit,10.24,lb,122.82
+actual,2029-03-12,3,Farm direct,Eggs,8.28,dozen,57.93
+actual,2029-03-12,3,Farm direct,Rabbit,10.32,lb,123.87
+actual,2029-03-19,3,Farm direct,Eggs,8.42,dozen,58.93
+actual,2029-03-19,3,Farm direct,Rabbit,11.04,lb,132.52
+actual,2029-03-26,3,Farm direct,Eggs,6.78,dozen,47.48
+actual,2029-03-26,3,Farm direct,Rabbit,11.22,lb,134.69
+actual,2029-04-02,3,Farm direct,Eggs,10.08,dozen,70.54
+actual,2029-04-02,3,Farm direct,Rabbit,10.58,lb,126.99
+actual,2029-04-09,3,Farm direct,Eggs,12.22,dozen,85.53
+actual,2029-04-09,3,Farm direct,Rabbit,14.1,lb,169.25
+actual,2029-04-16,3,Farm direct,Eggs,9.09,dozen,63.63
+actual,2029-04-16,3,Farm direct,Rabbit,12.29,lb,147.46
+actual,2029-04-23,3,Farm direct,Eggs,9.35,dozen,65.44
+actual,2029-04-23,3,Farm direct,Rabbit,12.15,lb,145.84
+actual,2029-04-30,3,Farm direct,Eggs,11.69,dozen,81.83
+actual,2029-04-30,3,Farm direct,Rabbit,11.57,lb,138.82
+actual,2029-05-07,3,Farm direct,Eggs,12.31,dozen,86.19
+actual,2029-05-07,3,Farm direct,Rabbit,10.94,lb,131.22
+actual,2029-05-14,3,Farm direct,Eggs,10.69,dozen,74.83
+actual,2029-05-14,3,Farm direct,Rabbit,11.53,lb,138.31
+actual,2029-05-21,3,Farm direct,Eggs,10.68,dozen,74.79
+actual,2029-05-21,3,Farm direct,Rabbit,11.97,lb,143.66
+actual,2029-05-28,3,Farm direct,Eggs,7.6,dozen,53.23
+actual,2029-05-28,3,Farm direct,Rabbit,11.86,lb,142.29
+actual,2029-06-04,3,Yreka Farmers Market,Eggs,4.92,dozen,34.45
+actual,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Eggs,8.2,dozen,57.42
+actual,2029-06-04,3,Yreka Farmers Market,Rabbit,5.58,lb,66.97
+actual,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.13,lb,85.56
+actual,2029-06-04,3,Yreka Farmers Market,Produce,18.63,$,18.63
+actual,2029-06-04,3,Yreka Farmers Market,Cottage foods,5.14,$,5.14
+actual,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Produce,37.84,$,37.84
+actual,2029-06-04,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,10.35,$,10.35
+actual,2029-06-11,3,Yreka Farmers Market,Eggs,3.58,dozen,25.04
+actual,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Eggs,5.96,dozen,41.73
+actual,2029-06-11,3,Yreka Farmers Market,Rabbit,4.91,lb,58.89
+actual,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.08,lb,96.91
+actual,2029-06-11,3,Yreka Farmers Market,Produce,36.57,$,36.57
+actual,2029-06-11,3,Yreka Farmers Market,Cottage foods,6.61,$,6.61
+actual,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Produce,66.12,$,66.12
+actual,2029-06-11,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,9.62,$,9.62
+actual,2029-06-18,3,Yreka Farmers Market,Eggs,4.74,dozen,33.16
+actual,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.89,dozen,55.26
+actual,2029-06-18,3,Yreka Farmers Market,Rabbit,6.21,lb,74.53
+actual,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,6.7,lb,80.43
+actual,2029-06-18,3,Yreka Farmers Market,Produce,58.19,$,58.19
+actual,2029-06-18,3,Yreka Farmers Market,Cottage foods,6.75,$,6.75
+actual,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Produce,134.29,$,134.29
+actual,2029-06-18,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,14.55,$,14.55
+actual,2029-06-25,3,Yreka Farmers Market,Eggs,4.16,dozen,29.14
+actual,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.94,dozen,48.56
+actual,2029-06-25,3,Yreka Farmers Market,Rabbit,4.98,lb,59.71
+actual,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,9.09,lb,109.02
+actual,2029-06-25,3,Yreka Farmers Market,Produce,111.77,$,111.77
+actual,2029-06-25,3,Yreka Farmers Market,Cottage foods,11.74,$,11.74
+actual,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Produce,185.13,$,185.13
+actual,2029-06-25,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,17.8,$,17.8
+actual,2029-07-02,3,Yreka Farmers Market,Eggs,4.66,dozen,32.59
+actual,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.76,dozen,54.32
+actual,2029-07-02,3,Yreka Farmers Market,Rabbit,4.76,lb,57.1
+actual,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.89,lb,106.64
+actual,2029-07-02,3,Yreka Farmers Market,Produce,136.06,$,136.06
+actual,2029-07-02,3,Yreka Farmers Market,Cottage foods,12.09,$,12.09
+actual,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Produce,248.84,$,248.84
+actual,2029-07-02,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,17.78,$,17.78
+actual,2029-07-09,3,Yreka Farmers Market,Eggs,4.75,dozen,33.22
+actual,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.91,dozen,55.37
+actual,2029-07-09,3,Yreka Farmers Market,Rabbit,6.13,lb,73.61
+actual,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.89,lb,106.71
+actual,2029-07-09,3,Yreka Farmers Market,Produce,183.02,$,183.02
+actual,2029-07-09,3,Yreka Farmers Market,Cottage foods,13.11,$,13.11
+actual,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Produce,346.07,$,346.07
+actual,2029-07-09,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,27.64,$,27.64
+actual,2029-07-16,3,Yreka Farmers Market,Eggs,4.75,dozen,33.22
+actual,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.91,dozen,55.37
+actual,2029-07-16,3,Yreka Farmers Market,Rabbit,5.82,lb,69.83
+actual,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.53,lb,102.31
+actual,2029-07-16,3,Yreka Farmers Market,Produce,280.58,$,280.58
+actual,2029-07-16,3,Yreka Farmers Market,Cottage foods,21.42,$,21.42
+actual,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Produce,356.12,$,356.12
+actual,2029-07-16,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,25.51,$,25.51
+actual,2029-07-23,3,Yreka Farmers Market,Eggs,3.68,dozen,25.75
+actual,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.13,dozen,42.92
+actual,2029-07-23,3,Yreka Farmers Market,Rabbit,5.94,lb,71.3
+actual,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,10.52,lb,126.23
+actual,2029-07-23,3,Yreka Farmers Market,Produce,263.92,$,263.92
+actual,2029-07-23,3,Yreka Farmers Market,Cottage foods,19.31,$,19.31
+actual,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Produce,490.46,$,490.46
+actual,2029-07-23,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,39.51,$,39.51
+actual,2029-07-30,3,Yreka Farmers Market,Eggs,4.15,dozen,29.06
+actual,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.92,dozen,48.43
+actual,2029-07-30,3,Yreka Farmers Market,Rabbit,6.6,lb,79.16
+actual,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,9.33,lb,111.96
+actual,2029-07-30,3,Yreka Farmers Market,Produce,274.32,$,274.32
+actual,2029-07-30,3,Yreka Farmers Market,Cottage foods,18.19,$,18.19
+actual,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Produce,582.35,$,582.35
+actual,2029-07-30,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,46.65,$,46.65
+actual,2029-08-06,3,Yreka Farmers Market,Eggs,4.21,dozen,29.49
+actual,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.02,dozen,49.15
+actual,2029-08-06,3,Yreka Farmers Market,Rabbit,5.51,lb,66.1
+actual,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.2,lb,98.34
+actual,2029-08-06,3,Yreka Farmers Market,Produce,302.16,$,302.16
+actual,2029-08-06,3,Yreka Farmers Market,Honey,4.84,lb,67.71
+actual,2029-08-06,3,Yreka Farmers Market,Cottage foods,22.42,$,22.42
+actual,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Produce,708.57,$,708.57
+actual,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Honey,6.33,lb,88.57
+actual,2029-08-06,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,53.5,$,53.5
+actual,2029-08-13,3,Yreka Farmers Market,Eggs,3.78,dozen,26.47
+actual,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.3,dozen,44.12
+actual,2029-08-13,3,Yreka Farmers Market,Rabbit,5.43,lb,65.17
+actual,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,11.41,lb,136.97
+actual,2029-08-13,3,Yreka Farmers Market,Produce,324.47,$,324.47
+actual,2029-08-13,3,Yreka Farmers Market,Honey,5.62,lb,78.7
+actual,2029-08-13,3,Yreka Farmers Market,Cottage foods,28.93,$,28.93
+actual,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Produce,678.68,$,678.68
+actual,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Honey,7.83,lb,109.56
+actual,2029-08-13,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,44.83,$,44.83
+actual,2029-08-20,3,Yreka Farmers Market,Eggs,4.27,dozen,29.86
+actual,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Eggs,7.11,dozen,49.77
+actual,2029-08-20,3,Yreka Farmers Market,Rabbit,5.1,lb,61.17
+actual,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,10.65,lb,127.81
+actual,2029-08-20,3,Yreka Farmers Market,Produce,479.99,$,479.99
+actual,2029-08-20,3,Yreka Farmers Market,Honey,4.49,lb,62.89
+actual,2029-08-20,3,Yreka Farmers Market,Cottage foods,26.51,$,26.51
+actual,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Produce,742.43,$,742.43
+actual,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Honey,9.06,lb,126.84
+actual,2029-08-20,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,52.6,$,52.6
+actual,2029-08-27,3,Yreka Farmers Market,Eggs,4.01,dozen,28.07
+actual,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Eggs,6.68,dozen,46.78
+actual,2029-08-27,3,Yreka Farmers Market,Rabbit,6.3,lb,75.66
+actual,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.44,lb,101.34
+actual,2029-08-27,3,Yreka Farmers Market,Produce,317.73,$,317.73
+actual,2029-08-27,3,Yreka Farmers Market,Honey,4.21,lb,58.88
+actual,2029-08-27,3,Yreka Farmers Market,Cottage foods,22.12,$,22.12
+actual,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Produce,485.32,$,485.32
+actual,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Honey,10.12,lb,141.67
+actual,2029-08-27,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,41.89,$,41.89
+actual,2029-09-03,3,Yreka Farmers Market,Eggs,3.15,dozen,22.05
+actual,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Eggs,5.25,dozen,36.74
+actual,2029-09-03,3,Yreka Farmers Market,Rabbit,4.97,lb,59.61
+actual,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.74,lb,92.92
+actual,2029-09-03,3,Yreka Farmers Market,Produce,277.2,$,277.2
+actual,2029-09-03,3,Yreka Farmers Market,Honey,4.82,lb,67.52
+actual,2029-09-03,3,Yreka Farmers Market,Orchard fruit,20.67,$,20.67
+actual,2029-09-03,3,Yreka Farmers Market,Cottage foods,22.5,$,22.5
+actual,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Produce,593.97,$,593.97
+actual,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Honey,7.63,lb,106.83
+actual,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.2,$,41.2
+actual,2029-09-03,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,46.05,$,46.05
+actual,2029-09-10,3,Yreka Farmers Market,Eggs,3.15,dozen,22.02
+actual,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Eggs,5.24,dozen,36.69
+actual,2029-09-10,3,Yreka Farmers Market,Rabbit,5.56,lb,66.76
+actual,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.61,lb,103.26
+actual,2029-09-10,3,Yreka Farmers Market,Produce,214.85,$,214.85
+actual,2029-09-10,3,Yreka Farmers Market,Honey,4.85,lb,67.85
+actual,2029-09-10,3,Yreka Farmers Market,Orchard fruit,26.18,$,26.18
+actual,2029-09-10,3,Yreka Farmers Market,Cottage foods,21.79,$,21.79
+actual,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Produce,402.6,$,402.6
+actual,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.61,lb,120.61
+actual,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,45.01,$,45.01
+actual,2029-09-10,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,34.89,$,34.89
+actual,2029-09-17,3,Yreka Farmers Market,Eggs,2.96,dozen,20.73
+actual,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.94,dozen,34.55
+actual,2029-09-17,3,Yreka Farmers Market,Rabbit,5.22,lb,62.69
+actual,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,7.91,lb,94.96
+actual,2029-09-17,3,Yreka Farmers Market,Produce,180.99,$,180.99
+actual,2029-09-17,3,Yreka Farmers Market,Honey,5.44,lb,76.17
+actual,2029-09-17,3,Yreka Farmers Market,Orchard fruit,23.58,$,23.58
+actual,2029-09-17,3,Yreka Farmers Market,Cottage foods,17.71,$,17.71
+actual,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Produce,380.01,$,380.01
+actual,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Honey,7.83,lb,109.58
+actual,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,47.7,$,47.7
+actual,2029-09-17,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,35.81,$,35.81
+actual,2029-09-24,3,Yreka Farmers Market,Eggs,2.6,dozen,18.17
+actual,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.33,dozen,30.28
+actual,2029-09-24,3,Yreka Farmers Market,Rabbit,5.29,lb,63.45
+actual,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,10.43,lb,125.15
+actual,2029-09-24,3,Yreka Farmers Market,Produce,178.9,$,178.9
+actual,2029-09-24,3,Yreka Farmers Market,Honey,4.53,lb,63.36
+actual,2029-09-24,3,Yreka Farmers Market,Orchard fruit,26.25,$,26.25
+actual,2029-09-24,3,Yreka Farmers Market,Cottage foods,19.55,$,19.55
+actual,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Produce,273.12,$,273.12
+actual,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Honey,11.61,lb,162.49
+actual,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,34.96,$,34.96
+actual,2029-09-24,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,40.13,$,40.13
+actual,2029-10-01,3,Yreka Farmers Market,Eggs,2.95,dozen,20.67
+actual,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.92,dozen,34.45
+actual,2029-10-01,3,Yreka Farmers Market,Rabbit,4.76,lb,57.08
+actual,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,9.24,lb,110.87
+actual,2029-10-01,3,Yreka Farmers Market,Produce,86.56,$,86.56
+actual,2029-10-01,3,Yreka Farmers Market,Honey,5.07,lb,70.94
+actual,2029-10-01,3,Yreka Farmers Market,Orchard fruit,31.81,$,31.81
+actual,2029-10-01,3,Yreka Farmers Market,Cottage foods,16.06,$,16.06
+actual,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Produce,160.81,$,160.81
+actual,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.65,lb,121.13
+actual,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.03,$,41.03
+actual,2029-10-01,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,25.09,$,25.09
+actual,2029-10-08,3,Yreka Farmers Market,Eggs,2.21,dozen,15.48
+actual,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Eggs,3.68,dozen,25.79
+actual,2029-10-08,3,Yreka Farmers Market,Rabbit,5.55,lb,66.56
+actual,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,11.12,lb,133.44
+actual,2029-10-08,3,Yreka Farmers Market,Produce,59.22,$,59.22
+actual,2029-10-08,3,Yreka Farmers Market,Honey,3.93,lb,55.08
+actual,2029-10-08,3,Yreka Farmers Market,Orchard fruit,28.22,$,28.22
+actual,2029-10-08,3,Yreka Farmers Market,Cottage foods,9.5,$,9.5
+actual,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Produce,119.43,$,119.43
+actual,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.33,lb,116.66
+actual,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,44.94,$,44.94
+actual,2029-10-08,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,29.75,$,29.75
+actual,2029-10-15,3,Yreka Farmers Market,Eggs,2.42,dozen,16.91
+actual,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.03,dozen,28.18
+actual,2029-10-15,3,Yreka Farmers Market,Rabbit,5.75,lb,68.96
+actual,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,12.03,lb,144.34
+actual,2029-10-15,3,Yreka Farmers Market,Produce,46.64,$,46.64
+actual,2029-10-15,3,Yreka Farmers Market,Honey,4.22,lb,59.13
+actual,2029-10-15,3,Yreka Farmers Market,Orchard fruit,22.78,$,22.78
+actual,2029-10-15,3,Yreka Farmers Market,Cottage foods,11.63,$,11.63
+actual,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Produce,77.57,$,77.57
+actual,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.18,lb,114.56
+actual,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,41.5,$,41.5
+actual,2029-10-15,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,21.1,$,21.1
+actual,2029-10-22,3,Yreka Farmers Market,Eggs,2.54,dozen,17.8
+actual,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.24,dozen,29.66
+actual,2029-10-22,3,Yreka Farmers Market,Rabbit,5.31,lb,63.77
+actual,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.87,lb,106.44
+actual,2029-10-22,3,Yreka Farmers Market,Produce,22.81,$,22.81
+actual,2029-10-22,3,Yreka Farmers Market,Honey,4.69,lb,65.7
+actual,2029-10-22,3,Yreka Farmers Market,Orchard fruit,24.89,$,24.89
+actual,2029-10-22,3,Yreka Farmers Market,Cottage foods,8.49,$,8.49
+actual,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Produce,57.91,$,57.91
+actual,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Honey,8.15,lb,114.09
+actual,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,37.3,$,37.3
+actual,2029-10-22,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,15.5,$,15.5
+actual,2029-10-29,3,Yreka Farmers Market,Eggs,2.95,dozen,20.67
+actual,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Eggs,4.92,dozen,34.45
+actual,2029-10-29,3,Yreka Farmers Market,Rabbit,5.58,lb,66.92
+actual,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Rabbit,8.37,lb,100.44
+actual,2029-10-29,3,Yreka Farmers Market,Produce,11.75,$,11.75
+actual,2029-10-29,3,Yreka Farmers Market,Honey,4.7,lb,65.73
+actual,2029-10-29,3,Yreka Farmers Market,Orchard fruit,28.71,$,28.71
+actual,2029-10-29,3,Yreka Farmers Market,Cottage foods,10.31,$,10.31
+actual,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Produce,24.73,$,24.73
+actual,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Honey,7.72,lb,108.01
+actual,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Orchard fruit,38.24,$,38.24
+actual,2029-10-29,3,Rogue Valley Growers & Crafters (Saturday),Cottage foods,12.19,$,12.19
+actual,2029-11-05,3,Farm direct,Eggs,5.1,dozen,35.71
+actual,2029-11-05,3,Farm direct,Rabbit,9.88,lb,118.56
+actual,2029-11-12,3,Farm direct,Eggs,5.97,dozen,41.81
+actual,2029-11-12,3,Farm direct,Rabbit,9.92,lb,119.04
+actual,2029-11-19,3,Farm direct,Eggs,4.01,dozen,28.05
+actual,2029-11-19,3,Farm direct,Rabbit,11.18,lb,134.17
+actual,2029-11-26,3,Farm direct,Eggs,5.98,dozen,41.89
+actual,2029-11-26,3,Farm direct,Rabbit,10.59,lb,127.12
+actual,2029-12-03,3,Farm direct,Eggs,4.84,dozen,33.91
+actual,2029-12-03,3,Farm direct,Rabbit,12.97,lb,155.68
+actual,2029-12-10,3,Farm direct,Eggs,4.44,dozen,31.08
+actual,2029-12-10,3,Farm direct,Rabbit,10.88,lb,130.61
+actual,2029-12-17,3,Farm direct,Eggs,5.32,dozen,37.22
+actual,2029-12-17,3,Farm direct,Rabbit,14.07,lb,168.86
+actual,2029-12-24,3,Farm direct,Eggs,6.33,dozen,44.32
+actual,2029-12-24,3,Farm direct,Rabbit,13.5,lb,162.05
+actual,2029-12-31,3,Farm direct,Eggs,5.25,dozen,36.77
+actual,2029-12-31,3,Farm direct,Rabbit,12.11,lb,145.37

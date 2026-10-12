@@ -4,36 +4,57 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Trustfall Farms</title>
-<meta name="description" content="An analytics capstone: a fictional small farm taken from business idea to business intelligence, shown as a map of analytics workers.">
+<meta name="description" content="An analytics capstone: a semi-fictional small permaculture farm taken from business idea to business intelligence, run by a team of analytics workers.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=Inter:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#f6f1e7; --panel:#fffdf8; --ink:#2a2620; --muted:#6f675b; --line:#d9cfbd;
-  --hub:#5b4b8a; --terrain-a:#e4dcc6; --terrain-b:#d8e2c8; --terrain-c:#cfe0e3;
+  --bg:#f6f1e7; --panel:#fffdf8; --ink:#2a2620; --muted:#6f675b; --line:#d9cfbd; --grid:#ebe3d3;
+  --hub:#5b4b8a;
+  --t-orchard:#d6e3c3; --t-pasture:#e3e7c8; --t-pond:#cfe0e3; --t-forest:#c7d6c0; --t-beds:#e6dac2; --t-hay:#ece0bf;
+  --motif:#8a9a78;
 }
 @media (prefers-color-scheme: dark){
   :root{
-    --bg:#1b1916; --panel:#24211d; --ink:#efe8db; --muted:#a89f90; --line:#3a352d;
-    --hub:#9d8fd6; --terrain-a:#2c2923; --terrain-b:#26302a; --terrain-c:#243033;
+    --bg:#1b1916; --panel:#24211d; --ink:#efe8db; --muted:#a89f90; --line:#3a352d; --grid:#302c26;
+    --hub:#9d8fd6;
+    --t-orchard:#26301f; --t-pasture:#2b2e21; --t-pond:#213033; --t-forest:#212b1f; --t-beds:#30291f; --t-hay:#322c1f;
+    --motif:#5f6e52;
   }
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,sans-serif}
-header{max-width:1100px;margin:0 auto;padding:32px 16px 8px}
+a{color:inherit}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+header{padding-top:32px}
 h1{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:36px;margin:0 0 4px}
-.tagline{color:var(--muted);max-width:720px;margin:0}
-main{max-width:1100px;margin:0 auto;padding:8px 16px 40px;display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start}
+.tagline{color:var(--muted);max-width:760px;margin:0}
+
+/* Recruiter summary strip */
+.summary{margin:20px 0 24px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+@media (max-width:860px){.summary{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.kpi .k{font-size:12px;color:var(--muted)}
+.kpi .v{font-family:Fraunces,Georgia,serif;font-size:26px;line-height:1.2;margin:2px 0}
+.kpi .n{font-size:12px;color:var(--muted)}
+.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:24px}
+.chip{font-size:12px;border:1px solid var(--line);border-radius:999px;padding:2px 10px;background:var(--panel)}
+.btn{font:500 14px Inter,sans-serif;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:8px;padding:6px 12px;cursor:pointer;text-decoration:none}
+.spacer{flex:1}
+
+main{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start}
 @media (max-width:860px){main{grid-template-columns:1fr}}
 .board{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:12px}
+.hint{font-size:13px;color:var(--muted);padding:4px 8px 0}
 svg{width:100%;height:auto;display:block}
 .hex{cursor:pointer;transition:opacity .3s}
 .hex:focus{outline:none}
-.hex:focus-visible polygon.tile{stroke-width:3}
-.hex.idle{opacity:.45}
-.hex.selected polygon.tile{stroke-width:3}
+.hex:focus-visible polygon.tile,.hex.selected polygon.tile{stroke-width:3}
 .label{font:500 13px Inter,sans-serif;fill:var(--ink)}
+.place{font:400 10.5px Inter,sans-serif;fill:var(--muted);letter-spacing:.04em;text-transform:uppercase}
 .sub{font:400 11px Inter,sans-serif;fill:var(--muted)}
+.terrain-label{font:400 10.5px Inter,sans-serif;fill:var(--muted)}
+.sub.ready{font-weight:500}
 .flow{stroke-dasharray:4 6;fill:none;stroke-width:2;opacity:0}
 .flow.on{opacity:.8;animation:flow 1s linear infinite}
 @keyframes flow{to{stroke-dashoffset:-20}}
@@ -43,91 +64,139 @@ svg{width:100%;height:auto;display:block}
 @media (prefers-reduced-motion:reduce){.flow.on,.hex.working .pulse{animation:none}}
 .controls{display:flex;align-items:center;gap:12px;padding:8px 8px 4px;flex-wrap:wrap}
 .controls input{flex:1;min-width:160px;accent-color:var(--hub)}
-button{font:500 14px Inter,sans-serif;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:8px;padding:6px 12px;cursor:pointer}
-.stage-name{font-weight:500;min-width:150px}
-.ticks{display:flex;justify-content:space-between;padding:0 8px;color:var(--muted);font-size:11px}
+.stage-name{font-weight:500;min-width:170px}
+
 aside{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px}
-aside h2{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:22px;margin:0 0 4px}
+aside h2,.report h2{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:22px;margin:0 0 4px}
 .role{color:var(--muted);margin:0 0 12px}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
-.chip{font-size:12px;border:1px solid var(--line);border-radius:999px;padding:2px 10px}
 ol.timeline{list-style:none;padding:0;margin:0}
 ol.timeline li{padding:8px 0 8px 22px;border-top:1px solid var(--line);position:relative;font-size:14px}
 ol.timeline li::before{content:"";position:absolute;left:4px;top:15px;width:8px;height:8px;border-radius:50%;border:1.5px solid var(--muted)}
 ol.timeline li.done::before{background:var(--muted)}
 ol.timeline li.now{font-weight:500}
 ol.timeline li.now::before{background:var(--accent,var(--hub));border-color:var(--accent,var(--hub))}
-ol.timeline li.none{color:var(--muted)}
 .stg{display:block;font-size:11px;color:var(--muted);font-weight:400}
 .deliverable{margin-top:16px;padding:12px;border:1px dashed var(--line);border-radius:10px;color:var(--muted);font-size:14px}
-footer{max-width:1100px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font-size:13px}
+.deliverable button{margin-top:8px}
+
+/* Worker report */
+.report{margin:24px 0;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:24px}
+.report[hidden]{display:none}
+.report .lede{color:var(--muted);max-width:760px;margin:0 0 20px}
+.rgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+@media (max-width:860px){.rgrid{grid-template-columns:1fr}}
+.card h3{font-size:15px;font-weight:500;margin:0 0 2px}
+.card p{font-size:13px;color:var(--muted);margin:0 0 8px}
+.legend{display:flex;gap:16px;font-size:12px;color:var(--muted);margin-bottom:4px}
+.legend span::before{content:"";display:inline-block;width:16px;height:0;border-top:2px solid var(--sw);margin-right:6px;vertical-align:middle}
+.legend span.dash::before{border-top-style:dashed}
+.chart{position:relative}
+.chart text{font:400 11px Inter,sans-serif;fill:var(--muted)}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--bg);font-size:12px;padding:4px 8px;border-radius:6px;white-space:nowrap;opacity:0;transition:opacity .1s}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:right;padding:6px 8px;border-bottom:1px solid var(--line)}
+th:first-child,td:first-child{text-align:left}
+th{font-weight:500;color:var(--muted)}
+.neg{color:#a8432f} @media (prefers-color-scheme: dark){.neg{color:#e58a74}}
+.findings{margin:20px 0 0;padding-left:18px}
+.findings li{margin-bottom:6px}
+.sources{font-size:12px;color:var(--muted);margin-top:16px}
+footer{padding:0 16px 40px;color:var(--muted);font-size:13px}
 </style>
 </head>
 <body>
-<header>
+<header class="wrap">
   <h1 id="farm-name">Trustfall Farms</h1>
   <p class="tagline" id="tagline"></p>
+  <section class="summary" id="summary" aria-label="Headline findings"></section>
+  <div class="meta">
+    <span class="chip">SQL</span><span class="chip">Python</span><span class="chip">Forecasting</span>
+    <span class="chip">FP&amp;A</span><span class="chip">Risk analysis</span><span class="chip">Market research</span>
+    <span class="chip">Regulatory analysis</span><span class="chip">Data visualization</span>
+    <span class="spacer"></span>
+    <a class="btn" href="https://github.com/charlesandrereynolds-dev/trustfall-farms">See the code</a>
+  </div>
 </header>
-<main>
+
+<main class="wrap">
   <section class="board" aria-label="Farm analytics map">
-    <svg id="map" viewBox="-370 -335 740 670" role="img" aria-label="Hex map of analytics workers around an output hub"></svg>
+    <p class="hint">Each tile is an analytics worker at a spot on the farm. Click a tile, or press Play to walk from idea to decision.</p>
+    <svg id="map" viewBox="-370 -335 740 670" role="img" aria-label="Hex map of analytics workers around the farmhouse hub"></svg>
     <div class="controls">
-      <button id="play" type="button">Play</button>
+      <button id="play" class="btn" type="button">Play</button>
       <span class="stage-name" id="stage-name"></span>
       <input id="stage" type="range" min="0" max="5" value="0" aria-label="Business stage">
     </div>
   </section>
   <aside id="panel" aria-live="polite"></aside>
 </main>
-<footer id="disclaimer"></footer>
+
+<section class="wrap"><div class="report" id="report" hidden></div></section>
+<footer class="wrap" id="disclaimer"></footer>
 
 <script src="data.js"></script>
+<script src="results.js"></script>
 <script>
 (function(){
-  const D = window.TRUSTFALL;
+  const D = window.TRUSTFALL, RES = window.TRUSTFALL_RESULTS || {};
   const NS = "http://www.w3.org/2000/svg";
-  const R = 78, GAP = 6;               // hex radius and spacing
+  const R = 78, GAP = 6;
   const svg = document.getElementById("map");
   let stage = 0, selected = "hub", timer = null;
+  const $ = id => document.getElementById(id);
+  const money = v => (v < 0 ? "-$" : "$") + Math.abs(Math.round(v)).toLocaleString();
+  const k = v => (v < 0 ? "-$" : "$") + (Math.abs(v) / 1000).toFixed(1) + "K";
 
   const el = (tag, attrs, parent) => {
     const e = document.createElementNS(NS, tag);
-    for (const k in attrs) e.setAttribute(k, attrs[k]);
+    for (const a in attrs) e.setAttribute(a, attrs[a]);
     if (parent) parent.appendChild(e);
     return e;
   };
-  const toPx = (q, r) => {
-    const s = R + GAP / 2;
-    return { x: s * Math.sqrt(3) * (q + r / 2), y: s * 1.5 * r };
-  };
+  const toPx = (q, r) => { const s = R + GAP / 2; return { x: s * Math.sqrt(3) * (q + r / 2), y: s * 1.5 * r }; };
   const hexPoints = (cx, cy, rad) => Array.from({length: 6}, (_, i) => {
     const a = Math.PI / 180 * (60 * i - 30);
     return (cx + rad * Math.cos(a)).toFixed(1) + "," + (cy + rad * Math.sin(a)).toFixed(1);
   }).join(" ");
 
-  // Decorative terrain ring (radius 2)
-  const terrain = ["--terrain-a", "--terrain-b", "--terrain-c"];
+  // ---------- Terrain ring: the farm around the workers ----------
+  const TERRAIN = [
+    ["Orchard", "--t-orchard", (g, x, y) => [[-22,-8],[0,-14],[22,-8],[-11,10],[11,10]].forEach(([dx,dy]) => {
+        el("circle", {cx: x+dx, cy: y+dy, r: 7, fill: "var(--motif)", opacity: .7}, g);
+        el("line", {x1: x+dx, y1: y+dy+7, x2: x+dx, y2: y+dy+12, stroke: "var(--motif)", "stroke-width": 2}, g); })],
+    ["Pasture", "--t-pasture", (g, x, y) => [[-24,-6],[-6,-14],[14,-4],[26,-14],[-14,10],[6,8],[22,12]].forEach(([dx,dy]) =>
+        el("path", {d: `M${x+dx-4},${y+dy+4} l4,-8 l4,8`, fill: "none", stroke: "var(--motif)", "stroke-width": 1.5}, g))],
+    ["Pond", "--t-pond", (g, x, y) => [-12, 0, 12].forEach(dy =>
+        el("path", {d: `M${x-26},${y+dy} q6.5,-6 13,0 t13,0 t13,0 t13,0`, fill: "none", stroke: "var(--motif)", "stroke-width": 1.5}, g))],
+    ["Woodlot", "--t-forest", (g, x, y) => [[-20,4],[0,-10],[20,4],[-8,16],[12,18]].forEach(([dx,dy]) =>
+        el("path", {d: `M${x+dx},${y+dy-14} l9,16 h-18 z`, fill: "var(--motif)", opacity: .75}, g))],
+    ["Garden beds", "--t-beds", (g, x, y) => [-14, -4, 6, 16].forEach(dy =>
+        el("line", {x1: x-28, y1: y+dy, x2: x+28, y2: y+dy, stroke: "var(--motif)", "stroke-width": 3, "stroke-linecap": "round", opacity: .7}, g))],
+    ["Hayfield", "--t-hay", (g, x, y) => [-24, -12, 0, 12, 24].forEach(dx =>
+        el("line", {x1: x+dx-6, y1: y+16, x2: x+dx+6, y2: y-16, stroke: "var(--motif)", "stroke-width": 1.5, opacity: .7}, g))]
+  ];
   const dirs = [[1,0],[1,-1],[0,-1],[-1,0],[-1,1],[0,1]];
   let q = -2, r = 2, n = 0;
-  const gTerrain = el("g", {}, svg);
-  for (let side = 0; side < 6; side++) {
-    for (let step = 0; step < 2; step++) {
-      const p = toPx(q, r);
-      el("polygon", {points: hexPoints(p.x, p.y, R), fill: `var(${terrain[n++ % 3]})`}, gTerrain);
-      q += dirs[side][0]; r += dirs[side][1];
-    }
+  const gT = el("g", {}, svg);
+  for (let side = 0; side < 6; side++) for (let step = 0; step < 2; step++) {
+    const p = toPx(q, r), [name, fill, motif] = TERRAIN[n++ % TERRAIN.length];
+    const g = el("g", {}, gT);
+    el("title", {}, g).textContent = name;
+    el("polygon", {points: hexPoints(p.x, p.y, R), fill: `var(${fill})`}, g);
+    motif(g, p.x, p.y - 6);
+    const t = el("text", {x: p.x, y: p.y + 40, "text-anchor": "middle", class: "terrain-label"}, g);
+    t.textContent = name;
+    q += dirs[side][0]; r += dirs[side][1];
   }
 
-  // Flow lines from each worker to the hub
-  const gFlow = el("g", {}, svg);
-  const flows = {};
+  // ---------- Flow lines ----------
+  const gFlow = el("g", {}, svg), flows = {};
   D.workers.forEach(w => {
     const p = toPx(w.q, w.r);
-    flows[w.id] = el("line", {x1: p.x * .62, y1: p.y * .62, x2: p.x * .40, y2: p.y * .40,
-      stroke: w.color, class: "flow"}, gFlow);
+    flows[w.id] = el("line", {x1: p.x*.62, y1: p.y*.62, x2: p.x*.40, y2: p.y*.40, stroke: w.color, class: "flow"}, gFlow);
   });
 
-  // Avatar: head + shoulders, hat in worker color
   function avatar(g, cx, cy, color) {
     el("circle", {cx, cy: cy - 28, r: 16, class: "pulse", stroke: color}, g);
     el("path", {d: `M${cx-14},${cy-12} a14,12 0 0 1 28,0 z`, fill: color, opacity: .85}, g);
@@ -135,56 +204,42 @@ footer{max-width:1100px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fon
     el("path", {d: `M${cx-11},${cy-33} h22 l-4,-7 h-14 z`, fill: color}, g);
   }
 
-  function tile(id, name, q, r, color, isHub) {
+  const tiles = {};
+  function tile(id, name, place, q, r, color, isHub) {
     const p = toPx(q, r);
-    const g = el("g", {class: "hex", tabindex: 0, role: "button", "data-id": id, "aria-label": name}, svg);
-    el("polygon", {class: "tile", points: hexPoints(p.x, p.y, R - 2),
-      fill: color, "fill-opacity": isHub ? .22 : .14, stroke: color, "stroke-width": 1.2}, g);
-    avatar(g, p.x, p.y + 4, color);
-    const t = el("text", {x: p.x, y: p.y + 24, "text-anchor": "middle", class: "label"}, g);
+    const g = el("g", {class: "hex", tabindex: 0, role: "button", "data-id": id, "aria-label": `${name}, ${place}`}, svg);
+    el("polygon", {class: "tile", points: hexPoints(p.x, p.y, R - 2), fill: color,
+      "fill-opacity": isHub ? .22 : .14, stroke: color, "stroke-width": 1.2}, g);
+    const pl = el("text", {x: p.x, y: p.y - 46, "text-anchor": "middle", class: "place"}, g);
+    pl.textContent = place;
+    avatar(g, p.x, p.y + 8, color);
+    const t = el("text", {x: p.x, y: p.y + 26, "text-anchor": "middle", class: "label"}, g);
     t.textContent = name;
-    const s = el("text", {x: p.x, y: p.y + 41, "text-anchor": "middle", class: "sub"}, g);
+    const s = el("text", {x: p.x, y: p.y + 43, "text-anchor": "middle", class: "sub"}, g);
     g.addEventListener("click", () => select(id));
     g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); select(id); } });
-    return {g, s};
+    tiles[id] = {g, s};
   }
+  const hubColor = getComputedStyle(document.documentElement).getPropertyValue("--hub").trim() || "#5b4b8a";
+  tile("hub", D.hub.name, D.hub.place, 0, 0, hubColor, true);
+  D.workers.forEach(w => tile(w.id, w.name, w.place, w.q, w.r, w.color, false));
 
-  const tiles = {};
-  tiles.hub = tile("hub", D.hub.name, 0, 0, getComputedStyle(document.documentElement).getPropertyValue("--hub").trim() || "#5b4b8a", true);
-  D.workers.forEach(w => tiles[w.id] = tile(w.id, w.name, w.q, w.r, w.color, false));
-
-  function select(id) { selected = id; render(); }
+  function select(id) { selected = id; render(); if (RES[id]) $("report").scrollIntoView({behavior: "smooth", block: "start"}); }
 
   function render() {
-    document.getElementById("stage-name").textContent = `${stage + 1}. ${D.stages[stage]}`;
+    $("stage-name").textContent = `${stage + 1}. ${D.stages[stage]}`;
     D.workers.forEach(w => {
       const working = !!w.tasks[stage];
-      const t = tiles[w.id];
-      t.g.classList.toggle("working", working);
-      t.g.classList.toggle("idle", !working);
-      t.s.textContent = working ? "Working" : "Idle";
+      tiles[w.id].g.classList.toggle("working", working);
+      tiles[w.id].g.classList.toggle("idle", !working);
+      tiles[w.id].s.textContent = RES[w.id] ? "Report ready" : working ? "Working" : "Idle";
+      tiles[w.id].s.classList.toggle("ready", !!RES[w.id]);
+      if (RES[w.id]) tiles[w.id].s.setAttribute("fill", w.color);
       flows[w.id].classList.toggle("on", working);
     });
     tiles.hub.s.textContent = D.hub.short[stage];
     Object.entries(tiles).forEach(([id, t]) => t.g.classList.toggle("selected", id === selected));
-    renderPanel();
-  }
-
-  function renderPanel() {
-    const panel = document.getElementById("panel");
-    if (selected === "hub") {
-      panel.style.setProperty("--accent", "var(--hub)");
-      panel.innerHTML = `<h2>${D.hub.name}</h2><p class="role">${D.hub.role}</p>
-        <ol class="timeline">${D.hub.outputs.map((o, i) => item(D.stages[i], o, i)).join("")}</ol>
-        <div class="deliverable">Stage ${stage + 1} deliverable: ${D.hub.outputs[stage]}. Dashboard coming online this week.</div>`;
-      return;
-    }
-    const w = D.workers.find(x => x.id === selected);
-    panel.style.setProperty("--accent", w.color);
-    panel.innerHTML = `<h2>${w.name}</h2><p class="role">${w.role}</p>
-      <div class="chips">${w.skills.map(s => `<span class="chip">${s}</span>`).join("")}</div>
-      <ol class="timeline">${w.tasks.map((t, i) => item(D.stages[i], t, i)).join("")}</ol>
-      <div class="deliverable">${w.tasks[stage] ? `Now: ${w.tasks[stage]}. Chart, findings and code coming online this week.` : `Not active in the ${D.stages[stage].toLowerCase()} stage.`}</div>`;
+    renderPanel(); renderReport();
   }
 
   function item(stageName, text, i) {
@@ -192,22 +247,167 @@ footer{max-width:1100px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fon
     return `<li class="${cls}"><span class="stg">${stageName}</span>${text || "Not active"}</li>`;
   }
 
-  // Controls
-  const slider = document.getElementById("stage");
+  function renderPanel() {
+    const panel = $("panel");
+    const w = selected === "hub" ? null : D.workers.find(x => x.id === selected);
+    const color = w ? w.color : "var(--hub)";
+    panel.style.setProperty("--accent", color);
+    const title = w ? w.name : D.hub.name, role = w ? w.role : D.hub.role;
+    const list = w ? w.tasks : D.hub.outputs;
+    const chips = w ? `<div class="chips">${w.skills.map(s => `<span class="chip">${s}</span>`).join("")}</div>` : "";
+    const ready = RES[selected]
+      ? `Report ready. <br><button class="btn" type="button" id="jump">View the ${title} report</button>`
+      : `Chart, findings and code coming online this week.`;
+    panel.innerHTML = `<h2>${title}</h2><p class="role">${role}</p>${chips}
+      <ol class="timeline">${list.map((t, i) => item(D.stages[i], t, i)).join("")}</ol>
+      <div class="deliverable">${ready}</div>`;
+    const j = $("jump"); if (j) j.onclick = () => $("report").scrollIntoView({behavior: "smooth"});
+  }
+
+  // ---------- Charts (plain SVG, hover tooltips) ----------
+  function tooltip(box) { const t = document.createElement("div"); t.className = "tip"; box.appendChild(t); return t; }
+  function showTip(tip, box, x, y, html) {
+    tip.innerHTML = html; tip.style.opacity = 1;
+    const bw = box.clientWidth, tw = tip.offsetWidth;
+    tip.style.left = Math.min(Math.max(x - tw / 2, 0), bw - tw) + "px"; tip.style.top = (y - 34) + "px";
+  }
+
+  function lineChart(box, series, opts) {
+    const W = 520, H = 240, m = {l: 56, r: 12, t: 10, b: 28};
+    const all = series.flatMap(s => s.points.map(p => p.y));
+    const ymin = Math.min(0, ...all), ymax = Math.max(0, ...all);
+    const n = series[0].points.length;
+    const X = i => m.l + i / (n - 1) * (W - m.l - m.r);
+    const Y = v => m.t + (ymax - v) / (ymax - ymin) * (H - m.t - m.b);
+    const s = el("svg", {viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": opts.label});
+    const step = Math.pow(10, Math.floor(Math.log10((ymax - ymin) / 4)));
+    const tick = Math.ceil((ymax - ymin) / 4 / step) * step;
+    for (let v = Math.ceil(ymin / tick) * tick; v <= ymax; v += tick) {
+      el("line", {x1: m.l, x2: W - m.r, y1: Y(v), y2: Y(v), stroke: v === 0 ? "var(--muted)" : "var(--grid)", "stroke-width": v === 0 ? 1 : .8}, s);
+      el("text", {x: m.l - 6, y: Y(v) + 4, "text-anchor": "end"}, s).textContent = k(v);
+    }
+    series[0].points.forEach((p, i) => { if (p.label.endsWith("-01") || i === 0) el("text", {x: X(i), y: H - 8, "text-anchor": "middle"}, s).textContent = p.label.slice(0, 4); });
+    series.forEach(se => el("path", {d: se.points.map((p, i) => `${i ? "L" : "M"}${X(i).toFixed(1)},${Y(p.y).toFixed(1)}`).join(""),
+      fill: "none", stroke: se.color, "stroke-width": 2, "stroke-dasharray": se.dash ? "5 4" : "", "stroke-linejoin": "round"}, s));
+    const cross = el("line", {y1: m.t, y2: H - m.b, stroke: "var(--muted)", "stroke-width": 1, opacity: 0}, s);
+    const dots = series.map(se => el("circle", {r: 4, fill: se.color, stroke: "var(--panel)", "stroke-width": 2, opacity: 0}, s));
+    const hit = el("rect", {x: m.l, y: m.t, width: W - m.l - m.r, height: H - m.t - m.b, fill: "transparent"}, s);
+    box.appendChild(s); const tip = tooltip(box);
+    hit.addEventListener("mousemove", e => {
+      const rect = s.getBoundingClientRect(), sx = (e.clientX - rect.left) / rect.width * W;
+      const i = Math.max(0, Math.min(n - 1, Math.round((sx - m.l) / (W - m.l - m.r) * (n - 1))));
+      cross.setAttribute("x1", X(i)); cross.setAttribute("x2", X(i)); cross.setAttribute("opacity", .5);
+      dots.forEach((d, j) => { d.setAttribute("cx", X(i)); d.setAttribute("cy", Y(series[j].points[i].y)); d.setAttribute("opacity", 1); });
+      showTip(tip, box, X(i) / W * rect.width, Y(series[0].points[i].y) / H * rect.height,
+        `${series[0].points[i].label}: ` + series.map(se => `${se.name} ${money(se.points[i].y)}`).join(" · "));
+    });
+    hit.addEventListener("mouseleave", () => { tip.style.opacity = 0; cross.setAttribute("opacity", 0); dots.forEach(d => d.setAttribute("opacity", 0)); });
+  }
+
+  function barChart(box, rows, opts) {
+    const W = 520, rowH = 34, m = {l: 90, r: 60, t: 6, b: 6}, H = m.t + m.b + rows.length * rowH;
+    const max = Math.max(opts.ref || 0, ...rows.map(r => r.value));
+    const X = v => m.l + v / max * (W - m.l - m.r);
+    const s = el("svg", {viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": opts.label});
+    box.appendChild(s); const tip = tooltip(box);
+    rows.forEach((r, i) => {
+      const y = m.t + i * rowH;
+      el("text", {x: m.l - 8, y: y + rowH / 2 + 4, "text-anchor": "end"}, s).textContent = r.label;
+      const w = Math.max(X(r.value) - m.l, 2);
+      el("path", {d: `M${m.l},${y+7} h${w-4} a4,4 0 0 1 4,4 v${rowH-22} a4,4 0 0 1 -4,4 h${-(w-4)} z`, fill: opts.color}, s);
+      el("text", {x: X(r.value) + 6, y: y + rowH / 2 + 4}, s).textContent = opts.fmt(r.value);
+      const hit = el("rect", {x: 0, y, width: W, height: rowH, fill: "transparent"}, s);
+      hit.addEventListener("mousemove", e => { const rect = s.getBoundingClientRect();
+        showTip(tip, box, X(r.value) / W * rect.width, (y + 8) / H * rect.height, r.tip); });
+      hit.addEventListener("mouseleave", () => tip.style.opacity = 0);
+    });
+    if (opts.ref) {
+      el("line", {x1: X(opts.ref), x2: X(opts.ref), y1: 0, y2: H, stroke: "var(--ink)", "stroke-width": 1, "stroke-dasharray": "3 3"}, s);
+      el("text", {x: X(opts.ref) + 4, y: H - 4}, s).textContent = opts.refLabel;
+    }
+  }
+
+  // ---------- Worker reports ----------
+  function renderReport() {
+    const box = $("report");
+    if (selected === "budget" && RES.budget) return budgetReport(box, RES.budget, D.workers.find(w => w.id === "budget"));
+    box.hidden = true; box.innerHTML = "";
+  }
+
+  function budgetReport(box, B, w) {
+    box.hidden = false;
+    const y3 = B.pnl.find(r => r.scenario === "actual" && r.season === 3);
+    const wage3 = B.wage.find(r => r.season === 3);
+    box.innerHTML = `
+      <h2>Budget report</h2>
+      <p class="lede">What it costs to start Trustfall, when the cash comes back, where the plan missed, and whether the farm can pay its owner. Three simulated seasons (2027–2029), plan vs. actual.</p>
+      <div class="rgrid">
+        <div class="card"><h3>Cumulative cash, including startup costs</h3>
+          <p>The J-curve: cash dips during the build, then climbs. Payback is where it crosses zero.</p>
+          <div class="legend"><span style="--sw:${w.color}">Actual</span><span class="dash" style="--sw:var(--muted)">Plan</span></div>
+          <div class="chart" id="c-cash"></div></div>
+        <div class="card"><h3>Year 3 margin per owner hour</h3>
+          <p>Margin after direct and allocated shared costs, divided by the hours each enterprise takes.</p>
+          <div class="chart" id="c-ent"></div></div>
+        <div class="card"><h3>Effective owner wage by season</h3>
+          <p>Operating profit ÷ owner hours, against the $${B.wage_target}/hr target.</p>
+          <div class="chart" id="c-wage"></div></div>
+        <div class="card"><h3>Budget vs. actual revenue</h3>
+          <p>Where the plan missed and why.</p>
+          <table><thead><tr><th>Season</th><th>Plan</th><th>Actual</th><th>Variance</th></tr></thead><tbody>
+          ${[1,2,3].map(s => { const p = B.pnl.find(r => r.scenario === "plan" && r.season === s), a = B.pnl.find(r => r.scenario === "actual" && r.season === s), v = a.revenue - p.revenue;
+            return `<tr><td>Year ${s}</td><td>${money(p.revenue)}</td><td>${money(a.revenue)}</td><td class="${v < 0 ? "neg" : ""}">${money(v)} (${(v / p.revenue * 100).toFixed(1)}%)</td></tr>`; }).join("")}
+          </tbody></table>
+          <p style="margin-top:10px">${B.events.map(e => `<strong>${e.event}</strong> (${e.date.slice(0,7)}): ${e.description}.`).join("<br>")}</p></div>
+      </div>
+      <ul class="findings">
+        <li><strong>Startup:</strong> ${money(B.startup_capex)} in farm capex; the solar and truck farm shares make up ${Math.round(B.capex_items.filter(c => /Solar|Truck/.test(c.item)).reduce((a, c) => a + c.amount, 0) / B.startup_capex * 100)}% of it.</li>
+        <li><strong>Payback:</strong> the plan pays back by ${B.payback.plan}; in actuals, a late frost and wildfire-smoke cancellations push payback ${B.payback.actual.startsWith("Not") ? "past year 3" : "to " + B.payback.actual}.</li>
+        <li><strong>Year 3:</strong> ${money(y3.revenue)} revenue and ${money(y3.operating_profit)} operating profit, an effective owner wage of $${wage3.effective_hourly.toFixed(2)}/hr against a $${B.wage_target}/hr target.</li>
+        <li><strong>Permaculture loop:</strong> the maturing feed garden saves about ${money(B.feed_savings[2].savings)} a year in purchased feed by year 3.</li>
+      </ul>
+      <p class="sources">Method: weekly operating records simulated from a sourced assumptions log; analysis in SQL (DuckDB) and Python. <a href="https://github.com/charlesandrereynolds-dev/trustfall-farms/blob/main/notebooks/01_budget.ipynb">Open the notebook</a> · <a href="https://github.com/charlesandrereynolds-dev/trustfall-farms/blob/main/data/assumptions.csv">Assumptions log</a></p>`;
+
+    const pts = sc => B.cumulative[sc].map(r => ({label: r.month, y: r.cash}));
+    lineChart($("c-cash"), [{name: "Actual", color: w.color, points: pts("actual")},
+                             {name: "Plan", color: "var(--muted)", dash: true, points: pts("plan")}], {label: "Cumulative cash, plan vs actual"});
+    barChart($("c-ent"), B.enterprise_y3.slice().sort((a, b) => b.margin_per_hour - a.margin_per_hour).map(r => ({
+      label: r.enterprise, value: Math.max(r.margin_per_hour, 0),
+      tip: `${r.enterprise}: ${money(r.margin)} margin over ${Math.round(r.owner_hours)} hrs`})),
+      {color: w.color, fmt: v => "$" + v.toFixed(2), ref: B.wage_target, refLabel: `$${B.wage_target} target`, label: "Year 3 margin per owner hour by enterprise"});
+    barChart($("c-wage"), B.wage.map(r => ({label: `Year ${r.season}`, value: Math.max(r.effective_hourly, 0),
+      tip: `Year ${r.season}: ${money(r.operating_profit)} profit over ${Math.round(r.owner_hours)} hrs`})),
+      {color: w.color, fmt: v => "$" + v.toFixed(2) + "/hr", ref: B.wage_target, refLabel: `$${B.wage_target} target`, label: "Effective owner wage by season"});
+  }
+
+  // ---------- Recruiter summary strip ----------
+  function renderSummary() {
+    const B = RES.budget, cards = [];
+    if (B) {
+      const y3 = B.pnl.find(r => r.scenario === "actual" && r.season === 3), wage3 = B.wage.find(r => r.season === 3);
+      cards.push(["Farm startup capex", k(B.startup_capex), "Truck and solar at farm-use share"]);
+      cards.push(["Year 3 operating profit", k(y3.operating_profit), `on ${k(y3.revenue)} revenue`]);
+      cards.push(["Owner wage, year 3", `$${wage3.effective_hourly.toFixed(0)}/hr`, `vs. $${B.wage_target}/hr target`]);
+    }
+    cards.push(["Expansion decision", "In progress", "Four options under evaluation"]);
+    $("summary").innerHTML = cards.map(([kk, v, nn]) => `<div class="kpi"><div class="k">${kk}</div><div class="v">${v}</div><div class="n">${nn}</div></div>`).join("");
+  }
+
+  // ---------- Controls ----------
+  const slider = $("stage");
   slider.addEventListener("input", () => { stage = +slider.value; stop(); render(); });
-  const playBtn = document.getElementById("play");
+  const playBtn = $("play");
   function stop() { clearInterval(timer); timer = null; playBtn.textContent = "Play"; }
   playBtn.addEventListener("click", () => {
     if (timer) return stop();
     playBtn.textContent = "Pause";
-    timer = setInterval(() => {
-      stage = (stage + 1) % D.stages.length; slider.value = stage; render();
-    }, 2500);
+    timer = setInterval(() => { stage = (stage + 1) % D.stages.length; slider.value = stage; render(); }, 2500);
   });
 
-  document.getElementById("farm-name").textContent = D.farm.name;
-  document.getElementById("tagline").textContent = D.farm.tagline;
-  document.getElementById("disclaimer").textContent = D.farm.disclaimer;
+  $("farm-name").textContent = D.farm.name;
+  $("tagline").textContent = D.farm.tagline;
+  $("disclaimer").textContent = D.farm.disclaimer;
+  renderSummary();
   render();
 })();
 </script>

@@ -16,7 +16,7 @@ window.TRUSTFALL = {
     "The decision"
   ],
   hub: {
-    name: "Output hub",
+    name: "Output hub", place: "Farmhouse",
     role: "Rolls every worker's output into one decision view.",
     short: ["Concept brief", "Go / no-go", "Year 1 review", "Year 2 review", "3-year BI", "Recommendation"],
     outputs: [
@@ -38,7 +38,7 @@ window.TRUSTFALL = {
   // q, r = axial hex coordinates around the hub at (0, 0)
   workers: [
     {
-      id: "intake", name: "Data intake", q: 0, r: -1, color: "#2f7d6b",
+      id: "intake", place: "Records barn", name: "Data intake", q: 0, r: -1, color: "#2f7d6b",
       role: "Pulls public data, cleans it, and checks it before anyone else uses it.",
       skills: ["Python", "SQL", "Data validation", "ETL"],
       tasks: [
@@ -51,7 +51,7 @@ window.TRUSTFALL = {
       ]
     },
     {
-      id: "forecast", name: "Forecaster", q: 1, r: -1, color: "#3f6ea8",
+      id: "forecast", place: "Crop fields", name: "Forecaster", q: 1, r: -1, color: "#3f6ea8",
       role: "Turns history and seasonality into forward-looking numbers.",
       skills: ["Time series", "Seasonality", "Scenario modeling"],
       tasks: [
@@ -64,7 +64,7 @@ window.TRUSTFALL = {
       ]
     },
     {
-      id: "budget", name: "Budget", q: 1, r: 0, color: "#b07a1f",
+      id: "budget", place: "Farm office", name: "Budget", q: 1, r: 0, color: "#b07a1f",
       role: "Plans the money: what it costs to start, when it breaks even.",
       skills: ["FP&A", "Cash flow", "Budget vs. actual", "Unit economics"],
       tasks: [
@@ -77,7 +77,7 @@ window.TRUSTFALL = {
       ]
     },
     {
-      id: "risk", name: "Risk officer", q: 0, r: 1, color: "#b4483a",
+      id: "risk", place: "Weather station", name: "Risk officer", q: 0, r: 1, color: "#b4483a",
       role: "Finds what could go wrong, sizes it, and sets early warnings.",
       skills: ["Risk register", "Monte Carlo", "KRIs", "Scenario analysis"],
       tasks: [
@@ -90,7 +90,7 @@ window.TRUSTFALL = {
       ]
     },
     {
-      id: "market", name: "Market scout", q: -1, r: 1, color: "#6b5aa6",
+      id: "market", place: "Market stall", name: "Market scout", q: -1, r: 1, color: "#6b5aa6",
       role: "Sizes the opportunity and picks where and what to sell.",
       skills: ["Market sizing", "Geospatial", "Pricing"],
       tasks: [
@@ -103,7 +103,7 @@ window.TRUSTFALL = {
       ]
     },
     {
-      id: "compliance", name: "Compliance", q: -1, r: 0, color: "#4d6b2f",
+      id: "compliance", place: "Permit desk", name: "Compliance", q: -1, r: 0, color: "#4d6b2f",
       role: "Keeps the farm legal across two states' rules.",
       skills: ["Regulatory analysis", "Controls", "Documentation"],
       tasks: [

@@ -1,0 +1,2429 @@
+scenario,date,season,enterprise,item,amount
+plan,2027-03-01,1,Rabbits,Rabbit feed,12.0
+plan,2027-03-01,1,Rabbits,Doe upkeep,6.15
+plan,2027-03-01,1,Produce,Seed and amendments,67.69
+plan,2027-03-08,1,Rabbits,Rabbit feed,12.0
+plan,2027-03-08,1,Rabbits,Doe upkeep,6.15
+plan,2027-03-08,1,Produce,Seed and amendments,67.69
+plan,2027-03-15,1,Rabbits,Rabbit feed,12.0
+plan,2027-03-15,1,Rabbits,Doe upkeep,6.15
+plan,2027-03-15,1,Produce,Seed and amendments,67.69
+plan,2027-03-22,1,Rabbits,Rabbit feed,12.0
+plan,2027-03-22,1,Rabbits,Doe upkeep,6.15
+plan,2027-03-22,1,Produce,Seed and amendments,67.69
+plan,2027-03-29,1,Rabbits,Rabbit feed,12.0
+plan,2027-03-29,1,Rabbits,Doe upkeep,6.15
+plan,2027-03-29,1,Produce,Seed and amendments,67.69
+plan,2027-04-05,1,Eggs,Egg cartons,1.59
+plan,2027-04-05,1,Eggs,Layer feed,13.65
+plan,2027-04-05,1,Rabbits,Rabbit feed,12.0
+plan,2027-04-05,1,Rabbits,Doe upkeep,6.15
+plan,2027-04-05,1,Produce,Seed and amendments,67.69
+plan,2027-04-12,1,Eggs,Egg cartons,1.59
+plan,2027-04-12,1,Eggs,Layer feed,13.65
+plan,2027-04-12,1,Rabbits,Rabbit feed,12.0
+plan,2027-04-12,1,Rabbits,Doe upkeep,6.15
+plan,2027-04-12,1,Produce,Seed and amendments,67.69
+plan,2027-04-19,1,Eggs,Egg cartons,1.59
+plan,2027-04-19,1,Eggs,Layer feed,13.65
+plan,2027-04-19,1,Rabbits,Rabbit feed,12.0
+plan,2027-04-19,1,Rabbits,Doe upkeep,6.15
+plan,2027-04-19,1,Produce,Seed and amendments,67.69
+plan,2027-04-26,1,Eggs,Egg cartons,1.59
+plan,2027-04-26,1,Eggs,Layer feed,13.65
+plan,2027-04-26,1,Rabbits,Rabbit feed,12.0
+plan,2027-04-26,1,Rabbits,Doe upkeep,6.15
+plan,2027-04-26,1,Produce,Seed and amendments,67.69
+plan,2027-05-03,1,Eggs,Egg cartons,1.77
+plan,2027-05-03,1,Eggs,Layer feed,13.65
+plan,2027-05-03,1,Rabbits,Rabbit feed,12.0
+plan,2027-05-03,1,Rabbits,Doe upkeep,6.15
+plan,2027-05-03,1,Produce,Seed and amendments,67.69
+plan,2027-05-10,1,Eggs,Egg cartons,1.77
+plan,2027-05-10,1,Eggs,Layer feed,13.65
+plan,2027-05-10,1,Rabbits,Rabbit feed,12.0
+plan,2027-05-10,1,Rabbits,Doe upkeep,6.15
+plan,2027-05-10,1,Produce,Seed and amendments,67.69
+plan,2027-05-17,1,Eggs,Egg cartons,1.77
+plan,2027-05-17,1,Eggs,Layer feed,13.65
+plan,2027-05-17,1,Rabbits,Rabbit feed,12.0
+plan,2027-05-17,1,Rabbits,Doe upkeep,6.15
+plan,2027-05-17,1,Produce,Seed and amendments,67.69
+plan,2027-05-24,1,Eggs,Egg cartons,1.77
+plan,2027-05-24,1,Eggs,Layer feed,13.65
+plan,2027-05-24,1,Rabbits,Rabbit feed,12.0
+plan,2027-05-24,1,Rabbits,Doe upkeep,6.15
+plan,2027-05-24,1,Produce,Seed and amendments,67.69
+plan,2027-05-31,1,Eggs,Egg cartons,1.77
+plan,2027-05-31,1,Eggs,Layer feed,13.65
+plan,2027-05-31,1,Rabbits,Rabbit feed,12.0
+plan,2027-05-31,1,Rabbits,Doe upkeep,6.15
+plan,2027-05-31,1,Produce,Seed and amendments,67.69
+plan,2027-06-07,1,Eggs,Egg cartons,2.11
+plan,2027-06-07,1,Eggs,Layer feed,13.65
+plan,2027-06-07,1,Rabbits,Rabbit feed,12.0
+plan,2027-06-07,1,Rabbits,Doe upkeep,6.15
+plan,2027-06-07,1,Rabbits,Processing supplies,0.87
+plan,2027-06-07,1,Rabbits,Processing supplies,1.46
+plan,2027-06-07,1,Produce,Produce packaging,0.44
+plan,2027-06-07,1,Markets,Booth fee,20.0
+plan,2027-06-07,1,Markets,Mileage,28.0
+plan,2027-06-07,1,Produce,Produce packaging,0.73
+plan,2027-06-07,1,Markets,Booth fee,40.0
+plan,2027-06-07,1,Markets,Mileage,42.0
+plan,2027-06-14,1,Eggs,Egg cartons,2.11
+plan,2027-06-14,1,Eggs,Layer feed,13.65
+plan,2027-06-14,1,Rabbits,Rabbit feed,12.0
+plan,2027-06-14,1,Rabbits,Doe upkeep,6.15
+plan,2027-06-14,1,Rabbits,Processing supplies,0.87
+plan,2027-06-14,1,Rabbits,Processing supplies,1.46
+plan,2027-06-14,1,Produce,Produce packaging,0.75
+plan,2027-06-14,1,Markets,Booth fee,20.0
+plan,2027-06-14,1,Markets,Mileage,28.0
+plan,2027-06-14,1,Produce,Produce packaging,1.24
+plan,2027-06-14,1,Markets,Booth fee,40.0
+plan,2027-06-14,1,Markets,Mileage,42.0
+plan,2027-06-21,1,Eggs,Egg cartons,2.11
+plan,2027-06-21,1,Eggs,Layer feed,13.65
+plan,2027-06-21,1,Rabbits,Rabbit feed,12.0
+plan,2027-06-21,1,Rabbits,Doe upkeep,6.15
+plan,2027-06-21,1,Rabbits,Processing supplies,0.87
+plan,2027-06-21,1,Rabbits,Processing supplies,1.46
+plan,2027-06-21,1,Produce,Produce packaging,1.2
+plan,2027-06-21,1,Markets,Booth fee,20.0
+plan,2027-06-21,1,Markets,Mileage,28.0
+plan,2027-06-21,1,Produce,Produce packaging,1.99
+plan,2027-06-21,1,Markets,Booth fee,40.0
+plan,2027-06-21,1,Markets,Mileage,42.0
+plan,2027-06-28,1,Eggs,Egg cartons,2.11
+plan,2027-06-28,1,Eggs,Layer feed,13.65
+plan,2027-06-28,1,Rabbits,Rabbit feed,12.0
+plan,2027-06-28,1,Rabbits,Doe upkeep,6.15
+plan,2027-06-28,1,Rabbits,Processing supplies,0.87
+plan,2027-06-28,1,Rabbits,Processing supplies,1.46
+plan,2027-06-28,1,Produce,Produce packaging,1.81
+plan,2027-06-28,1,Markets,Booth fee,20.0
+plan,2027-06-28,1,Markets,Mileage,28.0
+plan,2027-06-28,1,Produce,Produce packaging,3.02
+plan,2027-06-28,1,Markets,Booth fee,40.0
+plan,2027-06-28,1,Markets,Mileage,42.0
+plan,2027-07-05,1,Eggs,Egg cartons,2.04
+plan,2027-07-05,1,Eggs,Layer feed,13.65
+plan,2027-07-05,1,Rabbits,Rabbit feed,12.0
+plan,2027-07-05,1,Rabbits,Doe upkeep,6.15
+plan,2027-07-05,1,Rabbits,Processing supplies,0.87
+plan,2027-07-05,1,Rabbits,Processing supplies,1.46
+plan,2027-07-05,1,Produce,Produce packaging,2.6
+plan,2027-07-05,1,Markets,Booth fee,20.0
+plan,2027-07-05,1,Markets,Mileage,28.0
+plan,2027-07-05,1,Produce,Produce packaging,4.34
+plan,2027-07-05,1,Markets,Booth fee,40.0
+plan,2027-07-05,1,Markets,Mileage,42.0
+plan,2027-07-12,1,Eggs,Egg cartons,2.04
+plan,2027-07-12,1,Eggs,Layer feed,13.65
+plan,2027-07-12,1,Rabbits,Rabbit feed,12.0
+plan,2027-07-12,1,Rabbits,Doe upkeep,6.15
+plan,2027-07-12,1,Rabbits,Processing supplies,0.87
+plan,2027-07-12,1,Rabbits,Processing supplies,1.46
+plan,2027-07-12,1,Produce,Produce packaging,3.53
+plan,2027-07-12,1,Markets,Booth fee,20.0
+plan,2027-07-12,1,Markets,Mileage,28.0
+plan,2027-07-12,1,Produce,Produce packaging,5.89
+plan,2027-07-12,1,Markets,Booth fee,40.0
+plan,2027-07-12,1,Markets,Mileage,42.0
+plan,2027-07-19,1,Eggs,Egg cartons,2.04
+plan,2027-07-19,1,Eggs,Layer feed,13.65
+plan,2027-07-19,1,Rabbits,Rabbit feed,12.0
+plan,2027-07-19,1,Rabbits,Doe upkeep,6.15
+plan,2027-07-19,1,Rabbits,Processing supplies,0.87
+plan,2027-07-19,1,Rabbits,Processing supplies,1.46
+plan,2027-07-19,1,Produce,Produce packaging,4.54
+plan,2027-07-19,1,Markets,Booth fee,20.0
+plan,2027-07-19,1,Markets,Mileage,28.0
+plan,2027-07-19,1,Produce,Produce packaging,7.56
+plan,2027-07-19,1,Markets,Booth fee,40.0
+plan,2027-07-19,1,Markets,Mileage,42.0
+plan,2027-07-26,1,Eggs,Egg cartons,2.04
+plan,2027-07-26,1,Eggs,Layer feed,13.65
+plan,2027-07-26,1,Rabbits,Rabbit feed,12.0
+plan,2027-07-26,1,Rabbits,Doe upkeep,6.15
+plan,2027-07-26,1,Rabbits,Processing supplies,0.87
+plan,2027-07-26,1,Rabbits,Processing supplies,1.46
+plan,2027-07-26,1,Produce,Produce packaging,5.51
+plan,2027-07-26,1,Markets,Booth fee,20.0
+plan,2027-07-26,1,Markets,Mileage,28.0
+plan,2027-07-26,1,Produce,Produce packaging,9.18
+plan,2027-07-26,1,Markets,Booth fee,40.0
+plan,2027-07-26,1,Markets,Mileage,42.0
+plan,2027-08-02,1,Eggs,Egg cartons,1.83
+plan,2027-08-02,1,Eggs,Layer feed,13.65
+plan,2027-08-02,1,Rabbits,Rabbit feed,12.0
+plan,2027-08-02,1,Rabbits,Doe upkeep,6.15
+plan,2027-08-02,1,Rabbits,Processing supplies,0.87
+plan,2027-08-02,1,Rabbits,Processing supplies,1.46
+plan,2027-08-02,1,Produce,Produce packaging,6.33
+plan,2027-08-02,1,Markets,Booth fee,20.0
+plan,2027-08-02,1,Markets,Mileage,28.0
+plan,2027-08-02,1,Produce,Produce packaging,10.55
+plan,2027-08-02,1,Markets,Booth fee,40.0
+plan,2027-08-02,1,Markets,Mileage,42.0
+plan,2027-08-09,1,Eggs,Egg cartons,1.83
+plan,2027-08-09,1,Eggs,Layer feed,13.65
+plan,2027-08-09,1,Rabbits,Rabbit feed,12.0
+plan,2027-08-09,1,Rabbits,Doe upkeep,6.15
+plan,2027-08-09,1,Rabbits,Processing supplies,0.87
+plan,2027-08-09,1,Rabbits,Processing supplies,1.46
+plan,2027-08-09,1,Produce,Produce packaging,6.88
+plan,2027-08-09,1,Markets,Booth fee,20.0
+plan,2027-08-09,1,Markets,Mileage,28.0
+plan,2027-08-09,1,Produce,Produce packaging,11.47
+plan,2027-08-09,1,Markets,Booth fee,40.0
+plan,2027-08-09,1,Markets,Mileage,42.0
+plan,2027-08-16,1,Eggs,Egg cartons,1.83
+plan,2027-08-16,1,Eggs,Layer feed,13.65
+plan,2027-08-16,1,Rabbits,Rabbit feed,12.0
+plan,2027-08-16,1,Rabbits,Doe upkeep,6.15
+plan,2027-08-16,1,Rabbits,Processing supplies,0.87
+plan,2027-08-16,1,Rabbits,Processing supplies,1.46
+plan,2027-08-16,1,Produce,Produce packaging,7.07
+plan,2027-08-16,1,Markets,Booth fee,20.0
+plan,2027-08-16,1,Markets,Mileage,28.0
+plan,2027-08-16,1,Produce,Produce packaging,11.79
+plan,2027-08-16,1,Markets,Booth fee,40.0
+plan,2027-08-16,1,Markets,Mileage,42.0
+plan,2027-08-23,1,Eggs,Egg cartons,1.83
+plan,2027-08-23,1,Eggs,Layer feed,13.65
+plan,2027-08-23,1,Rabbits,Rabbit feed,12.0
+plan,2027-08-23,1,Rabbits,Doe upkeep,6.15
+plan,2027-08-23,1,Rabbits,Processing supplies,0.87
+plan,2027-08-23,1,Rabbits,Processing supplies,1.46
+plan,2027-08-23,1,Produce,Produce packaging,6.88
+plan,2027-08-23,1,Markets,Booth fee,20.0
+plan,2027-08-23,1,Markets,Mileage,28.0
+plan,2027-08-23,1,Produce,Produce packaging,11.47
+plan,2027-08-23,1,Markets,Booth fee,40.0
+plan,2027-08-23,1,Markets,Mileage,42.0
+plan,2027-08-30,1,Eggs,Egg cartons,1.83
+plan,2027-08-30,1,Eggs,Layer feed,13.65
+plan,2027-08-30,1,Rabbits,Rabbit feed,12.0
+plan,2027-08-30,1,Rabbits,Doe upkeep,6.15
+plan,2027-08-30,1,Rabbits,Processing supplies,0.87
+plan,2027-08-30,1,Rabbits,Processing supplies,1.46
+plan,2027-08-30,1,Produce,Produce packaging,6.33
+plan,2027-08-30,1,Markets,Booth fee,20.0
+plan,2027-08-30,1,Markets,Mileage,28.0
+plan,2027-08-30,1,Produce,Produce packaging,10.55
+plan,2027-08-30,1,Markets,Booth fee,40.0
+plan,2027-08-30,1,Markets,Mileage,42.0
+plan,2027-09-06,1,Eggs,Egg cartons,1.55
+plan,2027-09-06,1,Eggs,Layer feed,13.65
+plan,2027-09-06,1,Rabbits,Rabbit feed,12.0
+plan,2027-09-06,1,Rabbits,Doe upkeep,6.15
+plan,2027-09-06,1,Rabbits,Processing supplies,0.87
+plan,2027-09-06,1,Rabbits,Processing supplies,1.46
+plan,2027-09-06,1,Produce,Produce packaging,5.51
+plan,2027-09-06,1,Markets,Booth fee,20.0
+plan,2027-09-06,1,Markets,Mileage,28.0
+plan,2027-09-06,1,Produce,Produce packaging,9.18
+plan,2027-09-06,1,Markets,Booth fee,40.0
+plan,2027-09-06,1,Markets,Mileage,42.0
+plan,2027-09-13,1,Eggs,Egg cartons,1.55
+plan,2027-09-13,1,Eggs,Layer feed,13.65
+plan,2027-09-13,1,Rabbits,Rabbit feed,12.0
+plan,2027-09-13,1,Rabbits,Doe upkeep,6.15
+plan,2027-09-13,1,Rabbits,Processing supplies,0.87
+plan,2027-09-13,1,Rabbits,Processing supplies,1.46
+plan,2027-09-13,1,Produce,Produce packaging,4.54
+plan,2027-09-13,1,Markets,Booth fee,20.0
+plan,2027-09-13,1,Markets,Mileage,28.0
+plan,2027-09-13,1,Produce,Produce packaging,7.56
+plan,2027-09-13,1,Markets,Booth fee,40.0
+plan,2027-09-13,1,Markets,Mileage,42.0
+plan,2027-09-20,1,Eggs,Egg cartons,1.55
+plan,2027-09-20,1,Eggs,Layer feed,13.65
+plan,2027-09-20,1,Rabbits,Rabbit feed,12.0
+plan,2027-09-20,1,Rabbits,Doe upkeep,6.15
+plan,2027-09-20,1,Rabbits,Processing supplies,0.87
+plan,2027-09-20,1,Rabbits,Processing supplies,1.46
+plan,2027-09-20,1,Produce,Produce packaging,3.53
+plan,2027-09-20,1,Markets,Booth fee,20.0
+plan,2027-09-20,1,Markets,Mileage,28.0
+plan,2027-09-20,1,Produce,Produce packaging,5.89
+plan,2027-09-20,1,Markets,Booth fee,40.0
+plan,2027-09-20,1,Markets,Mileage,42.0
+plan,2027-09-27,1,Eggs,Egg cartons,1.55
+plan,2027-09-27,1,Eggs,Layer feed,13.65
+plan,2027-09-27,1,Rabbits,Rabbit feed,12.0
+plan,2027-09-27,1,Rabbits,Doe upkeep,6.15
+plan,2027-09-27,1,Rabbits,Processing supplies,0.87
+plan,2027-09-27,1,Rabbits,Processing supplies,1.46
+plan,2027-09-27,1,Produce,Produce packaging,2.6
+plan,2027-09-27,1,Markets,Booth fee,20.0
+plan,2027-09-27,1,Markets,Mileage,28.0
+plan,2027-09-27,1,Produce,Produce packaging,4.34
+plan,2027-09-27,1,Markets,Booth fee,40.0
+plan,2027-09-27,1,Markets,Mileage,42.0
+plan,2027-10-04,1,Eggs,Egg cartons,1.27
+plan,2027-10-04,1,Eggs,Layer feed,13.65
+plan,2027-10-04,1,Rabbits,Rabbit feed,12.0
+plan,2027-10-04,1,Rabbits,Doe upkeep,6.15
+plan,2027-10-04,1,Rabbits,Processing supplies,0.87
+plan,2027-10-04,1,Rabbits,Processing supplies,1.46
+plan,2027-10-04,1,Produce,Produce packaging,1.81
+plan,2027-10-04,1,Markets,Booth fee,20.0
+plan,2027-10-04,1,Markets,Mileage,28.0
+plan,2027-10-04,1,Produce,Produce packaging,3.02
+plan,2027-10-04,1,Markets,Booth fee,40.0
+plan,2027-10-04,1,Markets,Mileage,42.0
+plan,2027-10-11,1,Eggs,Egg cartons,1.27
+plan,2027-10-11,1,Eggs,Layer feed,13.65
+plan,2027-10-11,1,Rabbits,Rabbit feed,12.0
+plan,2027-10-11,1,Rabbits,Doe upkeep,6.15
+plan,2027-10-11,1,Rabbits,Processing supplies,0.87
+plan,2027-10-11,1,Rabbits,Processing supplies,1.46
+plan,2027-10-11,1,Produce,Produce packaging,1.2
+plan,2027-10-11,1,Markets,Booth fee,20.0
+plan,2027-10-11,1,Markets,Mileage,28.0
+plan,2027-10-11,1,Produce,Produce packaging,1.99
+plan,2027-10-11,1,Markets,Booth fee,40.0
+plan,2027-10-11,1,Markets,Mileage,42.0
+plan,2027-10-18,1,Eggs,Egg cartons,1.27
+plan,2027-10-18,1,Eggs,Layer feed,13.65
+plan,2027-10-18,1,Rabbits,Rabbit feed,12.0
+plan,2027-10-18,1,Rabbits,Doe upkeep,6.15
+plan,2027-10-18,1,Rabbits,Processing supplies,0.87
+plan,2027-10-18,1,Rabbits,Processing supplies,1.46
+plan,2027-10-18,1,Produce,Produce packaging,0.75
+plan,2027-10-18,1,Markets,Booth fee,20.0
+plan,2027-10-18,1,Markets,Mileage,28.0
+plan,2027-10-18,1,Produce,Produce packaging,1.24
+plan,2027-10-18,1,Markets,Booth fee,40.0
+plan,2027-10-18,1,Markets,Mileage,42.0
+plan,2027-10-25,1,Eggs,Egg cartons,1.27
+plan,2027-10-25,1,Eggs,Layer feed,13.65
+plan,2027-10-25,1,Rabbits,Rabbit feed,12.0
+plan,2027-10-25,1,Rabbits,Doe upkeep,6.15
+plan,2027-10-25,1,Rabbits,Processing supplies,0.87
+plan,2027-10-25,1,Rabbits,Processing supplies,1.46
+plan,2027-10-25,1,Produce,Produce packaging,0.44
+plan,2027-10-25,1,Markets,Booth fee,20.0
+plan,2027-10-25,1,Markets,Mileage,28.0
+plan,2027-10-25,1,Produce,Produce packaging,0.73
+plan,2027-10-25,1,Markets,Booth fee,40.0
+plan,2027-10-25,1,Markets,Mileage,42.0
+plan,2027-11-01,1,Eggs,Egg cartons,0.92
+plan,2027-11-01,1,Eggs,Layer feed,13.65
+plan,2027-11-01,1,Rabbits,Doe upkeep,6.15
+plan,2027-11-01,1,Rabbits,Processing supplies,1.75
+plan,2027-11-08,1,Eggs,Egg cartons,0.92
+plan,2027-11-08,1,Eggs,Layer feed,13.65
+plan,2027-11-08,1,Rabbits,Doe upkeep,6.15
+plan,2027-11-08,1,Rabbits,Processing supplies,1.75
+plan,2027-11-15,1,Eggs,Egg cartons,0.92
+plan,2027-11-15,1,Eggs,Layer feed,13.65
+plan,2027-11-15,1,Rabbits,Doe upkeep,6.15
+plan,2027-11-15,1,Rabbits,Processing supplies,1.75
+plan,2027-11-22,1,Eggs,Egg cartons,0.92
+plan,2027-11-22,1,Eggs,Layer feed,13.65
+plan,2027-11-22,1,Rabbits,Doe upkeep,6.15
+plan,2027-11-22,1,Rabbits,Processing supplies,1.75
+plan,2027-11-29,1,Eggs,Egg cartons,0.92
+plan,2027-11-29,1,Eggs,Layer feed,13.65
+plan,2027-11-29,1,Rabbits,Doe upkeep,6.15
+plan,2027-11-29,1,Rabbits,Processing supplies,1.75
+plan,2027-12-06,1,Eggs,Egg cartons,0.86
+plan,2027-12-06,1,Eggs,Layer feed,13.65
+plan,2027-12-06,1,Rabbits,Doe upkeep,6.15
+plan,2027-12-06,1,Rabbits,Processing supplies,1.75
+plan,2027-12-13,1,Eggs,Egg cartons,0.86
+plan,2027-12-13,1,Eggs,Layer feed,13.65
+plan,2027-12-13,1,Rabbits,Doe upkeep,6.15
+plan,2027-12-13,1,Rabbits,Processing supplies,1.75
+plan,2027-12-20,1,Eggs,Egg cartons,0.86
+plan,2027-12-20,1,Eggs,Layer feed,13.65
+plan,2027-12-20,1,Rabbits,Doe upkeep,6.15
+plan,2027-12-20,1,Rabbits,Processing supplies,1.75
+plan,2027-12-27,1,Eggs,Egg cartons,0.86
+plan,2027-12-27,1,Eggs,Layer feed,13.65
+plan,2027-12-27,1,Rabbits,Doe upkeep,6.15
+plan,2027-12-27,1,Rabbits,Processing supplies,1.75
+plan,2027-03-01,1,Fixed,Insurance,600.0
+plan,2027-03-01,1,Fixed,Licenses and permits,300.0
+plan,2027-03-01,1,Fixed,Utilities,40.0
+plan,2027-04-01,1,Fixed,Utilities,40.0
+plan,2027-05-01,1,Fixed,Utilities,40.0
+plan,2027-06-01,1,Fixed,Utilities,40.0
+plan,2027-07-01,1,Fixed,Utilities,40.0
+plan,2027-08-01,1,Fixed,Utilities,40.0
+plan,2027-09-01,1,Fixed,Utilities,40.0
+plan,2027-10-01,1,Fixed,Utilities,40.0
+plan,2027-11-01,1,Fixed,Utilities,40.0
+plan,2027-12-01,1,Fixed,Utilities,40.0
+plan,2028-01-10,2,Eggs,Egg cartons,1.54
+plan,2028-01-10,2,Eggs,Layer feed,19.34
+plan,2028-01-10,2,Rabbits,Doe upkeep,5.23
+plan,2028-01-10,2,Rabbits,Processing supplies,3.5
+plan,2028-01-17,2,Eggs,Egg cartons,1.54
+plan,2028-01-17,2,Eggs,Layer feed,19.34
+plan,2028-01-17,2,Rabbits,Doe upkeep,5.23
+plan,2028-01-17,2,Rabbits,Processing supplies,3.5
+plan,2028-01-24,2,Eggs,Egg cartons,1.54
+plan,2028-01-24,2,Eggs,Layer feed,19.34
+plan,2028-01-24,2,Rabbits,Doe upkeep,5.23
+plan,2028-01-24,2,Rabbits,Processing supplies,3.5
+plan,2028-01-31,2,Eggs,Egg cartons,1.54
+plan,2028-01-31,2,Eggs,Layer feed,19.34
+plan,2028-01-31,2,Rabbits,Doe upkeep,5.23
+plan,2028-01-31,2,Rabbits,Processing supplies,3.5
+plan,2028-02-07,2,Eggs,Egg cartons,1.84
+plan,2028-02-07,2,Eggs,Layer feed,19.34
+plan,2028-02-07,2,Rabbits,Doe upkeep,5.23
+plan,2028-02-07,2,Rabbits,Processing supplies,3.5
+plan,2028-02-14,2,Eggs,Egg cartons,1.84
+plan,2028-02-14,2,Eggs,Layer feed,19.34
+plan,2028-02-14,2,Rabbits,Doe upkeep,5.23
+plan,2028-02-14,2,Rabbits,Processing supplies,3.5
+plan,2028-02-21,2,Eggs,Egg cartons,1.84
+plan,2028-02-21,2,Eggs,Layer feed,19.34
+plan,2028-02-21,2,Rabbits,Doe upkeep,5.23
+plan,2028-02-21,2,Rabbits,Processing supplies,3.5
+plan,2028-02-28,2,Eggs,Egg cartons,1.84
+plan,2028-02-28,2,Eggs,Layer feed,19.34
+plan,2028-02-28,2,Rabbits,Doe upkeep,5.23
+plan,2028-02-28,2,Rabbits,Processing supplies,3.5
+plan,2028-03-06,2,Eggs,Egg cartons,2.25
+plan,2028-03-06,2,Eggs,Layer feed,19.34
+plan,2028-03-06,2,Rabbits,Rabbit feed,20.4
+plan,2028-03-06,2,Rabbits,Doe upkeep,5.23
+plan,2028-03-06,2,Rabbits,Processing supplies,3.5
+plan,2028-03-06,2,Produce,Seed and amendments,89.23
+plan,2028-03-13,2,Eggs,Egg cartons,2.25
+plan,2028-03-13,2,Eggs,Layer feed,19.34
+plan,2028-03-13,2,Rabbits,Rabbit feed,20.4
+plan,2028-03-13,2,Rabbits,Doe upkeep,5.23
+plan,2028-03-13,2,Rabbits,Processing supplies,3.5
+plan,2028-03-13,2,Produce,Seed and amendments,89.23
+plan,2028-03-20,2,Eggs,Egg cartons,2.25
+plan,2028-03-20,2,Eggs,Layer feed,19.34
+plan,2028-03-20,2,Rabbits,Rabbit feed,20.4
+plan,2028-03-20,2,Rabbits,Doe upkeep,5.23
+plan,2028-03-20,2,Rabbits,Processing supplies,3.5
+plan,2028-03-20,2,Produce,Seed and amendments,89.23
+plan,2028-03-27,2,Eggs,Egg cartons,2.25
+plan,2028-03-27,2,Eggs,Layer feed,19.34
+plan,2028-03-27,2,Rabbits,Rabbit feed,20.4
+plan,2028-03-27,2,Rabbits,Doe upkeep,5.23
+plan,2028-03-27,2,Rabbits,Processing supplies,3.5
+plan,2028-03-27,2,Produce,Seed and amendments,89.23
+plan,2028-04-03,2,Eggs,Egg cartons,2.65
+plan,2028-04-03,2,Eggs,Layer feed,19.34
+plan,2028-04-03,2,Rabbits,Rabbit feed,20.4
+plan,2028-04-03,2,Rabbits,Doe upkeep,5.23
+plan,2028-04-03,2,Rabbits,Processing supplies,3.5
+plan,2028-04-03,2,Produce,Seed and amendments,89.23
+plan,2028-04-10,2,Eggs,Egg cartons,2.65
+plan,2028-04-10,2,Eggs,Layer feed,19.34
+plan,2028-04-10,2,Rabbits,Rabbit feed,20.4
+plan,2028-04-10,2,Rabbits,Doe upkeep,5.23
+plan,2028-04-10,2,Rabbits,Processing supplies,3.5
+plan,2028-04-10,2,Produce,Seed and amendments,89.23
+plan,2028-04-17,2,Eggs,Egg cartons,2.65
+plan,2028-04-17,2,Eggs,Layer feed,19.34
+plan,2028-04-17,2,Rabbits,Rabbit feed,20.4
+plan,2028-04-17,2,Rabbits,Doe upkeep,5.23
+plan,2028-04-17,2,Rabbits,Processing supplies,3.5
+plan,2028-04-17,2,Produce,Seed and amendments,89.23
+plan,2028-04-24,2,Eggs,Egg cartons,2.65
+plan,2028-04-24,2,Eggs,Layer feed,19.34
+plan,2028-04-24,2,Rabbits,Rabbit feed,20.4
+plan,2028-04-24,2,Rabbits,Doe upkeep,5.23
+plan,2028-04-24,2,Rabbits,Processing supplies,3.5
+plan,2028-04-24,2,Produce,Seed and amendments,89.23
+plan,2028-05-01,2,Eggs,Egg cartons,2.95
+plan,2028-05-01,2,Eggs,Layer feed,19.34
+plan,2028-05-01,2,Rabbits,Rabbit feed,20.4
+plan,2028-05-01,2,Rabbits,Doe upkeep,5.23
+plan,2028-05-01,2,Rabbits,Processing supplies,3.5
+plan,2028-05-01,2,Produce,Seed and amendments,89.23
+plan,2028-05-08,2,Eggs,Egg cartons,2.95
+plan,2028-05-08,2,Eggs,Layer feed,19.34
+plan,2028-05-08,2,Rabbits,Rabbit feed,20.4
+plan,2028-05-08,2,Rabbits,Doe upkeep,5.23
+plan,2028-05-08,2,Rabbits,Processing supplies,3.5
+plan,2028-05-08,2,Produce,Seed and amendments,89.23
+plan,2028-05-15,2,Eggs,Egg cartons,2.95
+plan,2028-05-15,2,Eggs,Layer feed,19.34
+plan,2028-05-15,2,Rabbits,Rabbit feed,20.4
+plan,2028-05-15,2,Rabbits,Doe upkeep,5.23
+plan,2028-05-15,2,Rabbits,Processing supplies,3.5
+plan,2028-05-15,2,Produce,Seed and amendments,89.23
+plan,2028-05-22,2,Eggs,Egg cartons,2.95
+plan,2028-05-22,2,Eggs,Layer feed,19.34
+plan,2028-05-22,2,Rabbits,Rabbit feed,20.4
+plan,2028-05-22,2,Rabbits,Doe upkeep,5.23
+plan,2028-05-22,2,Rabbits,Processing supplies,3.5
+plan,2028-05-22,2,Produce,Seed and amendments,89.23
+plan,2028-05-29,2,Eggs,Egg cartons,2.95
+plan,2028-05-29,2,Eggs,Layer feed,19.34
+plan,2028-05-29,2,Rabbits,Rabbit feed,20.4
+plan,2028-05-29,2,Rabbits,Doe upkeep,5.23
+plan,2028-05-29,2,Rabbits,Processing supplies,3.5
+plan,2028-05-29,2,Produce,Seed and amendments,89.23
+plan,2028-06-05,2,Eggs,Egg cartons,3.52
+plan,2028-06-05,2,Eggs,Layer feed,19.34
+plan,2028-06-05,2,Rabbits,Rabbit feed,20.4
+plan,2028-06-05,2,Rabbits,Doe upkeep,5.23
+plan,2028-06-05,2,Rabbits,Processing supplies,1.67
+plan,2028-06-05,2,Rabbits,Processing supplies,2.78
+plan,2028-06-05,2,Produce,Produce packaging,0.67
+plan,2028-06-05,2,Markets,Booth fee,20.0
+plan,2028-06-05,2,Markets,Mileage,28.0
+plan,2028-06-05,2,Produce,Produce packaging,1.12
+plan,2028-06-05,2,Markets,Booth fee,40.0
+plan,2028-06-05,2,Markets,Mileage,42.0
+plan,2028-06-12,2,Eggs,Egg cartons,3.52
+plan,2028-06-12,2,Eggs,Layer feed,19.34
+plan,2028-06-12,2,Rabbits,Rabbit feed,20.4
+plan,2028-06-12,2,Rabbits,Doe upkeep,5.23
+plan,2028-06-12,2,Rabbits,Processing supplies,1.67
+plan,2028-06-12,2,Rabbits,Processing supplies,2.78
+plan,2028-06-12,2,Produce,Produce packaging,1.14
+plan,2028-06-12,2,Markets,Booth fee,20.0
+plan,2028-06-12,2,Markets,Mileage,28.0
+plan,2028-06-12,2,Produce,Produce packaging,1.9
+plan,2028-06-12,2,Markets,Booth fee,40.0
+plan,2028-06-12,2,Markets,Mileage,42.0
+plan,2028-06-19,2,Eggs,Egg cartons,3.52
+plan,2028-06-19,2,Eggs,Layer feed,19.34
+plan,2028-06-19,2,Rabbits,Rabbit feed,20.4
+plan,2028-06-19,2,Rabbits,Doe upkeep,5.23
+plan,2028-06-19,2,Rabbits,Processing supplies,1.67
+plan,2028-06-19,2,Rabbits,Processing supplies,2.78
+plan,2028-06-19,2,Produce,Produce packaging,1.83
+plan,2028-06-19,2,Markets,Booth fee,20.0
+plan,2028-06-19,2,Markets,Mileage,28.0
+plan,2028-06-19,2,Produce,Produce packaging,3.05
+plan,2028-06-19,2,Markets,Booth fee,40.0
+plan,2028-06-19,2,Markets,Mileage,42.0
+plan,2028-06-26,2,Eggs,Egg cartons,3.52
+plan,2028-06-26,2,Eggs,Layer feed,19.34
+plan,2028-06-26,2,Rabbits,Rabbit feed,20.4
+plan,2028-06-26,2,Rabbits,Doe upkeep,5.23
+plan,2028-06-26,2,Rabbits,Processing supplies,1.67
+plan,2028-06-26,2,Rabbits,Processing supplies,2.78
+plan,2028-06-26,2,Produce,Produce packaging,2.78
+plan,2028-06-26,2,Markets,Booth fee,20.0
+plan,2028-06-26,2,Markets,Mileage,28.0
+plan,2028-06-26,2,Produce,Produce packaging,4.63
+plan,2028-06-26,2,Markets,Booth fee,40.0
+plan,2028-06-26,2,Markets,Mileage,42.0
+plan,2028-07-03,2,Eggs,Egg cartons,3.4
+plan,2028-07-03,2,Eggs,Layer feed,19.34
+plan,2028-07-03,2,Rabbits,Rabbit feed,20.4
+plan,2028-07-03,2,Rabbits,Doe upkeep,5.23
+plan,2028-07-03,2,Rabbits,Processing supplies,1.67
+plan,2028-07-03,2,Rabbits,Processing supplies,2.78
+plan,2028-07-03,2,Produce,Produce packaging,3.99
+plan,2028-07-03,2,Markets,Booth fee,20.0
+plan,2028-07-03,2,Markets,Mileage,28.0
+plan,2028-07-03,2,Produce,Produce packaging,6.65
+plan,2028-07-03,2,Markets,Booth fee,40.0
+plan,2028-07-03,2,Markets,Mileage,42.0
+plan,2028-07-10,2,Eggs,Egg cartons,3.4
+plan,2028-07-10,2,Eggs,Layer feed,19.34
+plan,2028-07-10,2,Rabbits,Rabbit feed,20.4
+plan,2028-07-10,2,Rabbits,Doe upkeep,5.23
+plan,2028-07-10,2,Rabbits,Processing supplies,1.67
+plan,2028-07-10,2,Rabbits,Processing supplies,2.78
+plan,2028-07-10,2,Produce,Produce packaging,5.42
+plan,2028-07-10,2,Markets,Booth fee,20.0
+plan,2028-07-10,2,Markets,Mileage,28.0
+plan,2028-07-10,2,Produce,Produce packaging,9.03
+plan,2028-07-10,2,Markets,Booth fee,40.0
+plan,2028-07-10,2,Markets,Mileage,42.0
+plan,2028-07-17,2,Eggs,Egg cartons,3.4
+plan,2028-07-17,2,Eggs,Layer feed,19.34
+plan,2028-07-17,2,Rabbits,Rabbit feed,20.4
+plan,2028-07-17,2,Rabbits,Doe upkeep,5.23
+plan,2028-07-17,2,Rabbits,Processing supplies,1.67
+plan,2028-07-17,2,Rabbits,Processing supplies,2.78
+plan,2028-07-17,2,Produce,Produce packaging,6.95
+plan,2028-07-17,2,Markets,Booth fee,20.0
+plan,2028-07-17,2,Markets,Mileage,28.0
+plan,2028-07-17,2,Produce,Produce packaging,11.59
+plan,2028-07-17,2,Markets,Booth fee,40.0
+plan,2028-07-17,2,Markets,Mileage,42.0
+plan,2028-07-24,2,Eggs,Egg cartons,3.4
+plan,2028-07-24,2,Eggs,Layer feed,19.34
+plan,2028-07-24,2,Rabbits,Rabbit feed,20.4
+plan,2028-07-24,2,Rabbits,Doe upkeep,5.23
+plan,2028-07-24,2,Rabbits,Processing supplies,1.67
+plan,2028-07-24,2,Rabbits,Processing supplies,2.78
+plan,2028-07-24,2,Produce,Produce packaging,8.45
+plan,2028-07-24,2,Markets,Booth fee,20.0
+plan,2028-07-24,2,Markets,Mileage,28.0
+plan,2028-07-24,2,Produce,Produce packaging,14.08
+plan,2028-07-24,2,Markets,Booth fee,40.0
+plan,2028-07-24,2,Markets,Mileage,42.0
+plan,2028-07-31,2,Eggs,Egg cartons,3.4
+plan,2028-07-31,2,Eggs,Layer feed,19.34
+plan,2028-07-31,2,Rabbits,Rabbit feed,20.4
+plan,2028-07-31,2,Rabbits,Doe upkeep,5.23
+plan,2028-07-31,2,Rabbits,Processing supplies,1.67
+plan,2028-07-31,2,Rabbits,Processing supplies,2.78
+plan,2028-07-31,2,Produce,Produce packaging,9.7
+plan,2028-07-31,2,Markets,Booth fee,20.0
+plan,2028-07-31,2,Markets,Mileage,28.0
+plan,2028-07-31,2,Produce,Produce packaging,16.17
+plan,2028-07-31,2,Markets,Booth fee,40.0
+plan,2028-07-31,2,Markets,Mileage,42.0
+plan,2028-08-07,2,Eggs,Egg cartons,3.05
+plan,2028-08-07,2,Eggs,Layer feed,19.34
+plan,2028-08-07,2,Rabbits,Rabbit feed,20.4
+plan,2028-08-07,2,Rabbits,Doe upkeep,5.23
+plan,2028-08-07,2,Rabbits,Processing supplies,1.67
+plan,2028-08-07,2,Rabbits,Processing supplies,2.78
+plan,2028-08-07,2,Produce,Produce packaging,10.55
+plan,2028-08-07,2,Markets,Booth fee,20.0
+plan,2028-08-07,2,Markets,Mileage,28.0
+plan,2028-08-07,2,Produce,Produce packaging,17.58
+plan,2028-08-07,2,Markets,Booth fee,40.0
+plan,2028-08-07,2,Markets,Mileage,42.0
+plan,2028-08-14,2,Eggs,Egg cartons,3.05
+plan,2028-08-14,2,Eggs,Layer feed,19.34
+plan,2028-08-14,2,Rabbits,Rabbit feed,20.4
+plan,2028-08-14,2,Rabbits,Doe upkeep,5.23
+plan,2028-08-14,2,Rabbits,Processing supplies,1.67
+plan,2028-08-14,2,Rabbits,Processing supplies,2.78
+plan,2028-08-14,2,Produce,Produce packaging,10.84
+plan,2028-08-14,2,Markets,Booth fee,20.0
+plan,2028-08-14,2,Markets,Mileage,28.0
+plan,2028-08-14,2,Produce,Produce packaging,18.07
+plan,2028-08-14,2,Markets,Booth fee,40.0
+plan,2028-08-14,2,Markets,Mileage,42.0
+plan,2028-08-21,2,Eggs,Egg cartons,3.05
+plan,2028-08-21,2,Eggs,Layer feed,19.34
+plan,2028-08-21,2,Rabbits,Rabbit feed,20.4
+plan,2028-08-21,2,Rabbits,Doe upkeep,5.23
+plan,2028-08-21,2,Rabbits,Processing supplies,1.67
+plan,2028-08-21,2,Rabbits,Processing supplies,2.78
+plan,2028-08-21,2,Produce,Produce packaging,10.55
+plan,2028-08-21,2,Markets,Booth fee,20.0
+plan,2028-08-21,2,Markets,Mileage,28.0
+plan,2028-08-21,2,Produce,Produce packaging,17.58
+plan,2028-08-21,2,Markets,Booth fee,40.0
+plan,2028-08-21,2,Markets,Mileage,42.0
+plan,2028-08-28,2,Eggs,Egg cartons,3.05
+plan,2028-08-28,2,Eggs,Layer feed,19.34
+plan,2028-08-28,2,Rabbits,Rabbit feed,20.4
+plan,2028-08-28,2,Rabbits,Doe upkeep,5.23
+plan,2028-08-28,2,Rabbits,Processing supplies,1.67
+plan,2028-08-28,2,Rabbits,Processing supplies,2.78
+plan,2028-08-28,2,Produce,Produce packaging,9.7
+plan,2028-08-28,2,Markets,Booth fee,20.0
+plan,2028-08-28,2,Markets,Mileage,28.0
+plan,2028-08-28,2,Produce,Produce packaging,16.17
+plan,2028-08-28,2,Markets,Booth fee,40.0
+plan,2028-08-28,2,Markets,Mileage,42.0
+plan,2028-09-04,2,Eggs,Egg cartons,2.58
+plan,2028-09-04,2,Eggs,Layer feed,19.34
+plan,2028-09-04,2,Rabbits,Rabbit feed,20.4
+plan,2028-09-04,2,Rabbits,Doe upkeep,5.23
+plan,2028-09-04,2,Rabbits,Processing supplies,1.67
+plan,2028-09-04,2,Rabbits,Processing supplies,2.78
+plan,2028-09-04,2,Produce,Produce packaging,8.45
+plan,2028-09-04,2,Markets,Booth fee,20.0
+plan,2028-09-04,2,Markets,Mileage,28.0
+plan,2028-09-04,2,Produce,Produce packaging,14.08
+plan,2028-09-04,2,Markets,Booth fee,40.0
+plan,2028-09-04,2,Markets,Mileage,42.0
+plan,2028-09-11,2,Eggs,Egg cartons,2.58
+plan,2028-09-11,2,Eggs,Layer feed,19.34
+plan,2028-09-11,2,Rabbits,Rabbit feed,20.4
+plan,2028-09-11,2,Rabbits,Doe upkeep,5.23
+plan,2028-09-11,2,Rabbits,Processing supplies,1.67
+plan,2028-09-11,2,Rabbits,Processing supplies,2.78
+plan,2028-09-11,2,Produce,Produce packaging,6.95
+plan,2028-09-11,2,Markets,Booth fee,20.0
+plan,2028-09-11,2,Markets,Mileage,28.0
+plan,2028-09-11,2,Produce,Produce packaging,11.59
+plan,2028-09-11,2,Markets,Booth fee,40.0
+plan,2028-09-11,2,Markets,Mileage,42.0
+plan,2028-09-18,2,Eggs,Egg cartons,2.58
+plan,2028-09-18,2,Eggs,Layer feed,19.34
+plan,2028-09-18,2,Rabbits,Rabbit feed,20.4
+plan,2028-09-18,2,Rabbits,Doe upkeep,5.23
+plan,2028-09-18,2,Rabbits,Processing supplies,1.67
+plan,2028-09-18,2,Rabbits,Processing supplies,2.78
+plan,2028-09-18,2,Produce,Produce packaging,5.42
+plan,2028-09-18,2,Markets,Booth fee,20.0
+plan,2028-09-18,2,Markets,Mileage,28.0
+plan,2028-09-18,2,Produce,Produce packaging,9.03
+plan,2028-09-18,2,Markets,Booth fee,40.0
+plan,2028-09-18,2,Markets,Mileage,42.0
+plan,2028-09-25,2,Eggs,Egg cartons,2.58
+plan,2028-09-25,2,Eggs,Layer feed,19.34
+plan,2028-09-25,2,Rabbits,Rabbit feed,20.4
+plan,2028-09-25,2,Rabbits,Doe upkeep,5.23
+plan,2028-09-25,2,Rabbits,Processing supplies,1.67
+plan,2028-09-25,2,Rabbits,Processing supplies,2.78
+plan,2028-09-25,2,Produce,Produce packaging,3.99
+plan,2028-09-25,2,Markets,Booth fee,20.0
+plan,2028-09-25,2,Markets,Mileage,28.0
+plan,2028-09-25,2,Produce,Produce packaging,6.65
+plan,2028-09-25,2,Markets,Booth fee,40.0
+plan,2028-09-25,2,Markets,Mileage,42.0
+plan,2028-10-02,2,Eggs,Egg cartons,2.11
+plan,2028-10-02,2,Eggs,Layer feed,19.34
+plan,2028-10-02,2,Rabbits,Rabbit feed,20.4
+plan,2028-10-02,2,Rabbits,Doe upkeep,5.23
+plan,2028-10-02,2,Rabbits,Processing supplies,1.67
+plan,2028-10-02,2,Rabbits,Processing supplies,2.78
+plan,2028-10-02,2,Produce,Produce packaging,2.78
+plan,2028-10-02,2,Markets,Booth fee,20.0
+plan,2028-10-02,2,Markets,Mileage,28.0
+plan,2028-10-02,2,Produce,Produce packaging,4.63
+plan,2028-10-02,2,Markets,Booth fee,40.0
+plan,2028-10-02,2,Markets,Mileage,42.0
+plan,2028-10-09,2,Eggs,Egg cartons,2.11
+plan,2028-10-09,2,Eggs,Layer feed,19.34
+plan,2028-10-09,2,Rabbits,Rabbit feed,20.4
+plan,2028-10-09,2,Rabbits,Doe upkeep,5.23
+plan,2028-10-09,2,Rabbits,Processing supplies,1.67
+plan,2028-10-09,2,Rabbits,Processing supplies,2.78
+plan,2028-10-09,2,Produce,Produce packaging,1.83
+plan,2028-10-09,2,Markets,Booth fee,20.0
+plan,2028-10-09,2,Markets,Mileage,28.0
+plan,2028-10-09,2,Produce,Produce packaging,3.05
+plan,2028-10-09,2,Markets,Booth fee,40.0
+plan,2028-10-09,2,Markets,Mileage,42.0
+plan,2028-10-16,2,Eggs,Egg cartons,2.11
+plan,2028-10-16,2,Eggs,Layer feed,19.34
+plan,2028-10-16,2,Rabbits,Rabbit feed,20.4
+plan,2028-10-16,2,Rabbits,Doe upkeep,5.23
+plan,2028-10-16,2,Rabbits,Processing supplies,1.67
+plan,2028-10-16,2,Rabbits,Processing supplies,2.78
+plan,2028-10-16,2,Produce,Produce packaging,1.14
+plan,2028-10-16,2,Markets,Booth fee,20.0
+plan,2028-10-16,2,Markets,Mileage,28.0
+plan,2028-10-16,2,Produce,Produce packaging,1.9
+plan,2028-10-16,2,Markets,Booth fee,40.0
+plan,2028-10-16,2,Markets,Mileage,42.0
+plan,2028-10-23,2,Eggs,Egg cartons,2.11
+plan,2028-10-23,2,Eggs,Layer feed,19.34
+plan,2028-10-23,2,Rabbits,Rabbit feed,20.4
+plan,2028-10-23,2,Rabbits,Doe upkeep,5.23
+plan,2028-10-23,2,Rabbits,Processing supplies,1.67
+plan,2028-10-23,2,Rabbits,Processing supplies,2.78
+plan,2028-10-23,2,Produce,Produce packaging,0.67
+plan,2028-10-23,2,Markets,Booth fee,20.0
+plan,2028-10-23,2,Markets,Mileage,28.0
+plan,2028-10-23,2,Produce,Produce packaging,1.12
+plan,2028-10-23,2,Markets,Booth fee,40.0
+plan,2028-10-23,2,Markets,Mileage,42.0
+plan,2028-10-30,2,Eggs,Egg cartons,2.11
+plan,2028-10-30,2,Eggs,Layer feed,19.34
+plan,2028-10-30,2,Rabbits,Rabbit feed,20.4
+plan,2028-10-30,2,Rabbits,Doe upkeep,5.23
+plan,2028-10-30,2,Rabbits,Processing supplies,1.67
+plan,2028-10-30,2,Rabbits,Processing supplies,2.78
+plan,2028-10-30,2,Produce,Produce packaging,0.38
+plan,2028-10-30,2,Markets,Booth fee,20.0
+plan,2028-10-30,2,Markets,Mileage,28.0
+plan,2028-10-30,2,Produce,Produce packaging,0.63
+plan,2028-10-30,2,Markets,Booth fee,40.0
+plan,2028-10-30,2,Markets,Mileage,42.0
+plan,2028-11-06,2,Eggs,Egg cartons,1.54
+plan,2028-11-06,2,Eggs,Layer feed,19.34
+plan,2028-11-06,2,Rabbits,Doe upkeep,5.23
+plan,2028-11-06,2,Rabbits,Processing supplies,3.5
+plan,2028-11-13,2,Eggs,Egg cartons,1.54
+plan,2028-11-13,2,Eggs,Layer feed,19.34
+plan,2028-11-13,2,Rabbits,Doe upkeep,5.23
+plan,2028-11-13,2,Rabbits,Processing supplies,3.5
+plan,2028-11-20,2,Eggs,Egg cartons,1.54
+plan,2028-11-20,2,Eggs,Layer feed,19.34
+plan,2028-11-20,2,Rabbits,Doe upkeep,5.23
+plan,2028-11-20,2,Rabbits,Processing supplies,3.5
+plan,2028-11-27,2,Eggs,Egg cartons,1.54
+plan,2028-11-27,2,Eggs,Layer feed,19.34
+plan,2028-11-27,2,Rabbits,Doe upkeep,5.23
+plan,2028-11-27,2,Rabbits,Processing supplies,3.5
+plan,2028-12-04,2,Eggs,Egg cartons,1.43
+plan,2028-12-04,2,Eggs,Layer feed,19.34
+plan,2028-12-04,2,Rabbits,Doe upkeep,5.23
+plan,2028-12-04,2,Rabbits,Processing supplies,3.5
+plan,2028-12-11,2,Eggs,Egg cartons,1.43
+plan,2028-12-11,2,Eggs,Layer feed,19.34
+plan,2028-12-11,2,Rabbits,Doe upkeep,5.23
+plan,2028-12-11,2,Rabbits,Processing supplies,3.5
+plan,2028-12-18,2,Eggs,Egg cartons,1.43
+plan,2028-12-18,2,Eggs,Layer feed,19.34
+plan,2028-12-18,2,Rabbits,Doe upkeep,5.23
+plan,2028-12-18,2,Rabbits,Processing supplies,3.5
+plan,2028-12-25,2,Eggs,Egg cartons,1.43
+plan,2028-12-25,2,Eggs,Layer feed,19.34
+plan,2028-12-25,2,Rabbits,Doe upkeep,5.23
+plan,2028-12-25,2,Rabbits,Processing supplies,3.5
+plan,2028-01-01,2,Fixed,Insurance,600.0
+plan,2028-01-01,2,Fixed,Licenses and permits,300.0
+plan,2028-01-01,2,Fixed,Utilities,40.0
+plan,2028-02-01,2,Fixed,Utilities,40.0
+plan,2028-03-01,2,Fixed,Utilities,40.0
+plan,2028-04-01,2,Fixed,Utilities,40.0
+plan,2028-05-01,2,Fixed,Utilities,40.0
+plan,2028-06-01,2,Fixed,Utilities,40.0
+plan,2028-07-01,2,Fixed,Utilities,40.0
+plan,2028-08-01,2,Fixed,Utilities,40.0
+plan,2028-09-01,2,Fixed,Utilities,40.0
+plan,2028-10-01,2,Fixed,Utilities,40.0
+plan,2028-11-01,2,Fixed,Utilities,40.0
+plan,2028-12-01,2,Fixed,Utilities,40.0
+plan,2029-01-08,3,Eggs,Egg cartons,1.85
+plan,2029-01-08,3,Eggs,Layer feed,19.11
+plan,2029-01-08,3,Rabbits,Doe upkeep,4.31
+plan,2029-01-08,3,Rabbits,Processing supplies,4.5
+plan,2029-01-15,3,Eggs,Egg cartons,1.85
+plan,2029-01-15,3,Eggs,Layer feed,19.11
+plan,2029-01-15,3,Rabbits,Doe upkeep,4.31
+plan,2029-01-15,3,Rabbits,Processing supplies,4.5
+plan,2029-01-22,3,Eggs,Egg cartons,1.85
+plan,2029-01-22,3,Eggs,Layer feed,19.11
+plan,2029-01-22,3,Rabbits,Doe upkeep,4.31
+plan,2029-01-22,3,Rabbits,Processing supplies,4.5
+plan,2029-01-29,3,Eggs,Egg cartons,1.85
+plan,2029-01-29,3,Eggs,Layer feed,19.11
+plan,2029-01-29,3,Rabbits,Doe upkeep,4.31
+plan,2029-01-29,3,Rabbits,Processing supplies,4.5
+plan,2029-02-05,3,Eggs,Egg cartons,2.2
+plan,2029-02-05,3,Eggs,Layer feed,19.11
+plan,2029-02-05,3,Rabbits,Doe upkeep,4.31
+plan,2029-02-05,3,Rabbits,Processing supplies,4.5
+plan,2029-02-12,3,Eggs,Egg cartons,2.2
+plan,2029-02-12,3,Eggs,Layer feed,19.11
+plan,2029-02-12,3,Rabbits,Doe upkeep,4.31
+plan,2029-02-12,3,Rabbits,Processing supplies,4.5
+plan,2029-02-19,3,Eggs,Egg cartons,2.2
+plan,2029-02-19,3,Eggs,Layer feed,19.11
+plan,2029-02-19,3,Rabbits,Doe upkeep,4.31
+plan,2029-02-19,3,Rabbits,Processing supplies,4.5
+plan,2029-02-26,3,Eggs,Egg cartons,2.2
+plan,2029-02-26,3,Eggs,Layer feed,19.11
+plan,2029-02-26,3,Rabbits,Doe upkeep,4.31
+plan,2029-02-26,3,Rabbits,Processing supplies,4.5
+plan,2029-03-05,3,Eggs,Egg cartons,2.7
+plan,2029-03-05,3,Eggs,Layer feed,19.11
+plan,2029-03-05,3,Rabbits,Rabbit feed,21.6
+plan,2029-03-05,3,Rabbits,Doe upkeep,4.31
+plan,2029-03-05,3,Rabbits,Processing supplies,4.5
+plan,2029-03-05,3,Produce,Seed and amendments,89.23
+plan,2029-03-12,3,Eggs,Egg cartons,2.7
+plan,2029-03-12,3,Eggs,Layer feed,19.11
+plan,2029-03-12,3,Rabbits,Rabbit feed,21.6
+plan,2029-03-12,3,Rabbits,Doe upkeep,4.31
+plan,2029-03-12,3,Rabbits,Processing supplies,4.5
+plan,2029-03-12,3,Produce,Seed and amendments,89.23
+plan,2029-03-19,3,Eggs,Egg cartons,2.7
+plan,2029-03-19,3,Eggs,Layer feed,19.11
+plan,2029-03-19,3,Rabbits,Rabbit feed,21.6
+plan,2029-03-19,3,Rabbits,Doe upkeep,4.31
+plan,2029-03-19,3,Rabbits,Processing supplies,4.5
+plan,2029-03-19,3,Produce,Seed and amendments,89.23
+plan,2029-03-26,3,Eggs,Egg cartons,2.7
+plan,2029-03-26,3,Eggs,Layer feed,19.11
+plan,2029-03-26,3,Rabbits,Rabbit feed,21.6
+plan,2029-03-26,3,Rabbits,Doe upkeep,4.31
+plan,2029-03-26,3,Rabbits,Processing supplies,4.5
+plan,2029-03-26,3,Produce,Seed and amendments,89.23
+plan,2029-04-02,3,Eggs,Egg cartons,3.18
+plan,2029-04-02,3,Eggs,Layer feed,19.11
+plan,2029-04-02,3,Rabbits,Rabbit feed,21.6
+plan,2029-04-02,3,Rabbits,Doe upkeep,4.31
+plan,2029-04-02,3,Rabbits,Processing supplies,4.5
+plan,2029-04-02,3,Produce,Seed and amendments,89.23
+plan,2029-04-09,3,Eggs,Egg cartons,3.18
+plan,2029-04-09,3,Eggs,Layer feed,19.11
+plan,2029-04-09,3,Rabbits,Rabbit feed,21.6
+plan,2029-04-09,3,Rabbits,Doe upkeep,4.31
+plan,2029-04-09,3,Rabbits,Processing supplies,4.5
+plan,2029-04-09,3,Produce,Seed and amendments,89.23
+plan,2029-04-16,3,Eggs,Egg cartons,3.18
+plan,2029-04-16,3,Eggs,Layer feed,19.11
+plan,2029-04-16,3,Rabbits,Rabbit feed,21.6
+plan,2029-04-16,3,Rabbits,Doe upkeep,4.31
+plan,2029-04-16,3,Rabbits,Processing supplies,4.5
+plan,2029-04-16,3,Produce,Seed and amendments,89.23
+plan,2029-04-23,3,Eggs,Egg cartons,3.18
+plan,2029-04-23,3,Eggs,Layer feed,19.11
+plan,2029-04-23,3,Rabbits,Rabbit feed,21.6
+plan,2029-04-23,3,Rabbits,Doe upkeep,4.31
+plan,2029-04-23,3,Rabbits,Processing supplies,4.5
+plan,2029-04-23,3,Produce,Seed and amendments,89.23
+plan,2029-04-30,3,Eggs,Egg cartons,3.18
+plan,2029-04-30,3,Eggs,Layer feed,19.11
+plan,2029-04-30,3,Rabbits,Rabbit feed,21.6
+plan,2029-04-30,3,Rabbits,Doe upkeep,4.31
+plan,2029-04-30,3,Rabbits,Processing supplies,4.5
+plan,2029-04-30,3,Produce,Seed and amendments,89.23
+plan,2029-05-07,3,Eggs,Egg cartons,3.54
+plan,2029-05-07,3,Eggs,Layer feed,19.11
+plan,2029-05-07,3,Rabbits,Rabbit feed,21.6
+plan,2029-05-07,3,Rabbits,Doe upkeep,4.31
+plan,2029-05-07,3,Rabbits,Processing supplies,4.5
+plan,2029-05-07,3,Produce,Seed and amendments,89.23
+plan,2029-05-14,3,Eggs,Egg cartons,3.54
+plan,2029-05-14,3,Eggs,Layer feed,19.11
+plan,2029-05-14,3,Rabbits,Rabbit feed,21.6
+plan,2029-05-14,3,Rabbits,Doe upkeep,4.31
+plan,2029-05-14,3,Rabbits,Processing supplies,4.5
+plan,2029-05-14,3,Produce,Seed and amendments,89.23
+plan,2029-05-21,3,Eggs,Egg cartons,3.54
+plan,2029-05-21,3,Eggs,Layer feed,19.11
+plan,2029-05-21,3,Rabbits,Rabbit feed,21.6
+plan,2029-05-21,3,Rabbits,Doe upkeep,4.31
+plan,2029-05-21,3,Rabbits,Processing supplies,4.5
+plan,2029-05-21,3,Produce,Seed and amendments,89.23
+plan,2029-05-28,3,Eggs,Egg cartons,3.54
+plan,2029-05-28,3,Eggs,Layer feed,19.11
+plan,2029-05-28,3,Rabbits,Rabbit feed,21.6
+plan,2029-05-28,3,Rabbits,Doe upkeep,4.31
+plan,2029-05-28,3,Rabbits,Processing supplies,4.5
+plan,2029-05-28,3,Produce,Seed and amendments,89.23
+plan,2029-06-04,3,Eggs,Egg cartons,4.23
+plan,2029-06-04,3,Eggs,Layer feed,19.11
+plan,2029-06-04,3,Rabbits,Rabbit feed,21.6
+plan,2029-06-04,3,Rabbits,Doe upkeep,4.31
+plan,2029-06-04,3,Rabbits,Processing supplies,2.15
+plan,2029-06-04,3,Rabbits,Processing supplies,3.58
+plan,2029-06-04,3,Produce,Produce packaging,0.77
+plan,2029-06-04,3,Markets,Booth fee,20.0
+plan,2029-06-04,3,Markets,Mileage,28.0
+plan,2029-06-04,3,Produce,Produce packaging,1.28
+plan,2029-06-04,3,Markets,Booth fee,40.0
+plan,2029-06-04,3,Markets,Mileage,42.0
+plan,2029-06-11,3,Eggs,Egg cartons,4.23
+plan,2029-06-11,3,Eggs,Layer feed,19.11
+plan,2029-06-11,3,Rabbits,Rabbit feed,21.6
+plan,2029-06-11,3,Rabbits,Doe upkeep,4.31
+plan,2029-06-11,3,Rabbits,Processing supplies,2.15
+plan,2029-06-11,3,Rabbits,Processing supplies,3.58
+plan,2029-06-11,3,Produce,Produce packaging,1.31
+plan,2029-06-11,3,Markets,Booth fee,20.0
+plan,2029-06-11,3,Markets,Mileage,28.0
+plan,2029-06-11,3,Produce,Produce packaging,2.18
+plan,2029-06-11,3,Markets,Booth fee,40.0
+plan,2029-06-11,3,Markets,Mileage,42.0
+plan,2029-06-18,3,Eggs,Egg cartons,4.23
+plan,2029-06-18,3,Eggs,Layer feed,19.11
+plan,2029-06-18,3,Rabbits,Rabbit feed,21.6
+plan,2029-06-18,3,Rabbits,Doe upkeep,4.31
+plan,2029-06-18,3,Rabbits,Processing supplies,2.15
+plan,2029-06-18,3,Rabbits,Processing supplies,3.58
+plan,2029-06-18,3,Produce,Produce packaging,2.09
+plan,2029-06-18,3,Markets,Booth fee,20.0
+plan,2029-06-18,3,Markets,Mileage,28.0
+plan,2029-06-18,3,Produce,Produce packaging,3.49
+plan,2029-06-18,3,Markets,Booth fee,40.0
+plan,2029-06-18,3,Markets,Mileage,42.0
+plan,2029-06-25,3,Eggs,Egg cartons,4.23
+plan,2029-06-25,3,Eggs,Layer feed,19.11
+plan,2029-06-25,3,Rabbits,Rabbit feed,21.6
+plan,2029-06-25,3,Rabbits,Doe upkeep,4.31
+plan,2029-06-25,3,Rabbits,Processing supplies,2.15
+plan,2029-06-25,3,Rabbits,Processing supplies,3.58
+plan,2029-06-25,3,Produce,Produce packaging,3.18
+plan,2029-06-25,3,Markets,Booth fee,20.0
+plan,2029-06-25,3,Markets,Mileage,28.0
+plan,2029-06-25,3,Produce,Produce packaging,5.3
+plan,2029-06-25,3,Markets,Booth fee,40.0
+plan,2029-06-25,3,Markets,Mileage,42.0
+plan,2029-07-02,3,Eggs,Egg cartons,4.08
+plan,2029-07-02,3,Eggs,Layer feed,19.11
+plan,2029-07-02,3,Rabbits,Rabbit feed,21.6
+plan,2029-07-02,3,Rabbits,Doe upkeep,4.31
+plan,2029-07-02,3,Rabbits,Processing supplies,2.15
+plan,2029-07-02,3,Rabbits,Processing supplies,3.58
+plan,2029-07-02,3,Produce,Produce packaging,4.56
+plan,2029-07-02,3,Markets,Booth fee,20.0
+plan,2029-07-02,3,Markets,Mileage,28.0
+plan,2029-07-02,3,Produce,Produce packaging,7.6
+plan,2029-07-02,3,Markets,Booth fee,40.0
+plan,2029-07-02,3,Markets,Mileage,42.0
+plan,2029-07-09,3,Eggs,Egg cartons,4.08
+plan,2029-07-09,3,Eggs,Layer feed,19.11
+plan,2029-07-09,3,Rabbits,Rabbit feed,21.6
+plan,2029-07-09,3,Rabbits,Doe upkeep,4.31
+plan,2029-07-09,3,Rabbits,Processing supplies,2.15
+plan,2029-07-09,3,Rabbits,Processing supplies,3.58
+plan,2029-07-09,3,Produce,Produce packaging,6.19
+plan,2029-07-09,3,Markets,Booth fee,20.0
+plan,2029-07-09,3,Markets,Mileage,28.0
+plan,2029-07-09,3,Produce,Produce packaging,10.31
+plan,2029-07-09,3,Markets,Booth fee,40.0
+plan,2029-07-09,3,Markets,Mileage,42.0
+plan,2029-07-16,3,Eggs,Egg cartons,4.08
+plan,2029-07-16,3,Eggs,Layer feed,19.11
+plan,2029-07-16,3,Rabbits,Rabbit feed,21.6
+plan,2029-07-16,3,Rabbits,Doe upkeep,4.31
+plan,2029-07-16,3,Rabbits,Processing supplies,2.15
+plan,2029-07-16,3,Rabbits,Processing supplies,3.58
+plan,2029-07-16,3,Produce,Produce packaging,7.95
+plan,2029-07-16,3,Markets,Booth fee,20.0
+plan,2029-07-16,3,Markets,Mileage,28.0
+plan,2029-07-16,3,Produce,Produce packaging,13.24
+plan,2029-07-16,3,Markets,Booth fee,40.0
+plan,2029-07-16,3,Markets,Mileage,42.0
+plan,2029-07-23,3,Eggs,Egg cartons,4.08
+plan,2029-07-23,3,Eggs,Layer feed,19.11
+plan,2029-07-23,3,Rabbits,Rabbit feed,21.6
+plan,2029-07-23,3,Rabbits,Doe upkeep,4.31
+plan,2029-07-23,3,Rabbits,Processing supplies,2.15
+plan,2029-07-23,3,Rabbits,Processing supplies,3.58
+plan,2029-07-23,3,Produce,Produce packaging,9.65
+plan,2029-07-23,3,Markets,Booth fee,20.0
+plan,2029-07-23,3,Markets,Mileage,28.0
+plan,2029-07-23,3,Produce,Produce packaging,16.09
+plan,2029-07-23,3,Markets,Booth fee,40.0
+plan,2029-07-23,3,Markets,Mileage,42.0
+plan,2029-07-30,3,Eggs,Egg cartons,4.08
+plan,2029-07-30,3,Eggs,Layer feed,19.11
+plan,2029-07-30,3,Rabbits,Rabbit feed,21.6
+plan,2029-07-30,3,Rabbits,Doe upkeep,4.31
+plan,2029-07-30,3,Rabbits,Processing supplies,2.15
+plan,2029-07-30,3,Rabbits,Processing supplies,3.58
+plan,2029-07-30,3,Produce,Produce packaging,11.09
+plan,2029-07-30,3,Markets,Booth fee,20.0
+plan,2029-07-30,3,Markets,Mileage,28.0
+plan,2029-07-30,3,Produce,Produce packaging,18.48
+plan,2029-07-30,3,Markets,Booth fee,40.0
+plan,2029-07-30,3,Markets,Mileage,42.0
+plan,2029-08-06,3,Eggs,Egg cartons,3.66
+plan,2029-08-06,3,Eggs,Layer feed,19.11
+plan,2029-08-06,3,Rabbits,Rabbit feed,21.6
+plan,2029-08-06,3,Rabbits,Doe upkeep,4.31
+plan,2029-08-06,3,Rabbits,Processing supplies,2.15
+plan,2029-08-06,3,Rabbits,Processing supplies,3.58
+plan,2029-08-06,3,Produce,Produce packaging,12.05
+plan,2029-08-06,3,Markets,Booth fee,20.0
+plan,2029-08-06,3,Markets,Mileage,28.0
+plan,2029-08-06,3,Produce,Produce packaging,20.09
+plan,2029-08-06,3,Markets,Booth fee,40.0
+plan,2029-08-06,3,Markets,Mileage,42.0
+plan,2029-08-13,3,Eggs,Egg cartons,3.66
+plan,2029-08-13,3,Eggs,Layer feed,19.11
+plan,2029-08-13,3,Rabbits,Rabbit feed,21.6
+plan,2029-08-13,3,Rabbits,Doe upkeep,4.31
+plan,2029-08-13,3,Rabbits,Processing supplies,2.15
+plan,2029-08-13,3,Rabbits,Processing supplies,3.58
+plan,2029-08-13,3,Produce,Produce packaging,12.39
+plan,2029-08-13,3,Markets,Booth fee,20.0
+plan,2029-08-13,3,Markets,Mileage,28.0
+plan,2029-08-13,3,Produce,Produce packaging,20.66
+plan,2029-08-13,3,Markets,Booth fee,40.0
+plan,2029-08-13,3,Markets,Mileage,42.0
+plan,2029-08-20,3,Eggs,Egg cartons,3.66
+plan,2029-08-20,3,Eggs,Layer feed,19.11
+plan,2029-08-20,3,Rabbits,Rabbit feed,21.6
+plan,2029-08-20,3,Rabbits,Doe upkeep,4.31
+plan,2029-08-20,3,Rabbits,Processing supplies,2.15
+plan,2029-08-20,3,Rabbits,Processing supplies,3.58
+plan,2029-08-20,3,Produce,Produce packaging,12.05
+plan,2029-08-20,3,Markets,Booth fee,20.0
+plan,2029-08-20,3,Markets,Mileage,28.0
+plan,2029-08-20,3,Produce,Produce packaging,20.09
+plan,2029-08-20,3,Markets,Booth fee,40.0
+plan,2029-08-20,3,Markets,Mileage,42.0
+plan,2029-08-27,3,Eggs,Egg cartons,3.66
+plan,2029-08-27,3,Eggs,Layer feed,19.11
+plan,2029-08-27,3,Rabbits,Rabbit feed,21.6
+plan,2029-08-27,3,Rabbits,Doe upkeep,4.31
+plan,2029-08-27,3,Rabbits,Processing supplies,2.15
+plan,2029-08-27,3,Rabbits,Processing supplies,3.58
+plan,2029-08-27,3,Produce,Produce packaging,11.09
+plan,2029-08-27,3,Markets,Booth fee,20.0
+plan,2029-08-27,3,Markets,Mileage,28.0
+plan,2029-08-27,3,Produce,Produce packaging,18.48
+plan,2029-08-27,3,Markets,Booth fee,40.0
+plan,2029-08-27,3,Markets,Mileage,42.0
+plan,2029-09-03,3,Eggs,Egg cartons,3.1
+plan,2029-09-03,3,Eggs,Layer feed,19.11
+plan,2029-09-03,3,Rabbits,Rabbit feed,21.6
+plan,2029-09-03,3,Rabbits,Doe upkeep,4.31
+plan,2029-09-03,3,Rabbits,Processing supplies,2.15
+plan,2029-09-03,3,Rabbits,Processing supplies,3.58
+plan,2029-09-03,3,Produce,Produce packaging,9.65
+plan,2029-09-03,3,Markets,Booth fee,20.0
+plan,2029-09-03,3,Markets,Mileage,28.0
+plan,2029-09-03,3,Produce,Produce packaging,16.09
+plan,2029-09-03,3,Markets,Booth fee,40.0
+plan,2029-09-03,3,Markets,Mileage,42.0
+plan,2029-09-10,3,Eggs,Egg cartons,3.1
+plan,2029-09-10,3,Eggs,Layer feed,19.11
+plan,2029-09-10,3,Rabbits,Rabbit feed,21.6
+plan,2029-09-10,3,Rabbits,Doe upkeep,4.31
+plan,2029-09-10,3,Rabbits,Processing supplies,2.15
+plan,2029-09-10,3,Rabbits,Processing supplies,3.58
+plan,2029-09-10,3,Produce,Produce packaging,7.95
+plan,2029-09-10,3,Markets,Booth fee,20.0
+plan,2029-09-10,3,Markets,Mileage,28.0
+plan,2029-09-10,3,Produce,Produce packaging,13.24
+plan,2029-09-10,3,Markets,Booth fee,40.0
+plan,2029-09-10,3,Markets,Mileage,42.0
+plan,2029-09-17,3,Eggs,Egg cartons,3.1
+plan,2029-09-17,3,Eggs,Layer feed,19.11
+plan,2029-09-17,3,Rabbits,Rabbit feed,21.6
+plan,2029-09-17,3,Rabbits,Doe upkeep,4.31
+plan,2029-09-17,3,Rabbits,Processing supplies,2.15
+plan,2029-09-17,3,Rabbits,Processing supplies,3.58
+plan,2029-09-17,3,Produce,Produce packaging,6.19
+plan,2029-09-17,3,Markets,Booth fee,20.0
+plan,2029-09-17,3,Markets,Mileage,28.0
+plan,2029-09-17,3,Produce,Produce packaging,10.31
+plan,2029-09-17,3,Markets,Booth fee,40.0
+plan,2029-09-17,3,Markets,Mileage,42.0
+plan,2029-09-24,3,Eggs,Egg cartons,3.1
+plan,2029-09-24,3,Eggs,Layer feed,19.11
+plan,2029-09-24,3,Rabbits,Rabbit feed,21.6
+plan,2029-09-24,3,Rabbits,Doe upkeep,4.31
+plan,2029-09-24,3,Rabbits,Processing supplies,2.15
+plan,2029-09-24,3,Rabbits,Processing supplies,3.58
+plan,2029-09-24,3,Produce,Produce packaging,4.56
+plan,2029-09-24,3,Markets,Booth fee,20.0
+plan,2029-09-24,3,Markets,Mileage,28.0
+plan,2029-09-24,3,Produce,Produce packaging,7.6
+plan,2029-09-24,3,Markets,Booth fee,40.0
+plan,2029-09-24,3,Markets,Mileage,42.0
+plan,2029-10-01,3,Eggs,Egg cartons,2.54
+plan,2029-10-01,3,Eggs,Layer feed,19.11
+plan,2029-10-01,3,Rabbits,Rabbit feed,21.6
+plan,2029-10-01,3,Rabbits,Doe upkeep,4.31
+plan,2029-10-01,3,Rabbits,Processing supplies,2.15
+plan,2029-10-01,3,Rabbits,Processing supplies,3.58
+plan,2029-10-01,3,Produce,Produce packaging,3.18
+plan,2029-10-01,3,Markets,Booth fee,20.0
+plan,2029-10-01,3,Markets,Mileage,28.0
+plan,2029-10-01,3,Produce,Produce packaging,5.3
+plan,2029-10-01,3,Markets,Booth fee,40.0
+plan,2029-10-01,3,Markets,Mileage,42.0
+plan,2029-10-08,3,Eggs,Egg cartons,2.54
+plan,2029-10-08,3,Eggs,Layer feed,19.11
+plan,2029-10-08,3,Rabbits,Rabbit feed,21.6
+plan,2029-10-08,3,Rabbits,Doe upkeep,4.31
+plan,2029-10-08,3,Rabbits,Processing supplies,2.15
+plan,2029-10-08,3,Rabbits,Processing supplies,3.58
+plan,2029-10-08,3,Produce,Produce packaging,2.09
+plan,2029-10-08,3,Markets,Booth fee,20.0
+plan,2029-10-08,3,Markets,Mileage,28.0
+plan,2029-10-08,3,Produce,Produce packaging,3.49
+plan,2029-10-08,3,Markets,Booth fee,40.0
+plan,2029-10-08,3,Markets,Mileage,42.0
+plan,2029-10-15,3,Eggs,Egg cartons,2.54
+plan,2029-10-15,3,Eggs,Layer feed,19.11
+plan,2029-10-15,3,Rabbits,Rabbit feed,21.6
+plan,2029-10-15,3,Rabbits,Doe upkeep,4.31
+plan,2029-10-15,3,Rabbits,Processing supplies,2.15
+plan,2029-10-15,3,Rabbits,Processing supplies,3.58
+plan,2029-10-15,3,Produce,Produce packaging,1.31
+plan,2029-10-15,3,Markets,Booth fee,20.0
+plan,2029-10-15,3,Markets,Mileage,28.0
+plan,2029-10-15,3,Produce,Produce packaging,2.18
+plan,2029-10-15,3,Markets,Booth fee,40.0
+plan,2029-10-15,3,Markets,Mileage,42.0
+plan,2029-10-22,3,Eggs,Egg cartons,2.54
+plan,2029-10-22,3,Eggs,Layer feed,19.11
+plan,2029-10-22,3,Rabbits,Rabbit feed,21.6
+plan,2029-10-22,3,Rabbits,Doe upkeep,4.31
+plan,2029-10-22,3,Rabbits,Processing supplies,2.15
+plan,2029-10-22,3,Rabbits,Processing supplies,3.58
+plan,2029-10-22,3,Produce,Produce packaging,0.77
+plan,2029-10-22,3,Markets,Booth fee,20.0
+plan,2029-10-22,3,Markets,Mileage,28.0
+plan,2029-10-22,3,Produce,Produce packaging,1.28
+plan,2029-10-22,3,Markets,Booth fee,40.0
+plan,2029-10-22,3,Markets,Mileage,42.0
+plan,2029-10-29,3,Eggs,Egg cartons,2.54
+plan,2029-10-29,3,Eggs,Layer feed,19.11
+plan,2029-10-29,3,Rabbits,Rabbit feed,21.6
+plan,2029-10-29,3,Rabbits,Doe upkeep,4.31
+plan,2029-10-29,3,Rabbits,Processing supplies,2.15
+plan,2029-10-29,3,Rabbits,Processing supplies,3.58
+plan,2029-10-29,3,Produce,Produce packaging,0.43
+plan,2029-10-29,3,Markets,Booth fee,20.0
+plan,2029-10-29,3,Markets,Mileage,28.0
+plan,2029-10-29,3,Produce,Produce packaging,0.72
+plan,2029-10-29,3,Markets,Booth fee,40.0
+plan,2029-10-29,3,Markets,Mileage,42.0
+plan,2029-11-05,3,Eggs,Egg cartons,1.85
+plan,2029-11-05,3,Eggs,Layer feed,19.11
+plan,2029-11-05,3,Rabbits,Doe upkeep,4.31
+plan,2029-11-05,3,Rabbits,Processing supplies,4.5
+plan,2029-11-12,3,Eggs,Egg cartons,1.85
+plan,2029-11-12,3,Eggs,Layer feed,19.11
+plan,2029-11-12,3,Rabbits,Doe upkeep,4.31
+plan,2029-11-12,3,Rabbits,Processing supplies,4.5
+plan,2029-11-19,3,Eggs,Egg cartons,1.85
+plan,2029-11-19,3,Eggs,Layer feed,19.11
+plan,2029-11-19,3,Rabbits,Doe upkeep,4.31
+plan,2029-11-19,3,Rabbits,Processing supplies,4.5
+plan,2029-11-26,3,Eggs,Egg cartons,1.85
+plan,2029-11-26,3,Eggs,Layer feed,19.11
+plan,2029-11-26,3,Rabbits,Doe upkeep,4.31
+plan,2029-11-26,3,Rabbits,Processing supplies,4.5
+plan,2029-12-03,3,Eggs,Egg cartons,1.72
+plan,2029-12-03,3,Eggs,Layer feed,19.11
+plan,2029-12-03,3,Rabbits,Doe upkeep,4.31
+plan,2029-12-03,3,Rabbits,Processing supplies,4.5
+plan,2029-12-10,3,Eggs,Egg cartons,1.72
+plan,2029-12-10,3,Eggs,Layer feed,19.11
+plan,2029-12-10,3,Rabbits,Doe upkeep,4.31
+plan,2029-12-10,3,Rabbits,Processing supplies,4.5
+plan,2029-12-17,3,Eggs,Egg cartons,1.72
+plan,2029-12-17,3,Eggs,Layer feed,19.11
+plan,2029-12-17,3,Rabbits,Doe upkeep,4.31
+plan,2029-12-17,3,Rabbits,Processing supplies,4.5
+plan,2029-12-24,3,Eggs,Egg cartons,1.72
+plan,2029-12-24,3,Eggs,Layer feed,19.11
+plan,2029-12-24,3,Rabbits,Doe upkeep,4.31
+plan,2029-12-24,3,Rabbits,Processing supplies,4.5
+plan,2029-12-31,3,Eggs,Egg cartons,1.72
+plan,2029-12-31,3,Eggs,Layer feed,19.11
+plan,2029-12-31,3,Rabbits,Doe upkeep,4.31
+plan,2029-12-31,3,Rabbits,Processing supplies,4.5
+plan,2029-01-01,3,Fixed,Insurance,600.0
+plan,2029-01-01,3,Fixed,Licenses and permits,300.0
+plan,2029-01-01,3,Fixed,Utilities,40.0
+plan,2029-02-01,3,Fixed,Utilities,40.0
+plan,2029-03-01,3,Fixed,Utilities,40.0
+plan,2029-04-01,3,Fixed,Utilities,40.0
+plan,2029-05-01,3,Fixed,Utilities,40.0
+plan,2029-06-01,3,Fixed,Utilities,40.0
+plan,2029-07-01,3,Fixed,Utilities,40.0
+plan,2029-08-01,3,Fixed,Utilities,40.0
+plan,2029-09-01,3,Fixed,Utilities,40.0
+plan,2029-10-01,3,Fixed,Utilities,40.0
+plan,2029-11-01,3,Fixed,Utilities,40.0
+plan,2029-12-01,3,Fixed,Utilities,40.0
+plan,2027-03-01,1,Capex,Covered run (20x10 ft metal kit),1600.0
+plan,2027-03-01,1,Capex,Coop materials (attached to run),600.0
+plan,2027-03-01,1,Capex,Rabbit hutches (elevated along run walls),900.0
+plan,2027-04-01,1,Capex,Starter hens and breeder rabbits,700.0
+plan,2027-03-01,1,Capex,Perimeter and garden fencing,2500.0
+plan,2027-04-01,1,Capex,Drip irrigation and hoses,1800.0
+plan,2027-03-01,1,Capex,Hand tools (broadfork wheel hoe etc.),900.0
+plan,2027-04-01,1,Capex,Orchard trees and planting,1200.0
+plan,2027-05-01,1,Capex,Chest freezer and market coolers,1100.0
+plan,2027-05-01,1,Capex,Canopy tables scale and signage,1200.0
+plan,2028-04-01,2,Capex,Beehives and nucs,900.0
+plan,2027-03-01,1,Capex,Solar array (farm share),8000.0
+plan,2027-03-01,1,Capex,Truck (farm share),2500.0
+actual,2027-03-01,1,Rabbits,Rabbit feed,12.0
+actual,2027-03-01,1,Rabbits,Doe upkeep,6.15
+actual,2027-03-01,1,Produce,Seed and amendments,67.69
+actual,2027-03-08,1,Rabbits,Rabbit feed,12.0
+actual,2027-03-08,1,Rabbits,Doe upkeep,6.15
+actual,2027-03-08,1,Produce,Seed and amendments,67.69
+actual,2027-03-15,1,Rabbits,Rabbit feed,12.0
+actual,2027-03-15,1,Rabbits,Doe upkeep,6.15
+actual,2027-03-15,1,Produce,Seed and amendments,67.69
+actual,2027-03-22,1,Rabbits,Rabbit feed,12.0
+actual,2027-03-22,1,Rabbits,Doe upkeep,6.15
+actual,2027-03-22,1,Produce,Seed and amendments,67.69
+actual,2027-03-29,1,Rabbits,Rabbit feed,12.0
+actual,2027-03-29,1,Rabbits,Doe upkeep,6.15
+actual,2027-03-29,1,Produce,Seed and amendments,67.69
+actual,2027-04-05,1,Eggs,Egg cartons,1.61
+actual,2027-04-05,1,Eggs,Layer feed,13.65
+actual,2027-04-05,1,Rabbits,Rabbit feed,12.0
+actual,2027-04-05,1,Rabbits,Doe upkeep,6.15
+actual,2027-04-05,1,Produce,Seed and amendments,67.69
+actual,2027-04-12,1,Eggs,Egg cartons,1.58
+actual,2027-04-12,1,Eggs,Layer feed,13.65
+actual,2027-04-12,1,Rabbits,Rabbit feed,12.0
+actual,2027-04-12,1,Rabbits,Doe upkeep,6.15
+actual,2027-04-12,1,Produce,Seed and amendments,67.69
+actual,2027-04-19,1,Eggs,Egg cartons,1.45
+actual,2027-04-19,1,Eggs,Layer feed,13.65
+actual,2027-04-19,1,Rabbits,Rabbit feed,12.0
+actual,2027-04-19,1,Rabbits,Doe upkeep,6.15
+actual,2027-04-19,1,Produce,Seed and amendments,67.69
+actual,2027-04-26,1,Eggs,Egg cartons,1.23
+actual,2027-04-26,1,Eggs,Layer feed,13.65
+actual,2027-04-26,1,Rabbits,Rabbit feed,12.0
+actual,2027-04-26,1,Rabbits,Doe upkeep,6.15
+actual,2027-04-26,1,Produce,Seed and amendments,67.69
+actual,2027-05-03,1,Eggs,Egg cartons,2.05
+actual,2027-05-03,1,Eggs,Layer feed,13.65
+actual,2027-05-03,1,Rabbits,Rabbit feed,12.0
+actual,2027-05-03,1,Rabbits,Doe upkeep,6.15
+actual,2027-05-03,1,Produce,Seed and amendments,67.69
+actual,2027-05-10,1,Eggs,Egg cartons,1.67
+actual,2027-05-10,1,Eggs,Layer feed,13.65
+actual,2027-05-10,1,Rabbits,Rabbit feed,12.0
+actual,2027-05-10,1,Rabbits,Doe upkeep,6.15
+actual,2027-05-10,1,Produce,Seed and amendments,67.69
+actual,2027-05-17,1,Eggs,Egg cartons,1.73
+actual,2027-05-17,1,Eggs,Layer feed,13.65
+actual,2027-05-17,1,Rabbits,Rabbit feed,12.0
+actual,2027-05-17,1,Rabbits,Doe upkeep,6.15
+actual,2027-05-17,1,Produce,Seed and amendments,67.69
+actual,2027-05-24,1,Eggs,Egg cartons,1.59
+actual,2027-05-24,1,Eggs,Layer feed,13.65
+actual,2027-05-24,1,Rabbits,Rabbit feed,12.0
+actual,2027-05-24,1,Rabbits,Doe upkeep,6.15
+actual,2027-05-24,1,Produce,Seed and amendments,67.69
+actual,2027-05-31,1,Eggs,Egg cartons,1.65
+actual,2027-05-31,1,Eggs,Layer feed,13.65
+actual,2027-05-31,1,Rabbits,Rabbit feed,12.0
+actual,2027-05-31,1,Rabbits,Doe upkeep,6.15
+actual,2027-05-31,1,Produce,Seed and amendments,67.69
+actual,2027-06-07,1,Eggs,Egg cartons,1.86
+actual,2027-06-07,1,Eggs,Layer feed,13.65
+actual,2027-06-07,1,Rabbits,Rabbit feed,12.0
+actual,2027-06-07,1,Rabbits,Doe upkeep,6.15
+actual,2027-06-07,1,Rabbits,Processing supplies,0.87
+actual,2027-06-07,1,Rabbits,Processing supplies,1.48
+actual,2027-06-07,1,Produce,Produce packaging,0.33
+actual,2027-06-07,1,Markets,Booth fee,20.0
+actual,2027-06-07,1,Markets,Mileage,28.0
+actual,2027-06-07,1,Produce,Produce packaging,0.53
+actual,2027-06-07,1,Markets,Booth fee,40.0
+actual,2027-06-07,1,Markets,Mileage,42.0
+actual,2027-06-14,1,Eggs,Egg cartons,1.87
+actual,2027-06-14,1,Eggs,Layer feed,13.65
+actual,2027-06-14,1,Rabbits,Rabbit feed,12.0
+actual,2027-06-14,1,Rabbits,Doe upkeep,6.15
+actual,2027-06-14,1,Rabbits,Processing supplies,0.83
+actual,2027-06-14,1,Rabbits,Processing supplies,1.31
+actual,2027-06-14,1,Produce,Produce packaging,0.54
+actual,2027-06-14,1,Markets,Booth fee,20.0
+actual,2027-06-14,1,Markets,Mileage,28.0
+actual,2027-06-14,1,Produce,Produce packaging,1.12
+actual,2027-06-14,1,Markets,Booth fee,40.0
+actual,2027-06-14,1,Markets,Mileage,42.0
+actual,2027-06-21,1,Eggs,Egg cartons,1.87
+actual,2027-06-21,1,Eggs,Layer feed,13.65
+actual,2027-06-21,1,Rabbits,Rabbit feed,12.0
+actual,2027-06-21,1,Rabbits,Doe upkeep,6.15
+actual,2027-06-21,1,Rabbits,Processing supplies,0.86
+actual,2027-06-21,1,Rabbits,Processing supplies,1.14
+actual,2027-06-21,1,Produce,Produce packaging,0.9
+actual,2027-06-21,1,Markets,Booth fee,20.0
+actual,2027-06-21,1,Markets,Mileage,28.0
+actual,2027-06-21,1,Produce,Produce packaging,1.97
+actual,2027-06-21,1,Markets,Booth fee,40.0
+actual,2027-06-21,1,Markets,Mileage,42.0
+actual,2027-06-28,1,Eggs,Egg cartons,2.3
+actual,2027-06-28,1,Eggs,Layer feed,13.65
+actual,2027-06-28,1,Rabbits,Rabbit feed,12.0
+actual,2027-06-28,1,Rabbits,Doe upkeep,6.15
+actual,2027-06-28,1,Rabbits,Processing supplies,0.9
+actual,2027-06-28,1,Rabbits,Processing supplies,1.55
+actual,2027-06-28,1,Produce,Produce packaging,1.32
+actual,2027-06-28,1,Markets,Booth fee,20.0
+actual,2027-06-28,1,Markets,Mileage,28.0
+actual,2027-06-28,1,Produce,Produce packaging,2.47
+actual,2027-06-28,1,Markets,Booth fee,40.0
+actual,2027-06-28,1,Markets,Mileage,42.0
+actual,2027-07-05,1,Eggs,Egg cartons,2.0
+actual,2027-07-05,1,Eggs,Layer feed,13.65
+actual,2027-07-05,1,Rabbits,Rabbit feed,12.0
+actual,2027-07-05,1,Rabbits,Doe upkeep,6.15
+actual,2027-07-05,1,Rabbits,Processing supplies,1.14
+actual,2027-07-05,1,Rabbits,Processing supplies,1.58
+actual,2027-07-05,1,Produce,Produce packaging,2.39
+actual,2027-07-05,1,Markets,Booth fee,20.0
+actual,2027-07-05,1,Markets,Mileage,28.0
+actual,2027-07-05,1,Produce,Produce packaging,3.84
+actual,2027-07-05,1,Markets,Booth fee,40.0
+actual,2027-07-05,1,Markets,Mileage,42.0
+actual,2027-07-12,1,Eggs,Egg cartons,2.21
+actual,2027-07-12,1,Eggs,Layer feed,13.65
+actual,2027-07-12,1,Rabbits,Rabbit feed,12.0
+actual,2027-07-12,1,Rabbits,Doe upkeep,6.15
+actual,2027-07-12,1,Rabbits,Processing supplies,0.81
+actual,2027-07-12,1,Rabbits,Processing supplies,1.28
+actual,2027-07-12,1,Produce,Produce packaging,2.29
+actual,2027-07-12,1,Markets,Booth fee,20.0
+actual,2027-07-12,1,Markets,Mileage,28.0
+actual,2027-07-12,1,Produce,Produce packaging,4.84
+actual,2027-07-12,1,Markets,Booth fee,40.0
+actual,2027-07-12,1,Markets,Mileage,42.0
+actual,2027-07-19,1,Eggs,Egg cartons,1.75
+actual,2027-07-19,1,Eggs,Layer feed,13.65
+actual,2027-07-19,1,Rabbits,Rabbit feed,12.0
+actual,2027-07-19,1,Rabbits,Doe upkeep,6.15
+actual,2027-07-19,1,Rabbits,Processing supplies,0.77
+actual,2027-07-19,1,Rabbits,Processing supplies,1.36
+actual,2027-07-19,1,Produce,Produce packaging,3.19
+actual,2027-07-19,1,Markets,Booth fee,20.0
+actual,2027-07-19,1,Markets,Mileage,28.0
+actual,2027-07-19,1,Produce,Produce packaging,5.51
+actual,2027-07-19,1,Markets,Booth fee,40.0
+actual,2027-07-19,1,Markets,Mileage,42.0
+actual,2027-07-26,1,Eggs,Egg cartons,1.53
+actual,2027-07-26,1,Eggs,Layer feed,13.65
+actual,2027-07-26,1,Rabbits,Rabbit feed,12.0
+actual,2027-07-26,1,Rabbits,Doe upkeep,6.15
+actual,2027-07-26,1,Rabbits,Processing supplies,0.86
+actual,2027-07-26,1,Rabbits,Processing supplies,1.37
+actual,2027-07-26,1,Produce,Produce packaging,4.29
+actual,2027-07-26,1,Markets,Booth fee,20.0
+actual,2027-07-26,1,Markets,Mileage,28.0
+actual,2027-07-26,1,Produce,Produce packaging,6.49
+actual,2027-07-26,1,Markets,Booth fee,40.0
+actual,2027-07-26,1,Markets,Mileage,42.0
+actual,2027-08-02,1,Eggs,Egg cartons,1.99
+actual,2027-08-02,1,Eggs,Layer feed,13.65
+actual,2027-08-02,1,Rabbits,Rabbit feed,12.0
+actual,2027-08-02,1,Rabbits,Doe upkeep,6.15
+actual,2027-08-02,1,Rabbits,Processing supplies,0.94
+actual,2027-08-02,1,Rabbits,Processing supplies,1.34
+actual,2027-08-02,1,Produce,Produce packaging,4.98
+actual,2027-08-02,1,Markets,Booth fee,20.0
+actual,2027-08-02,1,Markets,Mileage,28.0
+actual,2027-08-02,1,Produce,Produce packaging,9.9
+actual,2027-08-02,1,Markets,Booth fee,40.0
+actual,2027-08-02,1,Markets,Mileage,42.0
+actual,2027-08-09,1,Eggs,Egg cartons,1.54
+actual,2027-08-09,1,Eggs,Layer feed,13.65
+actual,2027-08-09,1,Rabbits,Rabbit feed,12.0
+actual,2027-08-09,1,Rabbits,Doe upkeep,6.15
+actual,2027-08-09,1,Rabbits,Processing supplies,0.77
+actual,2027-08-09,1,Rabbits,Processing supplies,1.32
+actual,2027-08-09,1,Produce,Produce packaging,5.63
+actual,2027-08-09,1,Markets,Booth fee,20.0
+actual,2027-08-09,1,Markets,Mileage,28.0
+actual,2027-08-09,1,Produce,Produce packaging,9.58
+actual,2027-08-09,1,Markets,Booth fee,40.0
+actual,2027-08-09,1,Markets,Mileage,42.0
+actual,2027-08-16,1,Eggs,Egg cartons,1.75
+actual,2027-08-16,1,Eggs,Layer feed,13.65
+actual,2027-08-16,1,Rabbits,Rabbit feed,12.0
+actual,2027-08-16,1,Rabbits,Doe upkeep,6.15
+actual,2027-08-16,1,Rabbits,Processing supplies,0.9
+actual,2027-08-16,1,Rabbits,Processing supplies,2.09
+actual,2027-08-16,1,Produce,Produce packaging,5.9
+actual,2027-08-16,1,Markets,Booth fee,20.0
+actual,2027-08-16,1,Markets,Mileage,28.0
+actual,2027-08-16,1,Produce,Produce packaging,10.21
+actual,2027-08-16,1,Markets,Booth fee,40.0
+actual,2027-08-16,1,Markets,Mileage,42.0
+actual,2027-08-23,1,Eggs,Egg cartons,1.49
+actual,2027-08-23,1,Eggs,Layer feed,13.65
+actual,2027-08-23,1,Rabbits,Rabbit feed,12.0
+actual,2027-08-23,1,Rabbits,Doe upkeep,6.15
+actual,2027-08-23,1,Rabbits,Processing supplies,0.98
+actual,2027-08-23,1,Rabbits,Processing supplies,1.44
+actual,2027-08-23,1,Produce,Produce packaging,6.33
+actual,2027-08-23,1,Markets,Booth fee,20.0
+actual,2027-08-23,1,Markets,Mileage,28.0
+actual,2027-08-23,1,Produce,Produce packaging,9.36
+actual,2027-08-23,1,Markets,Booth fee,40.0
+actual,2027-08-23,1,Markets,Mileage,42.0
+actual,2027-08-30,1,Eggs,Egg cartons,1.62
+actual,2027-08-30,1,Eggs,Layer feed,13.65
+actual,2027-08-30,1,Rabbits,Rabbit feed,12.0
+actual,2027-08-30,1,Rabbits,Doe upkeep,6.15
+actual,2027-08-30,1,Rabbits,Processing supplies,0.82
+actual,2027-08-30,1,Rabbits,Processing supplies,1.42
+actual,2027-08-30,1,Produce,Produce packaging,5.05
+actual,2027-08-30,1,Markets,Booth fee,20.0
+actual,2027-08-30,1,Markets,Mileage,28.0
+actual,2027-08-30,1,Produce,Produce packaging,7.52
+actual,2027-08-30,1,Markets,Booth fee,40.0
+actual,2027-08-30,1,Markets,Mileage,42.0
+actual,2027-09-06,1,Eggs,Egg cartons,1.42
+actual,2027-09-06,1,Eggs,Layer feed,13.65
+actual,2027-09-06,1,Rabbits,Rabbit feed,12.0
+actual,2027-09-06,1,Rabbits,Doe upkeep,6.15
+actual,2027-09-06,1,Rabbits,Processing supplies,0.95
+actual,2027-09-06,1,Rabbits,Processing supplies,1.64
+actual,2027-09-06,1,Produce,Produce packaging,4.67
+actual,2027-09-06,1,Markets,Booth fee,20.0
+actual,2027-09-06,1,Markets,Mileage,28.0
+actual,2027-09-06,1,Produce,Produce packaging,7.88
+actual,2027-09-06,1,Markets,Booth fee,40.0
+actual,2027-09-06,1,Markets,Mileage,42.0
+actual,2027-09-13,1,Eggs,Egg cartons,1.52
+actual,2027-09-13,1,Eggs,Layer feed,13.65
+actual,2027-09-13,1,Rabbits,Rabbit feed,12.0
+actual,2027-09-13,1,Rabbits,Doe upkeep,6.15
+actual,2027-09-13,1,Rabbits,Processing supplies,1.09
+actual,2027-09-13,1,Rabbits,Processing supplies,1.5
+actual,2027-09-13,1,Produce,Produce packaging,4.08
+actual,2027-09-13,1,Markets,Booth fee,20.0
+actual,2027-09-13,1,Markets,Mileage,28.0
+actual,2027-09-13,1,Produce,Produce packaging,7.29
+actual,2027-09-13,1,Markets,Booth fee,40.0
+actual,2027-09-13,1,Markets,Mileage,42.0
+actual,2027-09-20,1,Eggs,Egg cartons,1.68
+actual,2027-09-20,1,Eggs,Layer feed,13.65
+actual,2027-09-20,1,Rabbits,Rabbit feed,12.0
+actual,2027-09-20,1,Rabbits,Doe upkeep,6.15
+actual,2027-09-20,1,Rabbits,Processing supplies,0.91
+actual,2027-09-20,1,Rabbits,Processing supplies,1.67
+actual,2027-09-20,1,Produce,Produce packaging,2.75
+actual,2027-09-20,1,Markets,Booth fee,20.0
+actual,2027-09-20,1,Markets,Mileage,28.0
+actual,2027-09-20,1,Produce,Produce packaging,3.98
+actual,2027-09-20,1,Markets,Booth fee,40.0
+actual,2027-09-20,1,Markets,Mileage,42.0
+actual,2027-09-27,1,Eggs,Egg cartons,1.55
+actual,2027-09-27,1,Eggs,Layer feed,13.65
+actual,2027-09-27,1,Rabbits,Rabbit feed,12.0
+actual,2027-09-27,1,Rabbits,Doe upkeep,6.15
+actual,2027-09-27,1,Rabbits,Processing supplies,0.99
+actual,2027-09-27,1,Rabbits,Processing supplies,1.27
+actual,2027-09-27,1,Produce,Produce packaging,1.85
+actual,2027-09-27,1,Markets,Booth fee,20.0
+actual,2027-09-27,1,Markets,Mileage,28.0
+actual,2027-09-27,1,Produce,Produce packaging,4.9
+actual,2027-09-27,1,Markets,Booth fee,40.0
+actual,2027-09-27,1,Markets,Mileage,42.0
+actual,2027-10-04,1,Eggs,Egg cartons,1.3
+actual,2027-10-04,1,Eggs,Layer feed,13.65
+actual,2027-10-04,1,Rabbits,Rabbit feed,12.0
+actual,2027-10-04,1,Rabbits,Doe upkeep,6.15
+actual,2027-10-04,1,Rabbits,Processing supplies,1.14
+actual,2027-10-04,1,Rabbits,Processing supplies,1.43
+actual,2027-10-04,1,Produce,Produce packaging,1.58
+actual,2027-10-04,1,Markets,Booth fee,20.0
+actual,2027-10-04,1,Markets,Mileage,28.0
+actual,2027-10-04,1,Produce,Produce packaging,3.08
+actual,2027-10-04,1,Markets,Booth fee,40.0
+actual,2027-10-04,1,Markets,Mileage,42.0
+actual,2027-10-11,1,Eggs,Egg cartons,1.38
+actual,2027-10-11,1,Eggs,Layer feed,13.65
+actual,2027-10-11,1,Rabbits,Rabbit feed,12.0
+actual,2027-10-11,1,Rabbits,Doe upkeep,6.15
+actual,2027-10-11,1,Rabbits,Processing supplies,0.99
+actual,2027-10-11,1,Rabbits,Processing supplies,1.39
+actual,2027-10-11,1,Produce,Produce packaging,0.92
+actual,2027-10-11,1,Markets,Booth fee,20.0
+actual,2027-10-11,1,Markets,Mileage,28.0
+actual,2027-10-11,1,Produce,Produce packaging,1.84
+actual,2027-10-11,1,Markets,Booth fee,40.0
+actual,2027-10-11,1,Markets,Mileage,42.0
+actual,2027-10-18,1,Eggs,Egg cartons,1.07
+actual,2027-10-18,1,Eggs,Layer feed,13.65
+actual,2027-10-18,1,Rabbits,Rabbit feed,12.0
+actual,2027-10-18,1,Rabbits,Doe upkeep,6.15
+actual,2027-10-18,1,Rabbits,Processing supplies,0.88
+actual,2027-10-18,1,Rabbits,Processing supplies,1.56
+actual,2027-10-18,1,Produce,Produce packaging,0.51
+actual,2027-10-18,1,Markets,Booth fee,20.0
+actual,2027-10-18,1,Markets,Mileage,28.0
+actual,2027-10-18,1,Produce,Produce packaging,0.74
+actual,2027-10-18,1,Markets,Booth fee,40.0
+actual,2027-10-18,1,Markets,Mileage,42.0
+actual,2027-10-25,1,Eggs,Egg cartons,1.25
+actual,2027-10-25,1,Eggs,Layer feed,13.65
+actual,2027-10-25,1,Rabbits,Rabbit feed,12.0
+actual,2027-10-25,1,Rabbits,Doe upkeep,6.15
+actual,2027-10-25,1,Rabbits,Processing supplies,0.83
+actual,2027-10-25,1,Rabbits,Processing supplies,1.62
+actual,2027-10-25,1,Produce,Produce packaging,0.36
+actual,2027-10-25,1,Markets,Booth fee,20.0
+actual,2027-10-25,1,Markets,Mileage,28.0
+actual,2027-10-25,1,Produce,Produce packaging,0.68
+actual,2027-10-25,1,Markets,Booth fee,40.0
+actual,2027-10-25,1,Markets,Mileage,42.0
+actual,2027-11-01,1,Eggs,Egg cartons,0.73
+actual,2027-11-01,1,Eggs,Layer feed,13.65
+actual,2027-11-01,1,Rabbits,Doe upkeep,6.15
+actual,2027-11-01,1,Rabbits,Processing supplies,1.71
+actual,2027-11-08,1,Eggs,Egg cartons,0.95
+actual,2027-11-08,1,Eggs,Layer feed,13.65
+actual,2027-11-08,1,Rabbits,Doe upkeep,6.15
+actual,2027-11-08,1,Rabbits,Processing supplies,1.84
+actual,2027-11-15,1,Eggs,Egg cartons,1.05
+actual,2027-11-15,1,Eggs,Layer feed,13.65
+actual,2027-11-15,1,Rabbits,Doe upkeep,6.15
+actual,2027-11-15,1,Rabbits,Processing supplies,1.84
+actual,2027-11-22,1,Eggs,Egg cartons,0.95
+actual,2027-11-22,1,Eggs,Layer feed,13.65
+actual,2027-11-22,1,Rabbits,Doe upkeep,6.15
+actual,2027-11-22,1,Rabbits,Processing supplies,1.87
+actual,2027-11-29,1,Eggs,Egg cartons,1.0
+actual,2027-11-29,1,Eggs,Layer feed,13.65
+actual,2027-11-29,1,Rabbits,Doe upkeep,6.15
+actual,2027-11-29,1,Rabbits,Processing supplies,2.09
+actual,2027-12-06,1,Eggs,Egg cartons,0.88
+actual,2027-12-06,1,Eggs,Layer feed,13.65
+actual,2027-12-06,1,Rabbits,Doe upkeep,6.15
+actual,2027-12-06,1,Rabbits,Processing supplies,1.92
+actual,2027-12-13,1,Eggs,Egg cartons,0.88
+actual,2027-12-13,1,Eggs,Layer feed,13.65
+actual,2027-12-13,1,Rabbits,Doe upkeep,6.15
+actual,2027-12-13,1,Rabbits,Processing supplies,2.08
+actual,2027-12-20,1,Eggs,Egg cartons,0.93
+actual,2027-12-20,1,Eggs,Layer feed,13.65
+actual,2027-12-20,1,Rabbits,Doe upkeep,6.15
+actual,2027-12-20,1,Rabbits,Processing supplies,1.94
+actual,2027-12-27,1,Eggs,Egg cartons,0.94
+actual,2027-12-27,1,Eggs,Layer feed,13.65
+actual,2027-12-27,1,Rabbits,Doe upkeep,6.15
+actual,2027-12-27,1,Rabbits,Processing supplies,1.62
+actual,2027-03-01,1,Fixed,Insurance,600.0
+actual,2027-03-01,1,Fixed,Licenses and permits,300.0
+actual,2027-03-01,1,Fixed,Utilities,40.0
+actual,2027-04-01,1,Fixed,Utilities,40.0
+actual,2027-05-01,1,Fixed,Utilities,40.0
+actual,2027-06-01,1,Fixed,Utilities,40.0
+actual,2027-07-01,1,Fixed,Utilities,40.0
+actual,2027-08-01,1,Fixed,Utilities,40.0
+actual,2027-09-01,1,Fixed,Utilities,40.0
+actual,2027-10-01,1,Fixed,Utilities,40.0
+actual,2027-11-01,1,Fixed,Utilities,40.0
+actual,2027-12-01,1,Fixed,Utilities,40.0
+actual,2028-01-10,2,Eggs,Egg cartons,1.38
+actual,2028-01-10,2,Eggs,Layer feed,19.34
+actual,2028-01-10,2,Rabbits,Doe upkeep,5.23
+actual,2028-01-10,2,Rabbits,Processing supplies,3.89
+actual,2028-01-17,2,Eggs,Egg cartons,1.16
+actual,2028-01-17,2,Eggs,Layer feed,19.34
+actual,2028-01-17,2,Rabbits,Doe upkeep,5.23
+actual,2028-01-17,2,Rabbits,Processing supplies,3.46
+actual,2028-01-24,2,Eggs,Egg cartons,1.82
+actual,2028-01-24,2,Eggs,Layer feed,19.34
+actual,2028-01-24,2,Rabbits,Doe upkeep,5.23
+actual,2028-01-24,2,Rabbits,Processing supplies,2.9
+actual,2028-01-31,2,Eggs,Egg cartons,1.55
+actual,2028-01-31,2,Eggs,Layer feed,19.34
+actual,2028-01-31,2,Rabbits,Doe upkeep,5.23
+actual,2028-01-31,2,Rabbits,Processing supplies,3.25
+actual,2028-02-07,2,Eggs,Egg cartons,2.09
+actual,2028-02-07,2,Eggs,Layer feed,19.34
+actual,2028-02-07,2,Rabbits,Doe upkeep,5.23
+actual,2028-02-07,2,Rabbits,Processing supplies,2.88
+actual,2028-02-14,2,Eggs,Egg cartons,1.73
+actual,2028-02-14,2,Eggs,Layer feed,19.34
+actual,2028-02-14,2,Rabbits,Doe upkeep,5.23
+actual,2028-02-14,2,Rabbits,Processing supplies,3.24
+actual,2028-02-21,2,Eggs,Egg cartons,1.72
+actual,2028-02-21,2,Eggs,Layer feed,19.34
+actual,2028-02-21,2,Rabbits,Doe upkeep,5.23
+actual,2028-02-21,2,Rabbits,Processing supplies,3.98
+actual,2028-02-28,2,Eggs,Egg cartons,1.83
+actual,2028-02-28,2,Eggs,Layer feed,19.34
+actual,2028-02-28,2,Rabbits,Doe upkeep,5.23
+actual,2028-02-28,2,Rabbits,Processing supplies,3.33
+actual,2028-03-06,2,Eggs,Egg cartons,2.41
+actual,2028-03-06,2,Eggs,Layer feed,19.34
+actual,2028-03-06,2,Rabbits,Rabbit feed,20.4
+actual,2028-03-06,2,Rabbits,Doe upkeep,5.23
+actual,2028-03-06,2,Rabbits,Processing supplies,3.9
+actual,2028-03-06,2,Produce,Seed and amendments,89.23
+actual,2028-03-13,2,Eggs,Egg cartons,2.37
+actual,2028-03-13,2,Eggs,Layer feed,19.34
+actual,2028-03-13,2,Rabbits,Rabbit feed,20.4
+actual,2028-03-13,2,Rabbits,Doe upkeep,5.23
+actual,2028-03-13,2,Rabbits,Processing supplies,3.68
+actual,2028-03-13,2,Produce,Seed and amendments,89.23
+actual,2028-03-20,2,Eggs,Egg cartons,2.17
+actual,2028-03-20,2,Eggs,Layer feed,19.34
+actual,2028-03-20,2,Rabbits,Rabbit feed,20.4
+actual,2028-03-20,2,Rabbits,Doe upkeep,5.23
+actual,2028-03-20,2,Rabbits,Processing supplies,3.49
+actual,2028-03-20,2,Produce,Seed and amendments,89.23
+actual,2028-03-27,2,Eggs,Egg cartons,2.4
+actual,2028-03-27,2,Eggs,Layer feed,19.34
+actual,2028-03-27,2,Rabbits,Rabbit feed,20.4
+actual,2028-03-27,2,Rabbits,Doe upkeep,5.23
+actual,2028-03-27,2,Rabbits,Processing supplies,3.63
+actual,2028-03-27,2,Produce,Seed and amendments,89.23
+actual,2028-04-03,2,Eggs,Egg cartons,3.17
+actual,2028-04-03,2,Eggs,Layer feed,19.34
+actual,2028-04-03,2,Rabbits,Rabbit feed,20.4
+actual,2028-04-03,2,Rabbits,Doe upkeep,5.23
+actual,2028-04-03,2,Rabbits,Processing supplies,3.4
+actual,2028-04-03,2,Produce,Seed and amendments,89.23
+actual,2028-04-10,2,Eggs,Egg cartons,3.48
+actual,2028-04-10,2,Eggs,Layer feed,19.34
+actual,2028-04-10,2,Rabbits,Rabbit feed,20.4
+actual,2028-04-10,2,Rabbits,Doe upkeep,5.23
+actual,2028-04-10,2,Rabbits,Processing supplies,3.44
+actual,2028-04-10,2,Produce,Seed and amendments,89.23
+actual,2028-04-17,2,Eggs,Egg cartons,2.51
+actual,2028-04-17,2,Eggs,Layer feed,19.34
+actual,2028-04-17,2,Rabbits,Rabbit feed,20.4
+actual,2028-04-17,2,Rabbits,Doe upkeep,5.23
+actual,2028-04-17,2,Rabbits,Processing supplies,3.48
+actual,2028-04-17,2,Produce,Seed and amendments,89.23
+actual,2028-04-24,2,Eggs,Egg cartons,2.85
+actual,2028-04-24,2,Eggs,Layer feed,19.34
+actual,2028-04-24,2,Rabbits,Rabbit feed,20.4
+actual,2028-04-24,2,Rabbits,Doe upkeep,5.23
+actual,2028-04-24,2,Rabbits,Processing supplies,3.31
+actual,2028-04-24,2,Produce,Seed and amendments,89.23
+actual,2028-05-01,2,Eggs,Egg cartons,3.85
+actual,2028-05-01,2,Eggs,Layer feed,19.34
+actual,2028-05-01,2,Rabbits,Rabbit feed,20.4
+actual,2028-05-01,2,Rabbits,Doe upkeep,5.23
+actual,2028-05-01,2,Rabbits,Processing supplies,3.85
+actual,2028-05-01,2,Produce,Seed and amendments,89.23
+actual,2028-05-08,2,Eggs,Egg cartons,3.45
+actual,2028-05-08,2,Eggs,Layer feed,19.34
+actual,2028-05-08,2,Rabbits,Rabbit feed,20.4
+actual,2028-05-08,2,Rabbits,Doe upkeep,5.23
+actual,2028-05-08,2,Rabbits,Processing supplies,3.76
+actual,2028-05-08,2,Produce,Seed and amendments,89.23
+actual,2028-05-15,2,Eggs,Egg cartons,2.87
+actual,2028-05-15,2,Eggs,Layer feed,19.34
+actual,2028-05-15,2,Rabbits,Rabbit feed,20.4
+actual,2028-05-15,2,Rabbits,Doe upkeep,5.23
+actual,2028-05-15,2,Rabbits,Processing supplies,2.91
+actual,2028-05-15,2,Produce,Seed and amendments,89.23
+actual,2028-05-22,2,Eggs,Egg cartons,3.33
+actual,2028-05-22,2,Eggs,Layer feed,19.34
+actual,2028-05-22,2,Rabbits,Rabbit feed,20.4
+actual,2028-05-22,2,Rabbits,Doe upkeep,5.23
+actual,2028-05-22,2,Rabbits,Processing supplies,4.02
+actual,2028-05-22,2,Produce,Seed and amendments,89.23
+actual,2028-05-29,2,Eggs,Egg cartons,2.77
+actual,2028-05-29,2,Eggs,Layer feed,19.34
+actual,2028-05-29,2,Rabbits,Rabbit feed,20.4
+actual,2028-05-29,2,Rabbits,Doe upkeep,5.23
+actual,2028-05-29,2,Rabbits,Processing supplies,3.56
+actual,2028-05-29,2,Produce,Seed and amendments,89.23
+actual,2028-06-05,2,Eggs,Egg cartons,3.83
+actual,2028-06-05,2,Eggs,Layer feed,19.34
+actual,2028-06-05,2,Rabbits,Rabbit feed,20.4
+actual,2028-06-05,2,Rabbits,Doe upkeep,5.23
+actual,2028-06-05,2,Rabbits,Processing supplies,1.58
+actual,2028-06-05,2,Rabbits,Processing supplies,3.13
+actual,2028-06-05,2,Produce,Produce packaging,0.66
+actual,2028-06-05,2,Markets,Booth fee,20.0
+actual,2028-06-05,2,Markets,Mileage,28.0
+actual,2028-06-05,2,Produce,Produce packaging,1.25
+actual,2028-06-05,2,Markets,Booth fee,40.0
+actual,2028-06-05,2,Markets,Mileage,42.0
+actual,2028-06-12,2,Eggs,Egg cartons,2.98
+actual,2028-06-12,2,Eggs,Layer feed,19.34
+actual,2028-06-12,2,Rabbits,Rabbit feed,20.4
+actual,2028-06-12,2,Rabbits,Doe upkeep,5.23
+actual,2028-06-12,2,Rabbits,Processing supplies,1.45
+actual,2028-06-12,2,Rabbits,Processing supplies,3.31
+actual,2028-06-12,2,Produce,Produce packaging,0.99
+actual,2028-06-12,2,Markets,Booth fee,20.0
+actual,2028-06-12,2,Markets,Mileage,28.0
+actual,2028-06-12,2,Produce,Produce packaging,2.61
+actual,2028-06-12,2,Markets,Booth fee,40.0
+actual,2028-06-12,2,Markets,Mileage,42.0
+actual,2028-06-19,2,Eggs,Egg cartons,3.71
+actual,2028-06-19,2,Eggs,Layer feed,19.34
+actual,2028-06-19,2,Rabbits,Rabbit feed,20.4
+actual,2028-06-19,2,Rabbits,Doe upkeep,5.23
+actual,2028-06-19,2,Rabbits,Processing supplies,2.06
+actual,2028-06-19,2,Rabbits,Processing supplies,3.02
+actual,2028-06-19,2,Produce,Produce packaging,1.81
+actual,2028-06-19,2,Markets,Booth fee,20.0
+actual,2028-06-19,2,Markets,Mileage,28.0
+actual,2028-06-19,2,Produce,Produce packaging,2.49
+actual,2028-06-19,2,Markets,Booth fee,40.0
+actual,2028-06-19,2,Markets,Mileage,42.0
+actual,2028-06-26,2,Eggs,Egg cartons,3.54
+actual,2028-06-26,2,Eggs,Layer feed,19.34
+actual,2028-06-26,2,Rabbits,Rabbit feed,20.4
+actual,2028-06-26,2,Rabbits,Doe upkeep,5.23
+actual,2028-06-26,2,Rabbits,Processing supplies,1.63
+actual,2028-06-26,2,Rabbits,Processing supplies,2.63
+actual,2028-06-26,2,Produce,Produce packaging,2.54
+actual,2028-06-26,2,Markets,Booth fee,20.0
+actual,2028-06-26,2,Markets,Mileage,28.0
+actual,2028-06-26,2,Produce,Produce packaging,5.14
+actual,2028-06-26,2,Markets,Booth fee,40.0
+actual,2028-06-26,2,Markets,Mileage,42.0
+actual,2028-07-03,2,Eggs,Egg cartons,3.23
+actual,2028-07-03,2,Eggs,Layer feed,19.34
+actual,2028-07-03,2,Rabbits,Rabbit feed,20.4
+actual,2028-07-03,2,Rabbits,Doe upkeep,5.23
+actual,2028-07-03,2,Rabbits,Processing supplies,1.94
+actual,2028-07-03,2,Rabbits,Processing supplies,2.81
+actual,2028-07-03,2,Produce,Produce packaging,4.5
+actual,2028-07-03,2,Markets,Booth fee,20.0
+actual,2028-07-03,2,Markets,Mileage,28.0
+actual,2028-07-03,2,Produce,Produce packaging,5.08
+actual,2028-07-03,2,Markets,Booth fee,40.0
+actual,2028-07-03,2,Markets,Mileage,42.0
+actual,2028-07-10,2,Eggs,Egg cartons,3.0
+actual,2028-07-10,2,Eggs,Layer feed,19.34
+actual,2028-07-10,2,Rabbits,Rabbit feed,20.4
+actual,2028-07-10,2,Rabbits,Doe upkeep,5.23
+actual,2028-07-10,2,Rabbits,Processing supplies,1.62
+actual,2028-07-10,2,Rabbits,Processing supplies,2.22
+actual,2028-07-10,2,Produce,Produce packaging,5.54
+actual,2028-07-10,2,Markets,Booth fee,20.0
+actual,2028-07-10,2,Markets,Mileage,28.0
+actual,2028-07-10,2,Produce,Produce packaging,8.64
+actual,2028-07-10,2,Markets,Booth fee,40.0
+actual,2028-07-10,2,Markets,Mileage,42.0
+actual,2028-07-17,2,Eggs,Egg cartons,3.36
+actual,2028-07-17,2,Eggs,Layer feed,19.34
+actual,2028-07-17,2,Rabbits,Rabbit feed,20.4
+actual,2028-07-17,2,Rabbits,Doe upkeep,5.23
+actual,2028-07-17,2,Rabbits,Processing supplies,1.49
+actual,2028-07-17,2,Rabbits,Processing supplies,3.55
+actual,2028-07-17,2,Produce,Produce packaging,8.17
+actual,2028-07-17,2,Markets,Booth fee,20.0
+actual,2028-07-17,2,Markets,Mileage,28.0
+actual,2028-07-17,2,Produce,Produce packaging,10.91
+actual,2028-07-17,2,Markets,Booth fee,40.0
+actual,2028-07-17,2,Markets,Mileage,42.0
+actual,2028-07-24,2,Eggs,Egg cartons,3.61
+actual,2028-07-24,2,Eggs,Layer feed,19.34
+actual,2028-07-24,2,Rabbits,Rabbit feed,20.4
+actual,2028-07-24,2,Rabbits,Doe upkeep,5.23
+actual,2028-07-24,2,Rabbits,Processing supplies,1.34
+actual,2028-07-24,2,Rabbits,Processing supplies,2.9
+actual,2028-07-24,2,Produce,Produce packaging,6.15
+actual,2028-07-24,2,Markets,Booth fee,20.0
+actual,2028-07-24,2,Markets,Mileage,28.0
+actual,2028-07-24,2,Produce,Produce packaging,15.76
+actual,2028-07-24,2,Markets,Booth fee,40.0
+actual,2028-07-24,2,Markets,Mileage,42.0
+actual,2028-07-31,2,Eggs,Egg cartons,3.56
+actual,2028-07-31,2,Eggs,Layer feed,19.34
+actual,2028-07-31,2,Rabbits,Rabbit feed,20.4
+actual,2028-07-31,2,Rabbits,Doe upkeep,5.23
+actual,2028-07-31,2,Rabbits,Processing supplies,1.52
+actual,2028-07-31,2,Rabbits,Processing supplies,2.66
+actual,2028-07-31,2,Produce,Produce packaging,8.12
+actual,2028-07-31,2,Markets,Booth fee,20.0
+actual,2028-07-31,2,Markets,Mileage,28.0
+actual,2028-07-31,2,Produce,Produce packaging,14.85
+actual,2028-07-31,2,Markets,Booth fee,40.0
+actual,2028-07-31,2,Markets,Mileage,42.0
+actual,2028-08-07,2,Eggs,Egg cartons,3.32
+actual,2028-08-07,2,Eggs,Layer feed,19.34
+actual,2028-08-07,2,Rabbits,Rabbit feed,20.4
+actual,2028-08-07,2,Rabbits,Doe upkeep,5.23
+actual,2028-08-07,2,Rabbits,Processing supplies,1.65
+actual,2028-08-07,2,Rabbits,Processing supplies,3.24
+actual,2028-08-07,2,Produce,Produce packaging,9.94
+actual,2028-08-07,2,Markets,Booth fee,20.0
+actual,2028-08-07,2,Markets,Mileage,28.0
+actual,2028-08-07,2,Produce,Produce packaging,17.78
+actual,2028-08-07,2,Markets,Booth fee,40.0
+actual,2028-08-07,2,Markets,Mileage,42.0
+actual,2028-08-14,2,Eggs,Egg cartons,1.02
+actual,2028-08-14,2,Eggs,Layer feed,19.34
+actual,2028-08-14,2,Rabbits,Rabbit feed,20.4
+actual,2028-08-14,2,Rabbits,Doe upkeep,5.23
+actual,2028-08-14,2,Rabbits,Processing supplies,1.59
+actual,2028-08-14,2,Rabbits,Processing supplies,0.0
+actual,2028-08-14,2,Produce,Produce packaging,11.31
+actual,2028-08-14,2,Markets,Booth fee,20.0
+actual,2028-08-14,2,Markets,Mileage,28.0
+actual,2028-08-21,2,Eggs,Egg cartons,1.24
+actual,2028-08-21,2,Eggs,Layer feed,19.34
+actual,2028-08-21,2,Rabbits,Rabbit feed,20.4
+actual,2028-08-21,2,Rabbits,Doe upkeep,5.23
+actual,2028-08-21,2,Rabbits,Processing supplies,1.58
+actual,2028-08-21,2,Rabbits,Processing supplies,0.0
+actual,2028-08-21,2,Produce,Produce packaging,10.41
+actual,2028-08-21,2,Markets,Booth fee,20.0
+actual,2028-08-21,2,Markets,Mileage,28.0
+actual,2028-08-28,2,Eggs,Egg cartons,3.18
+actual,2028-08-28,2,Eggs,Layer feed,19.34
+actual,2028-08-28,2,Rabbits,Rabbit feed,20.4
+actual,2028-08-28,2,Rabbits,Doe upkeep,5.23
+actual,2028-08-28,2,Rabbits,Processing supplies,1.74
+actual,2028-08-28,2,Rabbits,Processing supplies,2.26
+actual,2028-08-28,2,Produce,Produce packaging,6.67
+actual,2028-08-28,2,Markets,Booth fee,20.0
+actual,2028-08-28,2,Markets,Mileage,28.0
+actual,2028-08-28,2,Produce,Produce packaging,13.28
+actual,2028-08-28,2,Markets,Booth fee,40.0
+actual,2028-08-28,2,Markets,Mileage,42.0
+actual,2028-09-04,2,Eggs,Egg cartons,2.21
+actual,2028-09-04,2,Eggs,Layer feed,19.34
+actual,2028-09-04,2,Rabbits,Rabbit feed,20.4
+actual,2028-09-04,2,Rabbits,Doe upkeep,5.23
+actual,2028-09-04,2,Rabbits,Processing supplies,1.82
+actual,2028-09-04,2,Rabbits,Processing supplies,2.36
+actual,2028-09-04,2,Produce,Produce packaging,6.57
+actual,2028-09-04,2,Markets,Booth fee,20.0
+actual,2028-09-04,2,Markets,Mileage,28.0
+actual,2028-09-04,2,Produce,Produce packaging,13.37
+actual,2028-09-04,2,Markets,Booth fee,40.0
+actual,2028-09-04,2,Markets,Mileage,42.0
+actual,2028-09-11,2,Eggs,Egg cartons,2.51
+actual,2028-09-11,2,Eggs,Layer feed,19.34
+actual,2028-09-11,2,Rabbits,Rabbit feed,20.4
+actual,2028-09-11,2,Rabbits,Doe upkeep,5.23
+actual,2028-09-11,2,Rabbits,Processing supplies,1.87
+actual,2028-09-11,2,Rabbits,Processing supplies,2.6
+actual,2028-09-11,2,Produce,Produce packaging,4.94
+actual,2028-09-11,2,Markets,Booth fee,20.0
+actual,2028-09-11,2,Markets,Mileage,28.0
+actual,2028-09-11,2,Produce,Produce packaging,13.36
+actual,2028-09-11,2,Markets,Booth fee,40.0
+actual,2028-09-11,2,Markets,Mileage,42.0
+actual,2028-09-18,2,Eggs,Egg cartons,2.51
+actual,2028-09-18,2,Eggs,Layer feed,19.34
+actual,2028-09-18,2,Rabbits,Rabbit feed,20.4
+actual,2028-09-18,2,Rabbits,Doe upkeep,5.23
+actual,2028-09-18,2,Rabbits,Processing supplies,1.52
+actual,2028-09-18,2,Rabbits,Processing supplies,2.01
+actual,2028-09-18,2,Produce,Produce packaging,5.39
+actual,2028-09-18,2,Markets,Booth fee,20.0
+actual,2028-09-18,2,Markets,Mileage,28.0
+actual,2028-09-18,2,Produce,Produce packaging,8.03
+actual,2028-09-18,2,Markets,Booth fee,40.0
+actual,2028-09-18,2,Markets,Mileage,42.0
+actual,2028-09-25,2,Eggs,Egg cartons,2.42
+actual,2028-09-25,2,Eggs,Layer feed,19.34
+actual,2028-09-25,2,Rabbits,Rabbit feed,20.4
+actual,2028-09-25,2,Rabbits,Doe upkeep,5.23
+actual,2028-09-25,2,Rabbits,Processing supplies,1.83
+actual,2028-09-25,2,Rabbits,Processing supplies,2.47
+actual,2028-09-25,2,Produce,Produce packaging,3.51
+actual,2028-09-25,2,Markets,Booth fee,20.0
+actual,2028-09-25,2,Markets,Mileage,28.0
+actual,2028-09-25,2,Produce,Produce packaging,5.97
+actual,2028-09-25,2,Markets,Booth fee,40.0
+actual,2028-09-25,2,Markets,Mileage,42.0
+actual,2028-10-02,2,Eggs,Egg cartons,2.24
+actual,2028-10-02,2,Eggs,Layer feed,19.34
+actual,2028-10-02,2,Rabbits,Rabbit feed,20.4
+actual,2028-10-02,2,Rabbits,Doe upkeep,5.23
+actual,2028-10-02,2,Rabbits,Processing supplies,1.97
+actual,2028-10-02,2,Rabbits,Processing supplies,2.91
+actual,2028-10-02,2,Produce,Produce packaging,2.17
+actual,2028-10-02,2,Markets,Booth fee,20.0
+actual,2028-10-02,2,Markets,Mileage,28.0
+actual,2028-10-02,2,Produce,Produce packaging,4.33
+actual,2028-10-02,2,Markets,Booth fee,40.0
+actual,2028-10-02,2,Markets,Mileage,42.0
+actual,2028-10-09,2,Eggs,Egg cartons,2.03
+actual,2028-10-09,2,Eggs,Layer feed,19.34
+actual,2028-10-09,2,Rabbits,Rabbit feed,20.4
+actual,2028-10-09,2,Rabbits,Doe upkeep,5.23
+actual,2028-10-09,2,Rabbits,Processing supplies,1.62
+actual,2028-10-09,2,Rabbits,Processing supplies,2.9
+actual,2028-10-09,2,Produce,Produce packaging,1.86
+actual,2028-10-09,2,Markets,Booth fee,20.0
+actual,2028-10-09,2,Markets,Mileage,28.0
+actual,2028-10-09,2,Produce,Produce packaging,2.48
+actual,2028-10-09,2,Markets,Booth fee,40.0
+actual,2028-10-09,2,Markets,Mileage,42.0
+actual,2028-10-16,2,Eggs,Egg cartons,1.93
+actual,2028-10-16,2,Eggs,Layer feed,19.34
+actual,2028-10-16,2,Rabbits,Rabbit feed,20.4
+actual,2028-10-16,2,Rabbits,Doe upkeep,5.23
+actual,2028-10-16,2,Rabbits,Processing supplies,1.22
+actual,2028-10-16,2,Rabbits,Processing supplies,2.55
+actual,2028-10-16,2,Produce,Produce packaging,1.02
+actual,2028-10-16,2,Markets,Booth fee,20.0
+actual,2028-10-16,2,Markets,Mileage,28.0
+actual,2028-10-16,2,Produce,Produce packaging,2.38
+actual,2028-10-16,2,Markets,Booth fee,40.0
+actual,2028-10-16,2,Markets,Mileage,42.0
+actual,2028-10-23,2,Eggs,Egg cartons,2.3
+actual,2028-10-23,2,Eggs,Layer feed,19.34
+actual,2028-10-23,2,Rabbits,Rabbit feed,20.4
+actual,2028-10-23,2,Rabbits,Doe upkeep,5.23
+actual,2028-10-23,2,Rabbits,Processing supplies,1.8
+actual,2028-10-23,2,Rabbits,Processing supplies,2.97
+actual,2028-10-23,2,Produce,Produce packaging,0.7
+actual,2028-10-23,2,Markets,Booth fee,20.0
+actual,2028-10-23,2,Markets,Mileage,28.0
+actual,2028-10-23,2,Produce,Produce packaging,1.08
+actual,2028-10-23,2,Markets,Booth fee,40.0
+actual,2028-10-23,2,Markets,Mileage,42.0
+actual,2028-10-30,2,Eggs,Egg cartons,2.2
+actual,2028-10-30,2,Eggs,Layer feed,19.34
+actual,2028-10-30,2,Rabbits,Rabbit feed,20.4
+actual,2028-10-30,2,Rabbits,Doe upkeep,5.23
+actual,2028-10-30,2,Rabbits,Processing supplies,1.44
+actual,2028-10-30,2,Rabbits,Processing supplies,2.84
+actual,2028-10-30,2,Produce,Produce packaging,0.34
+actual,2028-10-30,2,Markets,Booth fee,20.0
+actual,2028-10-30,2,Markets,Mileage,28.0
+actual,2028-10-30,2,Produce,Produce packaging,0.62
+actual,2028-10-30,2,Markets,Booth fee,40.0
+actual,2028-10-30,2,Markets,Mileage,42.0
+actual,2028-11-06,2,Eggs,Egg cartons,1.49
+actual,2028-11-06,2,Eggs,Layer feed,19.34
+actual,2028-11-06,2,Rabbits,Doe upkeep,5.23
+actual,2028-11-06,2,Rabbits,Processing supplies,3.94
+actual,2028-11-13,2,Eggs,Egg cartons,1.8
+actual,2028-11-13,2,Eggs,Layer feed,19.34
+actual,2028-11-13,2,Rabbits,Doe upkeep,5.23
+actual,2028-11-13,2,Rabbits,Processing supplies,3.79
+actual,2028-11-20,2,Eggs,Egg cartons,1.69
+actual,2028-11-20,2,Eggs,Layer feed,19.34
+actual,2028-11-20,2,Rabbits,Doe upkeep,5.23
+actual,2028-11-20,2,Rabbits,Processing supplies,3.5
+actual,2028-11-27,2,Eggs,Egg cartons,1.91
+actual,2028-11-27,2,Eggs,Layer feed,19.34
+actual,2028-11-27,2,Rabbits,Doe upkeep,5.23
+actual,2028-11-27,2,Rabbits,Processing supplies,3.84
+actual,2028-12-04,2,Eggs,Egg cartons,1.45
+actual,2028-12-04,2,Eggs,Layer feed,19.34
+actual,2028-12-04,2,Rabbits,Doe upkeep,5.23
+actual,2028-12-04,2,Rabbits,Processing supplies,3.85
+actual,2028-12-11,2,Eggs,Egg cartons,1.41
+actual,2028-12-11,2,Eggs,Layer feed,19.34
+actual,2028-12-11,2,Rabbits,Doe upkeep,5.23
+actual,2028-12-11,2,Rabbits,Processing supplies,3.82
+actual,2028-12-18,2,Eggs,Egg cartons,1.49
+actual,2028-12-18,2,Eggs,Layer feed,19.34
+actual,2028-12-18,2,Rabbits,Doe upkeep,5.23
+actual,2028-12-18,2,Rabbits,Processing supplies,3.45
+actual,2028-12-25,2,Eggs,Egg cartons,1.42
+actual,2028-12-25,2,Eggs,Layer feed,19.34
+actual,2028-12-25,2,Rabbits,Doe upkeep,5.23
+actual,2028-12-25,2,Rabbits,Processing supplies,3.6
+actual,2028-01-01,2,Fixed,Insurance,600.0
+actual,2028-01-01,2,Fixed,Licenses and permits,300.0
+actual,2028-01-01,2,Fixed,Utilities,40.0
+actual,2028-02-01,2,Fixed,Utilities,40.0
+actual,2028-03-01,2,Fixed,Utilities,40.0
+actual,2028-04-01,2,Fixed,Utilities,40.0
+actual,2028-05-01,2,Fixed,Utilities,40.0
+actual,2028-06-01,2,Fixed,Utilities,40.0
+actual,2028-07-01,2,Fixed,Utilities,40.0
+actual,2028-08-01,2,Fixed,Utilities,40.0
+actual,2028-09-01,2,Fixed,Utilities,40.0
+actual,2028-10-01,2,Fixed,Utilities,40.0
+actual,2028-11-01,2,Fixed,Utilities,40.0
+actual,2028-12-01,2,Fixed,Utilities,40.0
+actual,2029-01-08,3,Eggs,Egg cartons,1.67
+actual,2029-01-08,3,Eggs,Layer feed,19.11
+actual,2029-01-08,3,Rabbits,Doe upkeep,4.31
+actual,2029-01-08,3,Rabbits,Processing supplies,3.23
+actual,2029-01-15,3,Eggs,Egg cartons,1.67
+actual,2029-01-15,3,Eggs,Layer feed,19.11
+actual,2029-01-15,3,Rabbits,Doe upkeep,4.31
+actual,2029-01-15,3,Rabbits,Processing supplies,3.47
+actual,2029-01-22,3,Eggs,Egg cartons,1.49
+actual,2029-01-22,3,Eggs,Layer feed,19.11
+actual,2029-01-22,3,Rabbits,Doe upkeep,4.31
+actual,2029-01-22,3,Rabbits,Processing supplies,4.21
+actual,2029-01-29,3,Eggs,Egg cartons,2.01
+actual,2029-01-29,3,Eggs,Layer feed,19.11
+actual,2029-01-29,3,Rabbits,Doe upkeep,4.31
+actual,2029-01-29,3,Rabbits,Processing supplies,4.05
+actual,2029-02-05,3,Eggs,Egg cartons,2.45
+actual,2029-02-05,3,Eggs,Layer feed,19.11
+actual,2029-02-05,3,Rabbits,Doe upkeep,4.31
+actual,2029-02-05,3,Rabbits,Processing supplies,5.44
+actual,2029-02-12,3,Eggs,Egg cartons,2.44
+actual,2029-02-12,3,Eggs,Layer feed,19.11
+actual,2029-02-12,3,Rabbits,Doe upkeep,4.31
+actual,2029-02-12,3,Rabbits,Processing supplies,4.46
+actual,2029-02-19,3,Eggs,Egg cartons,2.26
+actual,2029-02-19,3,Eggs,Layer feed,19.11
+actual,2029-02-19,3,Rabbits,Doe upkeep,4.31
+actual,2029-02-19,3,Rabbits,Processing supplies,4.37
+actual,2029-02-26,3,Eggs,Egg cartons,1.98
+actual,2029-02-26,3,Eggs,Layer feed,19.11
+actual,2029-02-26,3,Rabbits,Doe upkeep,4.31
+actual,2029-02-26,3,Rabbits,Processing supplies,4.58
+actual,2029-03-05,3,Eggs,Egg cartons,1.86
+actual,2029-03-05,3,Eggs,Layer feed,19.11
+actual,2029-03-05,3,Rabbits,Rabbit feed,21.6
+actual,2029-03-05,3,Rabbits,Doe upkeep,4.31
+actual,2029-03-05,3,Rabbits,Processing supplies,4.09
+actual,2029-03-05,3,Produce,Seed and amendments,89.23
+actual,2029-03-12,3,Eggs,Egg cartons,2.9
+actual,2029-03-12,3,Eggs,Layer feed,19.11
+actual,2029-03-12,3,Rabbits,Rabbit feed,21.6
+actual,2029-03-12,3,Rabbits,Doe upkeep,4.31
+actual,2029-03-12,3,Rabbits,Processing supplies,4.13
+actual,2029-03-12,3,Produce,Seed and amendments,89.23
+actual,2029-03-19,3,Eggs,Egg cartons,2.95
+actual,2029-03-19,3,Eggs,Layer feed,19.11
+actual,2029-03-19,3,Rabbits,Rabbit feed,21.6
+actual,2029-03-19,3,Rabbits,Doe upkeep,4.31
+actual,2029-03-19,3,Rabbits,Processing supplies,4.42
+actual,2029-03-19,3,Produce,Seed and amendments,89.23
+actual,2029-03-26,3,Eggs,Egg cartons,2.37
+actual,2029-03-26,3,Eggs,Layer feed,19.11
+actual,2029-03-26,3,Rabbits,Rabbit feed,21.6
+actual,2029-03-26,3,Rabbits,Doe upkeep,4.31
+actual,2029-03-26,3,Rabbits,Processing supplies,4.49
+actual,2029-03-26,3,Produce,Seed and amendments,89.23
+actual,2029-04-02,3,Eggs,Egg cartons,3.53
+actual,2029-04-02,3,Eggs,Layer feed,19.11
+actual,2029-04-02,3,Rabbits,Rabbit feed,21.6
+actual,2029-04-02,3,Rabbits,Doe upkeep,4.31
+actual,2029-04-02,3,Rabbits,Processing supplies,4.23
+actual,2029-04-02,3,Produce,Seed and amendments,89.23
+actual,2029-04-09,3,Eggs,Egg cartons,4.28
+actual,2029-04-09,3,Eggs,Layer feed,19.11
+actual,2029-04-09,3,Rabbits,Rabbit feed,21.6
+actual,2029-04-09,3,Rabbits,Doe upkeep,4.31
+actual,2029-04-09,3,Rabbits,Processing supplies,5.64
+actual,2029-04-09,3,Produce,Seed and amendments,89.23
+actual,2029-04-16,3,Eggs,Egg cartons,3.18
+actual,2029-04-16,3,Eggs,Layer feed,19.11
+actual,2029-04-16,3,Rabbits,Rabbit feed,21.6
+actual,2029-04-16,3,Rabbits,Doe upkeep,4.31
+actual,2029-04-16,3,Rabbits,Processing supplies,4.92
+actual,2029-04-16,3,Produce,Seed and amendments,89.23
+actual,2029-04-23,3,Eggs,Egg cartons,3.27
+actual,2029-04-23,3,Eggs,Layer feed,19.11
+actual,2029-04-23,3,Rabbits,Rabbit feed,21.6
+actual,2029-04-23,3,Rabbits,Doe upkeep,4.31
+actual,2029-04-23,3,Rabbits,Processing supplies,4.86
+actual,2029-04-23,3,Produce,Seed and amendments,89.23
+actual,2029-04-30,3,Eggs,Egg cartons,4.09
+actual,2029-04-30,3,Eggs,Layer feed,19.11
+actual,2029-04-30,3,Rabbits,Rabbit feed,21.6
+actual,2029-04-30,3,Rabbits,Doe upkeep,4.31
+actual,2029-04-30,3,Rabbits,Processing supplies,4.63
+actual,2029-04-30,3,Produce,Seed and amendments,89.23
+actual,2029-05-07,3,Eggs,Egg cartons,4.31
+actual,2029-05-07,3,Eggs,Layer feed,19.11
+actual,2029-05-07,3,Rabbits,Rabbit feed,21.6
+actual,2029-05-07,3,Rabbits,Doe upkeep,4.31
+actual,2029-05-07,3,Rabbits,Processing supplies,4.37
+actual,2029-05-07,3,Produce,Seed and amendments,89.23
+actual,2029-05-14,3,Eggs,Egg cartons,3.74
+actual,2029-05-14,3,Eggs,Layer feed,19.11
+actual,2029-05-14,3,Rabbits,Rabbit feed,21.6
+actual,2029-05-14,3,Rabbits,Doe upkeep,4.31
+actual,2029-05-14,3,Rabbits,Processing supplies,4.61
+actual,2029-05-14,3,Produce,Seed and amendments,89.23
+actual,2029-05-21,3,Eggs,Egg cartons,3.74
+actual,2029-05-21,3,Eggs,Layer feed,19.11
+actual,2029-05-21,3,Rabbits,Rabbit feed,21.6
+actual,2029-05-21,3,Rabbits,Doe upkeep,4.31
+actual,2029-05-21,3,Rabbits,Processing supplies,4.79
+actual,2029-05-21,3,Produce,Seed and amendments,89.23
+actual,2029-05-28,3,Eggs,Egg cartons,2.66
+actual,2029-05-28,3,Eggs,Layer feed,19.11
+actual,2029-05-28,3,Rabbits,Rabbit feed,21.6
+actual,2029-05-28,3,Rabbits,Doe upkeep,4.31
+actual,2029-05-28,3,Rabbits,Processing supplies,4.74
+actual,2029-05-28,3,Produce,Seed and amendments,89.23
+actual,2029-06-04,3,Eggs,Egg cartons,4.59
+actual,2029-06-04,3,Eggs,Layer feed,21.4
+actual,2029-06-04,3,Rabbits,Rabbit feed,24.19
+actual,2029-06-04,3,Rabbits,Doe upkeep,4.31
+actual,2029-06-04,3,Rabbits,Processing supplies,2.23
+actual,2029-06-04,3,Rabbits,Processing supplies,2.85
+actual,2029-06-04,3,Produce,Produce packaging,0.56
+actual,2029-06-04,3,Markets,Booth fee,20.0
+actual,2029-06-04,3,Markets,Mileage,28.0
+actual,2029-06-04,3,Produce,Produce packaging,1.14
+actual,2029-06-04,3,Markets,Booth fee,40.0
+actual,2029-06-04,3,Markets,Mileage,42.0
+actual,2029-06-11,3,Eggs,Egg cartons,3.34
+actual,2029-06-11,3,Eggs,Layer feed,21.4
+actual,2029-06-11,3,Rabbits,Rabbit feed,24.19
+actual,2029-06-11,3,Rabbits,Doe upkeep,4.31
+actual,2029-06-11,3,Rabbits,Processing supplies,1.96
+actual,2029-06-11,3,Rabbits,Processing supplies,3.23
+actual,2029-06-11,3,Produce,Produce packaging,1.1
+actual,2029-06-11,3,Markets,Booth fee,20.0
+actual,2029-06-11,3,Markets,Mileage,28.0
+actual,2029-06-11,3,Produce,Produce packaging,1.98
+actual,2029-06-11,3,Markets,Booth fee,40.0
+actual,2029-06-11,3,Markets,Mileage,42.0
+actual,2029-06-18,3,Eggs,Egg cartons,4.42
+actual,2029-06-18,3,Eggs,Layer feed,21.4
+actual,2029-06-18,3,Rabbits,Rabbit feed,24.19
+actual,2029-06-18,3,Rabbits,Doe upkeep,4.31
+actual,2029-06-18,3,Rabbits,Processing supplies,2.48
+actual,2029-06-18,3,Rabbits,Processing supplies,2.68
+actual,2029-06-18,3,Produce,Produce packaging,1.75
+actual,2029-06-18,3,Markets,Booth fee,20.0
+actual,2029-06-18,3,Markets,Mileage,28.0
+actual,2029-06-18,3,Produce,Produce packaging,4.03
+actual,2029-06-18,3,Markets,Booth fee,40.0
+actual,2029-06-18,3,Markets,Mileage,42.0
+actual,2029-06-25,3,Eggs,Egg cartons,3.89
+actual,2029-06-25,3,Eggs,Layer feed,21.4
+actual,2029-06-25,3,Rabbits,Rabbit feed,24.19
+actual,2029-06-25,3,Rabbits,Doe upkeep,4.31
+actual,2029-06-25,3,Rabbits,Processing supplies,1.99
+actual,2029-06-25,3,Rabbits,Processing supplies,3.63
+actual,2029-06-25,3,Produce,Produce packaging,3.35
+actual,2029-06-25,3,Markets,Booth fee,20.0
+actual,2029-06-25,3,Markets,Mileage,28.0
+actual,2029-06-25,3,Produce,Produce packaging,5.55
+actual,2029-06-25,3,Markets,Booth fee,40.0
+actual,2029-06-25,3,Markets,Mileage,42.0
+actual,2029-07-02,3,Eggs,Egg cartons,4.35
+actual,2029-07-02,3,Eggs,Layer feed,21.4
+actual,2029-07-02,3,Rabbits,Rabbit feed,24.19
+actual,2029-07-02,3,Rabbits,Doe upkeep,4.31
+actual,2029-07-02,3,Rabbits,Processing supplies,1.9
+actual,2029-07-02,3,Rabbits,Processing supplies,3.55
+actual,2029-07-02,3,Produce,Produce packaging,4.08
+actual,2029-07-02,3,Markets,Booth fee,20.0
+actual,2029-07-02,3,Markets,Mileage,28.0
+actual,2029-07-02,3,Produce,Produce packaging,7.47
+actual,2029-07-02,3,Markets,Booth fee,40.0
+actual,2029-07-02,3,Markets,Mileage,42.0
+actual,2029-07-09,3,Eggs,Egg cartons,4.43
+actual,2029-07-09,3,Eggs,Layer feed,21.4
+actual,2029-07-09,3,Rabbits,Rabbit feed,24.19
+actual,2029-07-09,3,Rabbits,Doe upkeep,4.31
+actual,2029-07-09,3,Rabbits,Processing supplies,2.45
+actual,2029-07-09,3,Rabbits,Processing supplies,3.56
+actual,2029-07-09,3,Produce,Produce packaging,5.49
+actual,2029-07-09,3,Markets,Booth fee,20.0
+actual,2029-07-09,3,Markets,Mileage,28.0
+actual,2029-07-09,3,Produce,Produce packaging,10.38
+actual,2029-07-09,3,Markets,Booth fee,40.0
+actual,2029-07-09,3,Markets,Mileage,42.0
+actual,2029-07-16,3,Eggs,Egg cartons,4.43
+actual,2029-07-16,3,Eggs,Layer feed,21.4
+actual,2029-07-16,3,Rabbits,Rabbit feed,24.19
+actual,2029-07-16,3,Rabbits,Doe upkeep,4.31
+actual,2029-07-16,3,Rabbits,Processing supplies,2.33
+actual,2029-07-16,3,Rabbits,Processing supplies,3.41
+actual,2029-07-16,3,Produce,Produce packaging,8.42
+actual,2029-07-16,3,Markets,Booth fee,20.0
+actual,2029-07-16,3,Markets,Mileage,28.0
+actual,2029-07-16,3,Produce,Produce packaging,10.68
+actual,2029-07-16,3,Markets,Booth fee,40.0
+actual,2029-07-16,3,Markets,Mileage,42.0
+actual,2029-07-23,3,Eggs,Egg cartons,3.43
+actual,2029-07-23,3,Eggs,Layer feed,21.4
+actual,2029-07-23,3,Rabbits,Rabbit feed,24.19
+actual,2029-07-23,3,Rabbits,Doe upkeep,4.31
+actual,2029-07-23,3,Rabbits,Processing supplies,2.38
+actual,2029-07-23,3,Rabbits,Processing supplies,4.21
+actual,2029-07-23,3,Produce,Produce packaging,7.92
+actual,2029-07-23,3,Markets,Booth fee,20.0
+actual,2029-07-23,3,Markets,Mileage,28.0
+actual,2029-07-23,3,Produce,Produce packaging,14.71
+actual,2029-07-23,3,Markets,Booth fee,40.0
+actual,2029-07-23,3,Markets,Mileage,42.0
+actual,2029-07-30,3,Eggs,Egg cartons,3.87
+actual,2029-07-30,3,Eggs,Layer feed,21.4
+actual,2029-07-30,3,Rabbits,Rabbit feed,24.19
+actual,2029-07-30,3,Rabbits,Doe upkeep,4.31
+actual,2029-07-30,3,Rabbits,Processing supplies,2.64
+actual,2029-07-30,3,Rabbits,Processing supplies,3.73
+actual,2029-07-30,3,Produce,Produce packaging,8.23
+actual,2029-07-30,3,Markets,Booth fee,20.0
+actual,2029-07-30,3,Markets,Mileage,28.0
+actual,2029-07-30,3,Produce,Produce packaging,17.47
+actual,2029-07-30,3,Markets,Booth fee,40.0
+actual,2029-07-30,3,Markets,Mileage,42.0
+actual,2029-08-06,3,Eggs,Egg cartons,3.93
+actual,2029-08-06,3,Eggs,Layer feed,21.4
+actual,2029-08-06,3,Rabbits,Rabbit feed,24.19
+actual,2029-08-06,3,Rabbits,Doe upkeep,4.31
+actual,2029-08-06,3,Rabbits,Processing supplies,2.2
+actual,2029-08-06,3,Rabbits,Processing supplies,3.28
+actual,2029-08-06,3,Produce,Produce packaging,9.06
+actual,2029-08-06,3,Markets,Booth fee,20.0
+actual,2029-08-06,3,Markets,Mileage,28.0
+actual,2029-08-06,3,Produce,Produce packaging,21.26
+actual,2029-08-06,3,Markets,Booth fee,40.0
+actual,2029-08-06,3,Markets,Mileage,42.0
+actual,2029-08-13,3,Eggs,Egg cartons,3.53
+actual,2029-08-13,3,Eggs,Layer feed,21.4
+actual,2029-08-13,3,Rabbits,Rabbit feed,24.19
+actual,2029-08-13,3,Rabbits,Doe upkeep,4.31
+actual,2029-08-13,3,Rabbits,Processing supplies,2.17
+actual,2029-08-13,3,Rabbits,Processing supplies,4.57
+actual,2029-08-13,3,Produce,Produce packaging,9.73
+actual,2029-08-13,3,Markets,Booth fee,20.0
+actual,2029-08-13,3,Markets,Mileage,28.0
+actual,2029-08-13,3,Produce,Produce packaging,20.36
+actual,2029-08-13,3,Markets,Booth fee,40.0
+actual,2029-08-13,3,Markets,Mileage,42.0
+actual,2029-08-20,3,Eggs,Egg cartons,3.98
+actual,2029-08-20,3,Eggs,Layer feed,21.4
+actual,2029-08-20,3,Rabbits,Rabbit feed,24.19
+actual,2029-08-20,3,Rabbits,Doe upkeep,4.31
+actual,2029-08-20,3,Rabbits,Processing supplies,2.04
+actual,2029-08-20,3,Rabbits,Processing supplies,4.26
+actual,2029-08-20,3,Produce,Produce packaging,14.4
+actual,2029-08-20,3,Markets,Booth fee,20.0
+actual,2029-08-20,3,Markets,Mileage,28.0
+actual,2029-08-20,3,Produce,Produce packaging,22.27
+actual,2029-08-20,3,Markets,Booth fee,40.0
+actual,2029-08-20,3,Markets,Mileage,42.0
+actual,2029-08-27,3,Eggs,Egg cartons,3.74
+actual,2029-08-27,3,Eggs,Layer feed,21.4
+actual,2029-08-27,3,Rabbits,Rabbit feed,24.19
+actual,2029-08-27,3,Rabbits,Doe upkeep,4.31
+actual,2029-08-27,3,Rabbits,Processing supplies,2.52
+actual,2029-08-27,3,Rabbits,Processing supplies,3.38
+actual,2029-08-27,3,Produce,Produce packaging,9.53
+actual,2029-08-27,3,Markets,Booth fee,20.0
+actual,2029-08-27,3,Markets,Mileage,28.0
+actual,2029-08-27,3,Produce,Produce packaging,14.56
+actual,2029-08-27,3,Markets,Booth fee,40.0
+actual,2029-08-27,3,Markets,Mileage,42.0
+actual,2029-09-03,3,Eggs,Egg cartons,2.94
+actual,2029-09-03,3,Eggs,Layer feed,21.4
+actual,2029-09-03,3,Rabbits,Rabbit feed,24.19
+actual,2029-09-03,3,Rabbits,Doe upkeep,4.31
+actual,2029-09-03,3,Rabbits,Processing supplies,1.99
+actual,2029-09-03,3,Rabbits,Processing supplies,3.1
+actual,2029-09-03,3,Produce,Produce packaging,8.32
+actual,2029-09-03,3,Markets,Booth fee,20.0
+actual,2029-09-03,3,Markets,Mileage,28.0
+actual,2029-09-03,3,Produce,Produce packaging,17.82
+actual,2029-09-03,3,Markets,Booth fee,40.0
+actual,2029-09-03,3,Markets,Mileage,42.0
+actual,2029-09-10,3,Eggs,Egg cartons,2.94
+actual,2029-09-10,3,Eggs,Layer feed,21.4
+actual,2029-09-10,3,Rabbits,Rabbit feed,24.19
+actual,2029-09-10,3,Rabbits,Doe upkeep,4.31
+actual,2029-09-10,3,Rabbits,Processing supplies,2.23
+actual,2029-09-10,3,Rabbits,Processing supplies,3.44
+actual,2029-09-10,3,Produce,Produce packaging,6.45
+actual,2029-09-10,3,Markets,Booth fee,20.0
+actual,2029-09-10,3,Markets,Mileage,28.0
+actual,2029-09-10,3,Produce,Produce packaging,12.08
+actual,2029-09-10,3,Markets,Booth fee,40.0
+actual,2029-09-10,3,Markets,Mileage,42.0
+actual,2029-09-17,3,Eggs,Egg cartons,2.76
+actual,2029-09-17,3,Eggs,Layer feed,21.4
+actual,2029-09-17,3,Rabbits,Rabbit feed,24.19
+actual,2029-09-17,3,Rabbits,Doe upkeep,4.31
+actual,2029-09-17,3,Rabbits,Processing supplies,2.09
+actual,2029-09-17,3,Rabbits,Processing supplies,3.17
+actual,2029-09-17,3,Produce,Produce packaging,5.43
+actual,2029-09-17,3,Markets,Booth fee,20.0
+actual,2029-09-17,3,Markets,Mileage,28.0
+actual,2029-09-17,3,Produce,Produce packaging,11.4
+actual,2029-09-17,3,Markets,Booth fee,40.0
+actual,2029-09-17,3,Markets,Mileage,42.0
+actual,2029-09-24,3,Eggs,Egg cartons,2.42
+actual,2029-09-24,3,Eggs,Layer feed,21.4
+actual,2029-09-24,3,Rabbits,Rabbit feed,24.19
+actual,2029-09-24,3,Rabbits,Doe upkeep,4.31
+actual,2029-09-24,3,Rabbits,Processing supplies,2.11
+actual,2029-09-24,3,Rabbits,Processing supplies,4.17
+actual,2029-09-24,3,Produce,Produce packaging,5.37
+actual,2029-09-24,3,Markets,Booth fee,20.0
+actual,2029-09-24,3,Markets,Mileage,28.0
+actual,2029-09-24,3,Produce,Produce packaging,8.19
+actual,2029-09-24,3,Markets,Booth fee,40.0
+actual,2029-09-24,3,Markets,Mileage,42.0
+actual,2029-10-01,3,Eggs,Egg cartons,2.76
+actual,2029-10-01,3,Eggs,Layer feed,21.4
+actual,2029-10-01,3,Rabbits,Rabbit feed,24.19
+actual,2029-10-01,3,Rabbits,Doe upkeep,4.31
+actual,2029-10-01,3,Rabbits,Processing supplies,1.9
+actual,2029-10-01,3,Rabbits,Processing supplies,3.7
+actual,2029-10-01,3,Produce,Produce packaging,2.6
+actual,2029-10-01,3,Markets,Booth fee,20.0
+actual,2029-10-01,3,Markets,Mileage,28.0
+actual,2029-10-01,3,Produce,Produce packaging,4.82
+actual,2029-10-01,3,Markets,Booth fee,40.0
+actual,2029-10-01,3,Markets,Mileage,42.0
+actual,2029-10-08,3,Eggs,Egg cartons,2.06
+actual,2029-10-08,3,Eggs,Layer feed,21.4
+actual,2029-10-08,3,Rabbits,Rabbit feed,24.19
+actual,2029-10-08,3,Rabbits,Doe upkeep,4.31
+actual,2029-10-08,3,Rabbits,Processing supplies,2.22
+actual,2029-10-08,3,Rabbits,Processing supplies,4.45
+actual,2029-10-08,3,Produce,Produce packaging,1.78
+actual,2029-10-08,3,Markets,Booth fee,20.0
+actual,2029-10-08,3,Markets,Mileage,28.0
+actual,2029-10-08,3,Produce,Produce packaging,3.58
+actual,2029-10-08,3,Markets,Booth fee,40.0
+actual,2029-10-08,3,Markets,Mileage,42.0
+actual,2029-10-15,3,Eggs,Egg cartons,2.25
+actual,2029-10-15,3,Eggs,Layer feed,21.4
+actual,2029-10-15,3,Rabbits,Rabbit feed,24.19
+actual,2029-10-15,3,Rabbits,Doe upkeep,4.31
+actual,2029-10-15,3,Rabbits,Processing supplies,2.3
+actual,2029-10-15,3,Rabbits,Processing supplies,4.81
+actual,2029-10-15,3,Produce,Produce packaging,1.4
+actual,2029-10-15,3,Markets,Booth fee,20.0
+actual,2029-10-15,3,Markets,Mileage,28.0
+actual,2029-10-15,3,Produce,Produce packaging,2.33
+actual,2029-10-15,3,Markets,Booth fee,40.0
+actual,2029-10-15,3,Markets,Mileage,42.0
+actual,2029-10-22,3,Eggs,Egg cartons,2.37
+actual,2029-10-22,3,Eggs,Layer feed,21.4
+actual,2029-10-22,3,Rabbits,Rabbit feed,24.19
+actual,2029-10-22,3,Rabbits,Doe upkeep,4.31
+actual,2029-10-22,3,Rabbits,Processing supplies,2.13
+actual,2029-10-22,3,Rabbits,Processing supplies,3.55
+actual,2029-10-22,3,Produce,Produce packaging,0.68
+actual,2029-10-22,3,Markets,Booth fee,20.0
+actual,2029-10-22,3,Markets,Mileage,28.0
+actual,2029-10-22,3,Produce,Produce packaging,1.74
+actual,2029-10-22,3,Markets,Booth fee,40.0
+actual,2029-10-22,3,Markets,Mileage,42.0
+actual,2029-10-29,3,Eggs,Egg cartons,2.76
+actual,2029-10-29,3,Eggs,Layer feed,21.4
+actual,2029-10-29,3,Rabbits,Rabbit feed,24.19
+actual,2029-10-29,3,Rabbits,Doe upkeep,4.31
+actual,2029-10-29,3,Rabbits,Processing supplies,2.23
+actual,2029-10-29,3,Rabbits,Processing supplies,3.35
+actual,2029-10-29,3,Produce,Produce packaging,0.35
+actual,2029-10-29,3,Markets,Booth fee,20.0
+actual,2029-10-29,3,Markets,Mileage,28.0
+actual,2029-10-29,3,Produce,Produce packaging,0.74
+actual,2029-10-29,3,Markets,Booth fee,40.0
+actual,2029-10-29,3,Markets,Mileage,42.0
+actual,2029-11-05,3,Eggs,Egg cartons,1.79
+actual,2029-11-05,3,Eggs,Layer feed,21.4
+actual,2029-11-05,3,Rabbits,Doe upkeep,4.31
+actual,2029-11-05,3,Rabbits,Processing supplies,3.95
+actual,2029-11-12,3,Eggs,Egg cartons,2.09
+actual,2029-11-12,3,Eggs,Layer feed,21.4
+actual,2029-11-12,3,Rabbits,Doe upkeep,4.31
+actual,2029-11-12,3,Rabbits,Processing supplies,3.97
+actual,2029-11-19,3,Eggs,Egg cartons,1.4
+actual,2029-11-19,3,Eggs,Layer feed,21.4
+actual,2029-11-19,3,Rabbits,Doe upkeep,4.31
+actual,2029-11-19,3,Rabbits,Processing supplies,4.47
+actual,2029-11-26,3,Eggs,Egg cartons,2.09
+actual,2029-11-26,3,Eggs,Layer feed,21.4
+actual,2029-11-26,3,Rabbits,Doe upkeep,4.31
+actual,2029-11-26,3,Rabbits,Processing supplies,4.24
+actual,2029-12-03,3,Eggs,Egg cartons,1.7
+actual,2029-12-03,3,Eggs,Layer feed,21.4
+actual,2029-12-03,3,Rabbits,Doe upkeep,4.31
+actual,2029-12-03,3,Rabbits,Processing supplies,5.19
+actual,2029-12-10,3,Eggs,Egg cartons,1.55
+actual,2029-12-10,3,Eggs,Layer feed,21.4
+actual,2029-12-10,3,Rabbits,Doe upkeep,4.31
+actual,2029-12-10,3,Rabbits,Processing supplies,4.35
+actual,2029-12-17,3,Eggs,Egg cartons,1.86
+actual,2029-12-17,3,Eggs,Layer feed,21.4
+actual,2029-12-17,3,Rabbits,Doe upkeep,4.31
+actual,2029-12-17,3,Rabbits,Processing supplies,5.63
+actual,2029-12-24,3,Eggs,Egg cartons,2.22
+actual,2029-12-24,3,Eggs,Layer feed,21.4
+actual,2029-12-24,3,Rabbits,Doe upkeep,4.31
+actual,2029-12-24,3,Rabbits,Processing supplies,5.4
+actual,2029-12-31,3,Eggs,Egg cartons,1.84
+actual,2029-12-31,3,Eggs,Layer feed,21.4
+actual,2029-12-31,3,Rabbits,Doe upkeep,4.31
+actual,2029-12-31,3,Rabbits,Processing supplies,4.85
+actual,2029-01-01,3,Fixed,Insurance,600.0
+actual,2029-01-01,3,Fixed,Licenses and permits,300.0
+actual,2029-01-01,3,Fixed,Utilities,40.0
+actual,2029-02-01,3,Fixed,Utilities,40.0
+actual,2029-03-01,3,Fixed,Utilities,40.0
+actual,2029-04-01,3,Fixed,Utilities,40.0
+actual,2029-05-01,3,Fixed,Utilities,40.0
+actual,2029-06-01,3,Fixed,Utilities,40.0
+actual,2029-07-01,3,Fixed,Utilities,40.0
+actual,2029-08-01,3,Fixed,Utilities,40.0
+actual,2029-09-01,3,Fixed,Utilities,40.0
+actual,2029-10-01,3,Fixed,Utilities,40.0
+actual,2029-11-01,3,Fixed,Utilities,40.0
+actual,2029-12-01,3,Fixed,Utilities,40.0
+actual,2027-03-01,1,Capex,Covered run (20x10 ft metal kit),1600.0
+actual,2027-03-01,1,Capex,Coop materials (attached to run),600.0
+actual,2027-03-01,1,Capex,Rabbit hutches (elevated along run walls),900.0
+actual,2027-04-01,1,Capex,Starter hens and breeder rabbits,700.0
+actual,2027-03-01,1,Capex,Perimeter and garden fencing,2500.0
+actual,2027-04-01,1,Capex,Drip irrigation and hoses,1800.0
+actual,2027-03-01,1,Capex,Hand tools (broadfork wheel hoe etc.),900.0
+actual,2027-04-01,1,Capex,Orchard trees and planting,1200.0
+actual,2027-05-01,1,Capex,Chest freezer and market coolers,1100.0
+actual,2027-05-01,1,Capex,Canopy tables scale and signage,1200.0
+actual,2028-04-01,2,Capex,Beehives and nucs,900.0
+actual,2027-03-01,1,Capex,Solar array (farm share),8000.0
+actual,2027-03-01,1,Capex,Truck (farm share),2500.0

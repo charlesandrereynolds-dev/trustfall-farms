@@ -1,0 +1,70 @@
+key,value,unit,category,basis,source
+# --- Eggs ---,,,,,
+hens_y1,15,hens,eggs,Owner plan,Homestead plan (12-15 hens)
+hens_y2,25,hens,eggs,Est.,Flock grows from own hatching
+hens_y3,30,hens,eggs,Est.,Flock grows from own hatching
+lay_rate_peak,0.75,eggs per hen per day,eggs,Est.,Typical heritage-breed summer lay rate
+lay_rate_winter,0.35,eggs per hen per day,eggs,Est.,Shorter days cut laying
+egg_price,7.00,$ per dozen,eggs,Anchor,Farmers market pasture-raised range $6-10 (Find Homegrown 2026; FACT)
+egg_carton_cost,0.35,$ per dozen,eggs,Anchor,Carton cost $0.17-0.50 (Find Homegrown 2026)
+layer_feed_lb_per_hen_day,0.25,lb,eggs,Est.,Standard layer intake
+layer_feed_price,0.52,$ per lb,eggs,Est.,About $26 per 50 lb bag
+# --- Rabbits ---,,,,,
+does,8,breeding does,rabbits,Owner plan,Homestead plan (8-10 breeders)
+fryers_y1,70,fryers,rabbits,Owner plan,Homestead plan (~70 grow-outs year 1)
+fryers_y2,140,fryers,rabbits,Est.,More litters per doe once established
+fryers_y3,180,fryers,rabbits,Est.,Mature rabbitry
+dressed_lb_per_fryer,2.5,lb,rabbits,Est.,Typical Californian fryer dressed weight
+rabbit_price,12.00,$ per lb dressed,rabbits,Anchor + Est.,SARE FNC12-850 retail $6.99/lb (2013) plus direct-market premium today
+rabbit_feed_per_fryer,6.00,$ per fryer,rabbits,Anchor + Est.,SARE FNC12-850 $4.25 per fryer adjusted for feed inflation
+doe_upkeep,40,$ per doe per year,rabbits,Est.,Breeder feed and care
+processing_supplies,1.00,$ per fryer,rabbits,Est.,On-farm processing bags and supplies
+# --- Market garden ---,,,,,
+bed_feet_y1,2200,bed-feet,produce,Est.,About 1/4 acre in 30-inch beds
+bed_feet_y2,2900,bed-feet,produce,Est.,Expand to about 1/3 acre
+bed_feet_y3,2900,bed-feet,produce,Est.,Hold size; improve yield
+rev_per_bed_ft_y1,3.00,$ per bed-foot per season,produce,Est.,Conservative market-garden rule of thumb for a ~110-day season
+rev_per_bed_ft_y2,3.50,$ per bed-foot per season,produce,Est.,Better crop mix after year 1
+rev_per_bed_ft_y3,4.00,$ per bed-foot per season,produce,Est.,Mature soil and succession planting
+seed_amendment_cost,0.40,$ per bed-foot,produce,Est.,Seeds compost and amendments
+produce_packaging_pct,0.03,share of produce sales,produce,Est.,Bags and labels
+# --- Other enterprises ---,,,,,
+cottage_share,0.05,share of market sales,cottage,Est.,Jams and dried goods
+hives_y2,2,hives,honey,Owner plan,Bees planned after year 1
+hives_y3,4,hives,honey,Est.,Split hives
+honey_lb_per_hive,30,lb,honey,Est.,Conservative first-years yield
+honey_price,14.00,$ per lb,honey,Est.,Local raw honey
+orchard_rev_y3,600,$ per year,orchard,Est.,First small fruit harvest
+# --- Markets ---,,,,,
+season_start_month,6,month,markets,Anchor,Last frost ~June 12 at farm elevation
+season_end_month,10,month,markets,Anchor,First fall frost ~early October
+yreka_booth_fee,20,$ per market day,markets,Est.,Small-town evening market
+rv_booth_fee,40,$ per market day,markets,Est.,RVGCM fee not published online
+yreka_round_trip_mi,40,miles,markets,Est.,Farm to Yreka and back
+rv_round_trip_mi,60,miles,markets,Est.,Farm to Ashland/Medford and back
+mileage_rate,0.70,$ per mile,markets,Est.,IRS-style standard mileage rate
+# --- Permaculture loop ---,,,,,
+feed_garden_offset_y1,0.00,share of purchased feed replaced,permaculture,Owner plan,Feed garden not producing yet
+feed_garden_offset_y2,0.15,share of purchased feed replaced,permaculture,Est.,Comfrey sunflowers amaranth kale coming online
+feed_garden_offset_y3,0.30,share of purchased feed replaced,permaculture,Est.,Mature feed garden
+# --- Fixed costs and funding ---,,,,,
+insurance_annual,600,$ per year,fixed,Est.,Farm liability policy
+permits_annual,300,$ per year,fixed,Est.,Licenses and permits (detailed in Compliance tile)
+utilities_monthly,40,$ per month,fixed,Est.,Off-grid solar keeps this low
+loan_amount,0,$,funding,Owner choice,Startup fully funded from owner savings (no debt)
+loan_rate,0.05,annual rate,funding,Est.,FSA microloan rates vary; check current rate
+loan_years,7,years,funding,Est.,Typical microloan term
+owner_wage_target,20,$ per hour,labor,Owner choice,Year 3 question: can the farm pay its owner?
+# --- Owner labor (hours) ---,,,,,
+hours_eggs_per_day,0.5,hours per day,labor,Est.,Feeding collecting washing
+hours_rabbits_per_day,1.0,hours per day,labor,Est.,Feeding cleaning breeding processing
+hours_garden_per_week,15,hours per week in season,labor,Est.,Planting weeding harvest
+hours_garden_offseason_per_week,3,hours per week off season,labor,Est.,Planning and bed prep
+hours_per_market_day,6,hours,labor,Est.,Loading travel selling and unloading
+# --- Shared assets (farm carries its business-use share) ---,,,,,
+solar_cost,20000,$,shared_assets,Owner plan,Solar array purchase
+solar_farm_share,0.40,share,shared_assets,Pending owner input,Share of solar powering farm operations
+truck_cost,5000,$,shared_assets,Owner plan,Older used truck for weekly town and market runs
+truck_farm_share,0.50,share,shared_assets,Pending owner input,Business-use share (hauling and market runs)
+hours_per_hive_per_month,2,hours per hive per month (Apr-Oct),labor,Est.,Inspections feeding harvest
+orchard_hours_per_year,40,hours per year,labor,Est.,Pruning watering and care from planting onward
