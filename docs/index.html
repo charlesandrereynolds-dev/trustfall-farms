@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trustfall Farms</title>
+<meta name="description" content="An analytics capstone: a fictional small farm taken from business idea to business intelligence, shown as a map of analytics workers.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f1e7; --panel:#fffdf8; --ink:#2a2620; --muted:#6f675b; --line:#d9cfbd;
+  --hub:#5b4b8a; --terrain-a:#e4dcc6; --terrain-b:#d8e2c8; --terrain-c:#cfe0e3;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#1b1916; --panel:#24211d; --ink:#efe8db; --muted:#a89f90; --line:#3a352d;
+    --hub:#9d8fd6; --terrain-a:#2c2923; --terrain-b:#26302a; --terrain-c:#243033;
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,sans-serif}
+header{max-width:1100px;margin:0 auto;padding:32px 16px 8px}
+h1{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:36px;margin:0 0 4px}
+.tagline{color:var(--muted);max-width:720px;margin:0}
+main{max-width:1100px;margin:0 auto;padding:8px 16px 40px;display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start}
+@media (max-width:860px){main{grid-template-columns:1fr}}
+.board{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:12px}
+svg{width:100%;height:auto;display:block}
+.hex{cursor:pointer;transition:opacity .3s}
+.hex:focus{outline:none}
+.hex:focus-visible polygon.tile{stroke-width:3}
+.hex.idle{opacity:.45}
+.hex.selected polygon.tile{stroke-width:3}
+.label{font:500 13px Inter,sans-serif;fill:var(--ink)}
+.sub{font:400 11px Inter,sans-serif;fill:var(--muted)}
+.flow{stroke-dasharray:4 6;fill:none;stroke-width:2;opacity:0}
+.flow.on{opacity:.8;animation:flow 1s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.pulse{fill:none;stroke-width:2;opacity:0}
+.hex.working .pulse{animation:pulse 1.8s ease-out infinite}
+@keyframes pulse{0%{opacity:.7;r:16}100%{opacity:0;r:30}}
+@media (prefers-reduced-motion:reduce){.flow.on,.hex.working .pulse{animation:none}}
+.controls{display:flex;align-items:center;gap:12px;padding:8px 8px 4px;flex-wrap:wrap}
+.controls input{flex:1;min-width:160px;accent-color:var(--hub)}
+button{font:500 14px Inter,sans-serif;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:8px;padding:6px 12px;cursor:pointer}
+.stage-name{font-weight:500;min-width:150px}
+.ticks{display:flex;justify-content:space-between;padding:0 8px;color:var(--muted);font-size:11px}
+aside{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px}
+aside h2{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:22px;margin:0 0 4px}
+.role{color:var(--muted);margin:0 0 12px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+.chip{font-size:12px;border:1px solid var(--line);border-radius:999px;padding:2px 10px}
+ol.timeline{list-style:none;padding:0;margin:0}
+ol.timeline li{padding:8px 0 8px 22px;border-top:1px solid var(--line);position:relative;font-size:14px}
+ol.timeline li::before{content:"";position:absolute;left:4px;top:15px;width:8px;height:8px;border-radius:50%;border:1.5px solid var(--muted)}
+ol.timeline li.done::before{background:var(--muted)}
+ol.timeline li.now{font-weight:500}
+ol.timeline li.now::before{background:var(--accent,var(--hub));border-color:var(--accent,var(--hub))}
+ol.timeline li.none{color:var(--muted)}
+.stg{display:block;font-size:11px;color:var(--muted);font-weight:400}
+.deliverable{margin-top:16px;padding:12px;border:1px dashed var(--line);border-radius:10px;color:var(--muted);font-size:14px}
+footer{max-width:1100px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font-size:13px}
+</style>
+</head>
+<body>
+<header>
+  <h1 id="farm-name">Trustfall Farms</h1>
+  <p class="tagline" id="tagline"></p>
+</header>
+<main>
+  <section class="board" aria-label="Farm analytics map">
+    <svg id="map" viewBox="-370 -335 740 670" role="img" aria-label="Hex map of analytics workers around an output hub"></svg>
+    <div class="controls">
+      <button id="play" type="button">Play</button>
+      <span class="stage-name" id="stage-name"></span>
+      <input id="stage" type="range" min="0" max="5" value="0" aria-label="Business stage">
+    </div>
+  </section>
+  <aside id="panel" aria-live="polite"></aside>
+</main>
+<footer id="disclaimer"></footer>
+
+<script src="data.js"></script>
+<script>
+(function(){
+  const D = window.TRUSTFALL;
+  const NS = "http://www.w3.org/2000/svg";
+  const R = 78, GAP = 6;               // hex radius and spacing
+  const svg = document.getElementById("map");
+  let stage = 0, selected = "hub", timer = null;
+
+  const el = (tag, attrs, parent) => {
+    const e = document.createElementNS(NS, tag);
+    for (const k in attrs) e.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(e);
+    return e;
+  };
+  const toPx = (q, r) => {
+    const s = R + GAP / 2;
+    return { x: s * Math.sqrt(3) * (q + r / 2), y: s * 1.5 * r };
+  };
+  const hexPoints = (cx, cy, rad) => Array.from({length: 6}, (_, i) => {
+    const a = Math.PI / 180 * (60 * i - 30);
+    return (cx + rad * Math.cos(a)).toFixed(1) + "," + (cy + rad * Math.sin(a)).toFixed(1);
+  }).join(" ");
+
+  // Decorative terrain ring (radius 2)
+  const terrain = ["--terrain-a", "--terrain-b", "--terrain-c"];
+  const dirs = [[1,0],[1,-1],[0,-1],[-1,0],[-1,1],[0,1]];
+  let q = -2, r = 2, n = 0;
+  const gTerrain = el("g", {}, svg);
+  for (let side = 0; side < 6; side++) {
+    for (let step = 0; step < 2; step++) {
+      const p = toPx(q, r);
+      el("polygon", {points: hexPoints(p.x, p.y, R), fill: `var(${terrain[n++ % 3]})`}, gTerrain);
+      q += dirs[side][0]; r += dirs[side][1];
+    }
+  }
+
+  // Flow lines from each worker to the hub
+  const gFlow = el("g", {}, svg);
+  const flows = {};
+  D.workers.forEach(w => {
+    const p = toPx(w.q, w.r);
+    flows[w.id] = el("line", {x1: p.x * .62, y1: p.y * .62, x2: p.x * .40, y2: p.y * .40,
+      stroke: w.color, class: "flow"}, gFlow);
+  });
+
+  // Avatar: head + shoulders, hat in worker color
+  function avatar(g, cx, cy, color) {
+    el("circle", {cx, cy: cy - 28, r: 16, class: "pulse", stroke: color}, g);
+    el("path", {d: `M${cx-14},${cy-12} a14,12 0 0 1 28,0 z`, fill: color, opacity: .85}, g);
+    el("circle", {cx, cy: cy - 30, r: 8, fill: "#e9c9a5"}, g);
+    el("path", {d: `M${cx-11},${cy-33} h22 l-4,-7 h-14 z`, fill: color}, g);
+  }
+
+  function tile(id, name, q, r, color, isHub) {
+    const p = toPx(q, r);
+    const g = el("g", {class: "hex", tabindex: 0, role: "button", "data-id": id, "aria-label": name}, svg);
+    el("polygon", {class: "tile", points: hexPoints(p.x, p.y, R - 2),
+      fill: color, "fill-opacity": isHub ? .22 : .14, stroke: color, "stroke-width": 1.2}, g);
+    avatar(g, p.x, p.y + 4, color);
+    const t = el("text", {x: p.x, y: p.y + 24, "text-anchor": "middle", class: "label"}, g);
+    t.textContent = name;
+    const s = el("text", {x: p.x, y: p.y + 41, "text-anchor": "middle", class: "sub"}, g);
+    g.addEventListener("click", () => select(id));
+    g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); select(id); } });
+    return {g, s};
+  }
+
+  const tiles = {};
+  tiles.hub = tile("hub", D.hub.name, 0, 0, getComputedStyle(document.documentElement).getPropertyValue("--hub").trim() || "#5b4b8a", true);
+  D.workers.forEach(w => tiles[w.id] = tile(w.id, w.name, w.q, w.r, w.color, false));
+
+  function select(id) { selected = id; render(); }
+
+  function render() {
+    document.getElementById("stage-name").textContent = `${stage + 1}. ${D.stages[stage]}`;
+    D.workers.forEach(w => {
+      const working = !!w.tasks[stage];
+      const t = tiles[w.id];
+      t.g.classList.toggle("working", working);
+      t.g.classList.toggle("idle", !working);
+      t.s.textContent = working ? "Working" : "Idle";
+      flows[w.id].classList.toggle("on", working);
+    });
+    tiles.hub.s.textContent = D.hub.short[stage];
+    Object.entries(tiles).forEach(([id, t]) => t.g.classList.toggle("selected", id === selected));
+    renderPanel();
+  }
+
+  function renderPanel() {
+    const panel = document.getElementById("panel");
+    if (selected === "hub") {
+      panel.style.setProperty("--accent", "var(--hub)");
+      panel.innerHTML = `<h2>${D.hub.name}</h2><p class="role">${D.hub.role}</p>
+        <ol class="timeline">${D.hub.outputs.map((o, i) => item(D.stages[i], o, i)).join("")}</ol>
+        <div class="deliverable">Stage ${stage + 1} deliverable: ${D.hub.outputs[stage]}. Dashboard coming online this week.</div>`;
+      return;
+    }
+    const w = D.workers.find(x => x.id === selected);
+    panel.style.setProperty("--accent", w.color);
+    panel.innerHTML = `<h2>${w.name}</h2><p class="role">${w.role}</p>
+      <div class="chips">${w.skills.map(s => `<span class="chip">${s}</span>`).join("")}</div>
+      <ol class="timeline">${w.tasks.map((t, i) => item(D.stages[i], t, i)).join("")}</ol>
+      <div class="deliverable">${w.tasks[stage] ? `Now: ${w.tasks[stage]}. Chart, findings and code coming online this week.` : `Not active in the ${D.stages[stage].toLowerCase()} stage.`}</div>`;
+  }
+
+  function item(stageName, text, i) {
+    const cls = !text ? "none" : i < stage ? "done" : i === stage ? "now" : "";
+    return `<li class="${cls}"><span class="stg">${stageName}</span>${text || "Not active"}</li>`;
+  }
+
+  // Controls
+  const slider = document.getElementById("stage");
+  slider.addEventListener("input", () => { stage = +slider.value; stop(); render(); });
+  const playBtn = document.getElementById("play");
+  function stop() { clearInterval(timer); timer = null; playBtn.textContent = "Play"; }
+  playBtn.addEventListener("click", () => {
+    if (timer) return stop();
+    playBtn.textContent = "Pause";
+    timer = setInterval(() => {
+      stage = (stage + 1) % D.stages.length; slider.value = stage; render();
+    }, 2500);
+  });
+
+  document.getElementById("farm-name").textContent = D.farm.name;
+  document.getElementById("tagline").textContent = D.farm.tagline;
+  document.getElementById("disclaimer").textContent = D.farm.disclaimer;
+  render();
+})();
+</script>
+</body>
+</html>
